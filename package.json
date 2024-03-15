@@ -11,7 +11,7 @@
     "dev:site": "env ELEVENTY_ENV=development npx @11ty/eleventy --serve",
     "build:assets": "npx webpack --mode production",
     "build:site": "env ELEVENTY_ENV=production npx @11ty/eleventy",
-    "clean": "rm -rf ./public"
+    "clean": "rm -rf ./_site"
   },
   "keywords": [],
   "author": "",
