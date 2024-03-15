@@ -12,7 +12,7 @@ const isProd = process.env.ELEVENTY_ENV === "production";
 
 const manifestPath = path.resolve(
   __dirname,
-  "public",
+  "_site",
   "assets",
   "manifest.json",
 );
