@@ -50,7 +50,7 @@ module.exports = function (eleventyConfig) {
 
   eleventyConfig.addShortcode("bundledjs", function () {
     return manifest["main.js"]
-      ? `<script src="${manifest["main.js"]}"</script>`
+      ? `<script src="${manifest["main.js"]}"></script>`
       : "";
   });
 
@@ -118,15 +118,31 @@ module.exports = function (eleventyConfig) {
       });
   });
 
-  eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
-    if (outputPath && outputPath.endsWith(".html") && isProd) {
-      return htmlmin.minify(content, {
+  // eleventyConfig.addTransform("htmlmin", function (content, outputPath) {
+  //   if (outputPath && outputPath.endsWith(".html") && isProd) {
+  //     return htmlmin.minify(content, {
+  //       removeComments: true,
+  //       collapseWhitespace: true,
+  //       useShortDoctype: true,
+  //     });
+  //   }
+
+  //   return content;
+  // });
+
+  eleventyConfig.addTransform("htmlmin", function (content) {
+    if (
+      this.page.outputPath &&
+      this.page.outputPath.endsWith(".html") &&
+      isProd
+    ) {
+      let minified = htmlmin.minify(content, {
+        useShortDoctype: true,
         removeComments: true,
         collapseWhitespace: true,
-        useShortDoctype: true,
       });
+      return minified;
     }
-
     return content;
   });
 
