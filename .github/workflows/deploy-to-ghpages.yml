@@ -42,4 +42,5 @@ jobs:
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
+          cname: shanewrogers.lol
           publish_dir: ./_site
