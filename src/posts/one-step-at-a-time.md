@@ -9,18 +9,16 @@ permalink: posts/{{ title | slug }}/
 
 Not that this will ever actually be completed, but here are some things that I might want to consider doing.
 
-- I need to get an emacs capture template made for new posts.
-- Maybe get an emacs capture template for normal pages.
-- Pull in stuff from my other sources:
-
-    - Pixelfed
-    - Targaryen House Mastodon
-    - Raindrop.io
-    - Last.fm / audioscrobbling
-    - Currently reading
-    - Finished reading
-
-- Linkroll and stuff
+    - I need to get an emacs capture template made for new posts.
+    - Maybe get an emacs capture template for normal pages.
+    - Pull in stuff from my other sources:
+        + Pixelfed
+        + Targaryen House Mastodon
+        + Raindrop.io
+        + Last.fm / audioscrobbling
+        + Currently reading
+        + Finished reading
+    - Linkroll and stuff
 
 As much as I'm not a fan of emacs literate config, might this be a decent time to convert the ol' doom config over to a literate config and put it here? I dunno...
 
