@@ -1,11 +1,11 @@
 {
   "name": "My Corner of the Internet",
   "description": "This is just my little space online for me to put stuff.",
-  "url": "https://eleventyduo.netlify.app",
+  "url": "https://shanewrogers.lol",
   "author": {
     "name": "Shane Rogers",
-    "email": "swrogers@gmail.com",
-    "twitterHandle": "author_handle"
+    "email": "swrogers@omg.lol"
+    // "twitterHandle": "author_handle"
   },
   "defaultSocialImage": "/images/default-social-image.png",
   "headerLinks": [
@@ -22,18 +22,18 @@
   ],
   "socialLinks": [
     {
-      "text": "Instagram",
-      "url": "https://instagram.com/",
+      "text": "Mastodon",
+      "url": "https://social.targaryen.house/@swrogers/",
       "external": true
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/yinkakun/eleventy-duo",
+      "url": "https://github.com/swrogers",
       "external": true
     },
     {
-      "text": "Twitter",
-      "url": "https://twitter.com/",
+      "text": "Pixelfed",
+      "url": "https://pixelfed.social/swrogers/",
       "external": true
     }
   ],
