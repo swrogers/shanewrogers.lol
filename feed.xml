@@ -5,7 +5,7 @@
   <link href="https://shanewrogers.lol/feed.xml" rel="self"/>
   <link href="https://shanewrogers.lol/"/>
   
-    <updated>2024-03-16T04:19:31Z</updated>
+    <updated>2024-03-16T22:01:14Z</updated>
   
   <id>https://shanewrogers.lol</id>
   <author>
@@ -111,6 +111,41 @@
       <h1>Trying out GitJournal</h1>
 <p>There is always this desire to want to be able to take quick notes, or jot something down while on the go. Perhaps blog something when nowhere near a laptop or keyboard.</p>
 <p>Maybe this little application can be an answer?</p>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>One Step At A Time</title>
+      <link href="https://shanewrogers.lol/posts/one-step-at-a-time/"/>
+      <updated>2024-03-16T22:01:14Z</updated>
+      <id>https://shanewrogers.lol/posts/one-step-at-a-time/</id>
+      <content type="html">
+          <![CDATA[
+      <h1>Things that still need to be done</h1>
+<p>Not that this will ever actually be completed, but here are some things that I might want to consider doing.</p>
+<ul>
+<li>I need to get an emacs capture template made for new posts.</li>
+<li>Maybe get an emacs capture template for normal pages.</li>
+<li>Pull in stuff from my other sources:
+<ul>
+<li>Pixelfed</li>
+<li>Targaryen House Mastodon</li>
+<li>Raindrop.io</li>
+<li>Last.fm / audioscrobbling</li>
+<li>Currently reading</li>
+<li>Finished reading</li>
+</ul>
+</li>
+<li>Linkroll and stuff</li>
+</ul>
+<p>As much as I'm not a fan of emacs literate config, might this be a decent time to convert the ol' doom config over to a literate config and put it here? I dunno...</p>
+<p>I believe the theme I'm using already has the Open Graph stuff, but I need to double check that.</p>
+<p>I might want to look into the Echo Feed stuff.</p>
+<p>I don't know if it would be possible to set up the indieweb login stuff, but maybe.</p>
+<p>I do need to make sure that I always - <em>ALWAYS</em> - remember to =git pull= before pushing...seeing as how I'm also experimenting with blogging from the GitJournal app.</p>
 
     ]]>
       </content>
