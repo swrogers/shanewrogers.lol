@@ -127,9 +127,14 @@
       <h1>Things that still need to be done</h1>
 <p>Not that this will ever actually be completed, but here are some things that I might want to consider doing.</p>
 <ul>
-<li>I need to get an emacs capture template made for new posts.</li>
-<li>Maybe get an emacs capture template for normal pages.</li>
-<li>Pull in stuff from my other sources:
+<li>
+<p>I need to get an emacs capture template made for new posts.</p>
+</li>
+<li>
+<p>Maybe get an emacs capture template for normal pages.</p>
+</li>
+<li>
+<p>Pull in stuff from my other sources:</p>
 <ul>
 <li>Pixelfed</li>
 <li>Targaryen House Mastodon</li>
@@ -139,7 +144,9 @@
 <li>Finished reading</li>
 </ul>
 </li>
-<li>Linkroll and stuff</li>
+<li>
+<p>Linkroll and stuff</p>
+</li>
 </ul>
 <p>As much as I'm not a fan of emacs literate config, might this be a decent time to convert the ol' doom config over to a literate config and put it here? I dunno...</p>
 <p>I believe the theme I'm using already has the Open Graph stuff, but I need to double check that.</p>
