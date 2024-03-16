@@ -3,7 +3,7 @@
   
     
       <url>
-        <loc>https://eleventyduo.netlify.app/posts/a-simple-post/</loc>
+        <loc>https://shanewrogers.lol/posts/a-simple-post/</loc>
         
           <lastmod>2020-10-18T00:00:00.000Z</lastmod>
         
@@ -14,7 +14,7 @@
   
     
       <url>
-        <loc>https://eleventyduo.netlify.app/posts/a-post-with-mermaid-charts/</loc>
+        <loc>https://shanewrogers.lol/posts/a-post-with-mermaid-charts/</loc>
         
           <lastmod>2021-03-22T00:00:00.000Z</lastmod>
         
@@ -25,7 +25,7 @@
   
     
       <url>
-        <loc>https://eleventyduo.netlify.app/posts/a-post-containing-code-block-with-very-long-lines-of-code/</loc>
+        <loc>https://shanewrogers.lol/posts/a-post-containing-code-block-with-very-long-lines-of-code/</loc>
         
           <lastmod>2021-06-28T00:00:00.000Z</lastmod>
         
@@ -36,20 +36,9 @@
   
     
       <url>
-        <loc>https://eleventyduo.netlify.app/about/</loc>
+        <loc>https://shanewrogers.lol/about/</loc>
         
-          <lastmod>2024-03-15T23:31:11.276Z</lastmod>
-        
-        
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>https://eleventyduo.netlify.app/blog/</loc>
-        
-          <lastmod>2024-03-15T23:31:11.276Z</lastmod>
+          <lastmod>2024-03-16T01:09:50.069Z</lastmod>
         
         
         
@@ -58,20 +47,9 @@
   
     
       <url>
-        <loc>https://eleventyduo.netlify.app/</loc>
+        <loc>https://shanewrogers.lol/blog/</loc>
         
-          <lastmod>2024-03-15T23:31:11.284Z</lastmod>
-        
-        
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>https://eleventyduo.netlify.app/robots.txt</loc>
-        
-          <lastmod>2024-03-15T23:31:11.284Z</lastmod>
+          <lastmod>2024-03-16T01:09:50.069Z</lastmod>
         
         
         
@@ -80,20 +58,9 @@
   
     
       <url>
-        <loc>https://eleventyduo.netlify.app/tags/demo-content/</loc>
+        <loc>https://shanewrogers.lol/</loc>
         
-          <lastmod>2024-03-15T23:31:11.284Z</lastmod>
-        
-        
-        
-      </url>
-    
-  
-    
-      <url>
-        <loc>https://eleventyduo.netlify.app/tags/code/</loc>
-        
-          <lastmod>2024-03-15T23:31:11.284Z</lastmod>
+          <lastmod>2024-03-16T01:09:50.073Z</lastmod>
         
         
         
@@ -102,9 +69,9 @@
   
     
       <url>
-        <loc>https://eleventyduo.netlify.app/tags/mermaid/</loc>
+        <loc>https://shanewrogers.lol/robots.txt</loc>
         
-          <lastmod>2024-03-15T23:31:11.284Z</lastmod>
+          <lastmod>2024-03-16T01:09:50.077Z</lastmod>
         
         
         
@@ -113,9 +80,42 @@
   
     
       <url>
-        <loc>https://eleventyduo.netlify.app/tags/simple-post/</loc>
+        <loc>https://shanewrogers.lol/tags/demo-content/</loc>
         
-          <lastmod>2024-03-15T23:31:11.284Z</lastmod>
+          <lastmod>2024-03-16T01:09:50.077Z</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://shanewrogers.lol/tags/code/</loc>
+        
+          <lastmod>2024-03-16T01:09:50.077Z</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://shanewrogers.lol/tags/mermaid/</loc>
+        
+          <lastmod>2024-03-16T01:09:50.077Z</lastmod>
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>https://shanewrogers.lol/tags/simple-post/</loc>
+        
+          <lastmod>2024-03-16T01:09:50.077Z</lastmod>
         
         
         
