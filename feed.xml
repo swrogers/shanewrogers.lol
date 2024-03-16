@@ -126,21 +126,26 @@
           <![CDATA[
       <h1>Things that still need to be done</h1>
 <p>Not that this will ever actually be completed, but here are some things that I might want to consider doing.</p>
-<p>- I need to get an emacs capture template made for new posts.
-- Maybe get an emacs capture template for normal pages.
-- Pull in stuff from my other sources:
-+ Pixelfed
-+ Targaryen House Mastodon
-+ Raindrop.io
-+ Last.fm / audioscrobbling
-+ Currently reading
-+ Finished reading
-- Linkroll and stuff</p>
+<ol>
+<li>I need to get an emacs capture template made for new posts.</li>
+<li>Maybe get an emacs capture template for normal pages.</li>
+<li>Pull in stuff from my other sources:
+<ul>
+<li>Pixelfed</li>
+<li>Targaryen House Mastodon</li>
+<li>Raindrop.io</li>
+<li>Last.fm / audioscrobbling</li>
+<li>Currently reading</li>
+<li>Finished reading</li>
+</ul>
+</li>
+<li>Linkroll and stuff</li>
+</ol>
 <p>As much as I'm not a fan of emacs literate config, might this be a decent time to convert the ol' doom config over to a literate config and put it here? I dunno...</p>
 <p>I believe the theme I'm using already has the Open Graph stuff, but I need to double check that.</p>
 <p>I might want to look into the Echo Feed stuff.</p>
 <p>I don't know if it would be possible to set up the indieweb login stuff, but maybe.</p>
-<p>I do need to make sure that I always - <em>ALWAYS</em> - remember to =git pull= before pushing...seeing as how I'm also experimenting with blogging from the GitJournal app.</p>
+<p>I do need to make sure that I always - <em>ALWAYS</em> - remember to <code>git pull</code> before pushing...seeing as how I'm also experimenting with blogging from the GitJournal app.</p>
 
     ]]>
       </content>
