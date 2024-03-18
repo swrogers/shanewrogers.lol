@@ -5,7 +5,7 @@
   <link href="https://shanewrogers.lol/feed.xml" rel="self"/>
   <link href="https://shanewrogers.lol/"/>
   
-    <updated>2024-03-18T16:04:54Z</updated>
+    <updated>2024-03-18T17:35:37Z</updated>
   
   <id>https://shanewrogers.lol</id>
   <author>
@@ -163,6 +163,23 @@
 <p>Now, we have at least one yasnippet for helping to make blog posts.</p>
 <p>Maybe I can also sort out a way to wrangle org capture templates to create a markdown file with the frontmatter, then I won't even need the snippet.</p>
 <p>Probably should come up with a better file name scheme, too...maybe something with a date on it.</p>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>Capture Template Done?</title>
+      <link href="https://shanewrogers.lol/posts/capture-template-done/"/>
+      <updated>2024-03-18T17:35:37Z</updated>
+      <id>https://shanewrogers.lol/posts/capture-template-done/</id>
+      <content type="html">
+          <![CDATA[
+      <h1>Step Two, Maybe</h1>
+<p>Capture template might be ready to go, now.</p>
+<p>Created a new markdown post in the proper directory, with a prompt for the file name, then prepends the year-mm-dd to the file name. Opens a nice empty file, ready for the yasnippet.</p>
+<p>I could probably put more into the capture template to do away with the snippet.</p>
 
     ]]>
       </content>
