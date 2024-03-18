@@ -43,6 +43,7 @@
     "webpack-manifest-plugin": "^5.0.0"
   },
   "dependencies": {
-    "@kevingimbel/eleventy-plugin-mermaid": "^2.2.1"
+    "@kevingimbel/eleventy-plugin-mermaid": "^2.2.1",
+    "@sindresorhus/slugify": "^2.2.1"
   }
 }

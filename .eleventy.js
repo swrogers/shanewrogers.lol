@@ -146,6 +146,19 @@ module.exports = function (eleventyConfig) {
     return content;
   });
 
+  // This is ugly, does it work?
+  // https://github.com/11ty/eleventy/issues/278#issuecomment-872070391
+  const slugifyFn = async (str) => {
+    const fn = await import("@sindresorhus/slugify");
+    return fn.default(str);
+  };
+  eleventyConfig.addFilter("slug", (str) => slugifyFn(str));
+  eleventyConfig.addNunjucksAsyncFilter("slug", (str, callback) => {
+    slugifyFn(str)
+      .then((value) => callback(null, value))
+      .catch((err) => callback(err));
+  });
+
   return {
     dir: {
       input: "src",
