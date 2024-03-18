@@ -5,7 +5,7 @@
   <link href="https://shanewrogers.lol/feed.xml" rel="self"/>
   <link href="https://shanewrogers.lol/"/>
   
-    <updated>2024-03-16T22:01:14Z</updated>
+    <updated>2024-03-18T16:04:54Z</updated>
   
   <id>https://shanewrogers.lol</id>
   <author>
@@ -146,6 +146,23 @@
 <p>I might want to look into the Echo Feed stuff.</p>
 <p>I don't know if it would be possible to set up the indieweb login stuff, but maybe.</p>
 <p>I do need to make sure that I always - <em>ALWAYS</em> - remember to <code>git pull</code> before pushing...seeing as how I'm also experimenting with blogging from the GitJournal app.</p>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>Another Step Down</title>
+      <link href="https://shanewrogers.lol/posts/another-step-down/"/>
+      <updated>2024-03-18T16:04:54Z</updated>
+      <id>https://shanewrogers.lol/posts/another-step-down/</id>
+      <content type="html">
+          <![CDATA[
+      <h1>One more step down</h1>
+<p>Now, we have at least one yasnippet for helping to make blog posts.</p>
+<p>Maybe I can also sort out a way to wrangle org capture templates to create a markdown file with the frontmatter, then I won't even need the snippet.</p>
+<p>Probably should come up with a better file name scheme, too...maybe something with a date on it.</p>
 
     ]]>
       </content>
