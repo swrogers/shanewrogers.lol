@@ -199,6 +199,7 @@
 <p>I also had to suppress the emacs warning from yasnippet that complained about changing the buffer - so I may have to either live with what I'll consider a hack, or come up with a better way to insert the ISO creation time stamp for the date frontmatter.</p>
 <p>I'm sure there is more.</p>
 <p>Still plenty of stuff to work on: setting up some data store files to pull in my other feeds, checking into basic webmentions (because I'm super, uber popular....ha)....among other items.</p>
+<p>This slug is acting funny.</p>
 
     ]]>
       </content>
