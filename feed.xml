@@ -5,7 +5,7 @@
   <link href="https://shanewrogers.lol/feed.xml" rel="self"/>
   <link href="https://shanewrogers.lol/"/>
   
-    <updated>2024-03-18T18:05:18Z</updated>
+    <updated>2024-03-18T21:21:42Z</updated>
   
   <id>https://shanewrogers.lol</id>
   <author>
@@ -200,6 +200,21 @@
 <p>I'm sure there is more.</p>
 <p>Still plenty of stuff to work on: setting up some data store files to pull in my other feeds, checking into basic webmentions (because I'm super, uber popular....ha)....among other items.</p>
 <p>This slug is acting funny.</p>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>Yes, this is a possible slug-tacular title.</title>
+      <link href="https://shanewrogers.lol/posts/yes-this-is-a-possible-slug-tacular-title./"/>
+      <updated>2024-03-18T21:21:42Z</updated>
+      <id>https://shanewrogers.lol/posts/yes-this-is-a-possible-slug-tacular-title./</id>
+      <content type="html">
+          <![CDATA[
+      <h1>Slugs and stuff</h1>
+<p>That last post had an issue with the permalink and slug. I thought it might have been related to my simple super uber basic slug code....but then, doesn't eleventy create its own slug with the <code>permalink</code> entry in the frontmatter?</p>
 
     ]]>
       </content>
