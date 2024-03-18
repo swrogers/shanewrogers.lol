@@ -1,5 +1,5 @@
 ---
-title: Now that we've reloaded
+title: Now that we have reloaded
 date: 2024-03-18T13:05:18-05:00
 permalink: posts/{{ title | slug }}/
 tags:
