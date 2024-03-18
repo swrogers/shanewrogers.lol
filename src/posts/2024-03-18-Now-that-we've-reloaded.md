@@ -19,3 +19,4 @@ I'm sure there is more.
 
 Still plenty of stuff to work on: setting up some data store files to pull in my other feeds, checking into basic webmentions (because I'm super, uber popular....ha)....among other items.
 
+This slug is acting funny.
