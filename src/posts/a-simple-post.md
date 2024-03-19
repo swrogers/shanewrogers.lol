@@ -4,6 +4,7 @@ date: '2020-10-18'
 tags: [demo-content, simple-post]
 description: Meditation gentrify fam, yuccie kickstarter brunch vape. Pitchfork freegan biodiesel bicycle rights. Semiotics flexitarian four loko XOXO raw denim chartreuse.
 permalink: posts/{{ title | slug }}/index.html
+draft: true
 ---
 
 Meditation gentrify fam, yuccie kickstarter brunch vape. Pitchfork freegan biodiesel bicycle rights. Semiotics flexitarian four loko XOXO raw denim chartreuse. Cray ramps microdosing everyday carry bicycle rights
