@@ -1,0 +1,27 @@
+---
+layout: base.njk
+---
+
+<h1>Some photos that I've taken</h1>
+<p>These are from my pixelfed.social account</p>
+
+<div class="photos">
+    <div class="photos__content">
+        <ul>
+            {% for entry in pixelfed %}
+                <li class="photos__photo">
+                    {{ entry.content | safe }}
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
+<!--
+     <ul class="photos">
+     {% for entry in pixelfed %}
+     <li class="photo">
+     <a href="{{ entry.link }}">{{ entry.title }}</a>
+     {{ entry.content | safe }}
+     </li>
+     {% endfor %}
+     </ul> -->

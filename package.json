@@ -36,6 +36,7 @@
     "postcss-import": "^16.0.1",
     "postcss-loader": "^8.1.1",
     "postcss-preset-env": "^9.5.1",
+    "rss-parser": "^3.13.0",
     "terser-webpack-plugin": "^5.3.10",
     "typescript": "^5.4.2",
     "webpack": "^5.90.3",
