@@ -5,7 +5,7 @@
   <link href="https://shanewrogers.lol/feed.xml" rel="self"/>
   <link href="https://shanewrogers.lol/"/>
   
-    <updated>2024-03-18T21:21:42Z</updated>
+    <updated>2024-03-29T21:13:04Z</updated>
   
   <id>https://shanewrogers.lol</id>
   <author>
@@ -128,6 +128,26 @@
           <![CDATA[
       <h1>Slugs and stuff</h1>
 <p>That last post had an issue with the permalink and slug. I thought it might have been related to my simple super uber basic slug code....but then, doesn't eleventy create its own slug with the <code>permalink</code> entry in the frontmatter?</p>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>About ready to let things grow naturally now</title>
+      <link href="https://shanewrogers.lol/posts/about-ready-to-let-things-grow-naturally-now/"/>
+      <updated>2024-03-29T21:13:04Z</updated>
+      <id>https://shanewrogers.lol/posts/about-ready-to-let-things-grow-naturally-now/</id>
+      <content type="html">
+          <![CDATA[
+      <h2>On how this site is gonna go</h2>
+<p>Yeah, I think at this point I'm about at a spot where I think It's time to just let things grow naturally and have features (insofar as they can be called that...) added naturally. Or, organically, if one would rather refer to that type of growth as such.</p>
+<p>I've got my org capture template setup in my doom emacs config that creates the file with a datestamp and a prompted file name. I've got my swrlol yasnippet that creates the frontmatter for me. It might be nice if I were to take that prompted value for the file name and use it for the title within the frontmatter - I might look into that one.</p>
+<p>I've today added my short stuff slash notes category. I need to add an rss feed just for that - also perhaps give it the ability to take its own tags as well.</p>
+<p>After that and a bit of time, it'll be ready to begin looking into getting things cross posted over to mastodon.</p>
+<p>Then it'll be time to also look into pulling some posts from pixelfed. I'd still rather somebody else host images for me, since that is quite the expense and hassle that I would not like to enter into.</p>
+<p>I am really enjoying eleventy, though. It's pretty nice.</p>
 
     ]]>
       </content>
