@@ -1,0 +1,19 @@
+<ul class="note-list">
+  {% for note in noteslist | reverse %}
+    <li class="note-list__item">
+      <div>
+        <div class="note-list__meta">
+          <a href="{{ note.url }}">
+            <time datetime="{{ note.date | htmlDateString }}">
+              {{ note.date | readableDate }}
+            </time>
+          </a>
+        </div>
+      </div>
+
+      <p class="note-list__content">
+        {{ note.templateContent | safe  }}
+      </p>
+    </li>
+  {% endfor %}
+</ul>

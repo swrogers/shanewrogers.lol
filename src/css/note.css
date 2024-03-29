@@ -1,0 +1,56 @@
+.note {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.note > * + * {
+  margin-top: 1rem;
+}
+
+.note__details {
+  opacity: 0.6;
+  font-size: 0.9rem;
+}
+
+.note__details > * + * {
+  margin-left: 0.5rem;
+}
+
+.note__content {
+  word-wrap: break-word;
+}
+
+.note__aside {
+  margin-top: 2rem;
+}
+
+.note__tags {
+  opacity: 0.8;
+  font-size: var(--text-sm);
+}
+
+.note__tags * + * {
+  margin-left: 0.5rem;
+}
+
+.note__pagination {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.note__pagination > *:only-child {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.note__pagination a {
+  display: flex;
+  align-items: center;
+}
+.note__pagination span {
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}

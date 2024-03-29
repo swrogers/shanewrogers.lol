@@ -9,6 +9,8 @@
 @import "post.css";
 @import "about.css";
 @import "photos.css";
+@import "notes-list.css";
+@import "note.css";
 
 .layout-wrapper {
   display: grid;

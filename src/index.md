@@ -5,8 +5,8 @@ title: "Shane's corner of the internet"
 
 # Welcome!
 
-Welcome to my little section of the internet.
+You've stumbled upon my little home on the internet.
 
-There really isn't much here at this point, as it's still pretty new, but there are plenty of other places that I've also posted at. Some I haven't even abandoned yet!
+Here, you might find some stuff I've written or some things that I find interesting.
 
-Ha.
+You might even find things that I'm trying to learn about. Who knows. Here are a few other places that I can be found:

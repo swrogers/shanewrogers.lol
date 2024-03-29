@@ -1,0 +1,49 @@
+---
+layout: base.njk
+---
+
+<article class="note">
+  <header class="note__header">
+    <div class="note__details">
+      <time datetime="{{ page.date | htmlDateString }}">
+        {{ page.date | readableDate }}
+      </time>
+    </div>
+  </header>
+
+  <main class="note__content">
+    {{ content | safe }}
+  </main>
+
+  <aside class="note__aside">
+    <div class="note__tags">
+      {% for tag in tags | pageTags %}
+        {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+        <a href="{{ tagUrl | url }}">#{{ tag }}</a>
+      {% endfor %}
+    </div>
+
+    <nav class="note__pagination">
+      {%- set nextNote = collections.notes | getNextCollectionItem(page) %}
+      {%- if nextNote %}
+
+        <a href="{{ nextNote.url | url }}">
+          <span>←</span>
+          <span>{{ nextNote.data.title }}</span>
+        </a>
+
+      {% endif %}
+
+      {%- set previousNote = collections.notes | getPreviousCollectionItem(page) %}
+      {%- if previousNote %}
+
+        <a href="{{ previousNote.url | url }}">
+          <span>{{ previousNote.data.title }}</span>
+          <span>→</span>
+        </a>
+
+      {% endif %}
+    </nav>
+  </aside>
+
+</article>

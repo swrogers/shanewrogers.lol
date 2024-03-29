@@ -1,7 +1,7 @@
 // Liberally borrowed from the following:
 // https://jkc.codes/blog/creating-drafts-in-eleventy/
 //
-// Will also add the following to all posts:
+// Will also add the following to all posts (through `posts.json`):
 // layout: post
 // tags: posts
 
