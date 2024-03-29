@@ -1,0 +1,18 @@
+---
+layout: base.njk
+---
+
+<h1>Posts from social.targaryen.house</h1>
+<p>These are some mastodon posts of mine.</p>
+
+<div class="notes">
+    <div class="notes__content">
+        <ul>
+            {% for post in targaryen %}
+                <li class="post__item">
+                    {{ post.content | safe}}
+                </li>
+            {% endfor %}
+        </ul>
+    </div>
+</div>
