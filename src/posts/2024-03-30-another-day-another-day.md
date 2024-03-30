@@ -11,7 +11,7 @@ Let's see what we can do about getting something written on the daily, eh? I don
  
  Not that I don't like that stuff, either. It's nearly lawn mowing season - I absolutely love mowing the lawn! I don't think that 12 year old me would believe that statement, but it's true. It's a time to put the buds in and listen to some nerdcore! (note to self: I should make a section dedicated to what I'm listening to, perhaps pull in my lastfm stuff as a data collection via rss.) It's also about time to make another attempt at getting some fruit trees planted, which is always fun.
  
-Right now, I'm just sitting here, typing away, listening to the _Snoopy Show_ on AppleTV. Outside, the weather is pretty nice, we've got the rather large bounce house set up outside for the youngest kiddo, it's kinda noisy too. It's funny, you know, the things that we purchase for our kids: the things that we would have killed to have when we were young. A swingset slash jungle gym. A bouncehouse. Various playground type equipment. Stuff that never gets used.
+Right now, I'm just sitting here, typing away, listening to the _Snoopy Show_ on AppleTV. Outside, the weather is pretty nice, we've got the rather large bounce house set up outside for the youngest kiddo, it's kinda noisy too. It's funny, you know, the things that we purchase for our kids: the things that we would have killed to have when we were young. A swingset slash jungle gym. A bounce house. Various playground type equipment. Stuff that never gets used.
 
 Well, I guess that's not completely true. It does get used, some. Just not as much as one would have hoped. Meh.
 
