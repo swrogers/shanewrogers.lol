@@ -21,6 +21,11 @@
   word-wrap: break-word;
 }
 
+.post__content,
+p {
+  margin-bottom: 1rem;
+}
+
 .post__aside {
   margin-top: 2rem;
 }
