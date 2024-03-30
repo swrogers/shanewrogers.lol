@@ -10,5 +10,23 @@ module.exports = async function () {
   let feed = await parser.parseURL(
     "https://pixelfed.social/users/swrogers.atom",
   );
-  return feed.items;
+
+
+  let image_posts = [];
+
+  feed.items.forEach(item => {
+    let new_content = item.content.replace(/[\t\n]/g, '');
+    let img_close_index = new_content.indexOf('>');
+    let img_tag = new_content.substring(0, img_close_index + 1);
+    let p_tag = new_content.substring(img_close_index + 1);
+
+    image_posts.push({
+      id: item.id,
+      img: img_tag,
+      p: p_tag
+    });
+  });
+
+  // return feed.items;
+  return image_posts;
 };

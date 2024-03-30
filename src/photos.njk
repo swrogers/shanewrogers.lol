@@ -10,18 +10,10 @@ layout: base.njk
         <ul>
             {% for entry in pixelfed %}
                 <li class="photos__photo">
-                    {{ entry.content | safe }}
+                    {{ entry.img | safe }}
+                    {{ entry.p | safe }}
                 </li>
             {% endfor %}
         </ul>
     </div>
 </div>
-<!--
-     <ul class="photos">
-     {% for entry in pixelfed %}
-     <li class="photo">
-     <a href="{{ entry.link }}">{{ entry.title }}</a>
-     {{ entry.content | safe }}
-     </li>
-     {% endfor %}
-     </ul> -->
