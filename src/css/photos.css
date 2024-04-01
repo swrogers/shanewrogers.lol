@@ -4,7 +4,7 @@ ul.photos__photo {
 
 .photos {
     max-width: none;
-    width: 100%;
+    width: 80%;
 }
 
 .photos__content {
@@ -20,6 +20,10 @@ ul.photos__photo {
     display: flex;
     flex-wrap: wrap;
     margin-top: 0.5rem;
+}
+
+.photos__photo time {
+    font-size: 1rem;
 }
 
 /* .photos { */
