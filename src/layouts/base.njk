@@ -14,7 +14,7 @@
     <title>
       {{  title  | escape }}
       {% if title %}
-         | {{ site.name }}
+        | {{ site.name }}
       {% else %}
         {{ site.name }}
       {% endif %}
@@ -55,7 +55,13 @@
     <link rel="me" href="https://social.targaryen.house/@swrogers">
     <link rel="me" href="https://social.swrlab.org/@swrogers">
     <link rel="me" href="https://pixelfed.social/swrogers">
+    <link rel="me" href="https://github.com/swrogers">
     <!-- End ActivityPub Verification Stuff -->
+
+    <!-- IndieAuth Stuff -->
+    <link rel=“authorization_endpoint” href=“https://indieauth.com/auth”>
+    <link rel=“token_endpoint” href=“https://tokens.indieauth.com/token”>
+    <!-- End IndieAuth Stuff -->
 
     {% mermaid_js %}
   </head>
