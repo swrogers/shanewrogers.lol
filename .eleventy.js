@@ -73,6 +73,14 @@ module.exports = function (eleventyConfig) {
     return new Date(dateString).toISOString();
   });
 
+  eleventyConfig.addFilter("isoDateToHtmlString", (dateObj) => {
+    return DateTime.fromISO(dateObj, { zone: "utc" }).toFormat("yyyy-LL-dd");
+  });
+
+  eleventyConfig.addFilter("isoDateToReadable", (dateObj) => {
+    return DateTime.fromISO(dateObj, { zone: "utc" }).toFormat("dd LLL yyyy");
+  });
+
   eleventyConfig.addFilter("head", (array, n) => {
     if (n < 0) {
       return array.slice(n);
