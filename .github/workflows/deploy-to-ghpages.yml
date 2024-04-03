@@ -34,11 +34,9 @@ jobs:
           key: ${{ runner.os }}-eleventy-fetch-cache
 
       - run: npm install
-      - run: npm dotenv-vault local decrypt ${{ secrets.DOTENV_KEY }} > .env
       - run: npm run build
-      #        env:
-      #          DOTENV_KEY: ${{ secrets.DOTENV_KEY }}
-      #          RAINDROP_IO_KEY: ${{ secrets.RAINDROP_AUTH }}
+        env:
+          RAINDROP_IO_KEY: ${{ secrets.RAINDROP_AUTH }}
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
