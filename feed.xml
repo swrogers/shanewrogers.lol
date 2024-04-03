@@ -5,7 +5,7 @@
   <link href="https://shanewrogers.lol/feed.xml" rel="self"/>
   <link href="https://shanewrogers.lol/"/>
   
-    <updated>2024-03-30T20:16:05Z</updated>
+    <updated>2024-04-03T20:32:52Z</updated>
   
   <id>https://shanewrogers.lol</id>
   <author>
@@ -173,6 +173,25 @@
 <p>Where was I? Oh yes, I do have <code>org-capture</code> templates set up that work just fine. I need to get the popup capture buffer to take the whole frame, though. I don't like that it also visits the capture buffer in the originally opened frame as well. It's an annoyance.</p>
 <p>I'm sure there should be more. I think I'm going to wait until I've got more, eh, content, here before I get various rss feeds set up for feeding into some of my social sites. I feel that I should probably &quot;own my social&quot;, too, and I do have at least one I run - but it's certainly a chore. We shall see.</p>
 <p>With that, I'm out.</p>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>Good grief and all the gravy</title>
+      <link href="https://shanewrogers.lol/posts/good-grief-and-all-the-gravy/"/>
+      <updated>2024-04-03T20:32:52Z</updated>
+      <id>https://shanewrogers.lol/posts/good-grief-and-all-the-gravy/</id>
+      <content type="html">
+          <![CDATA[
+      <h2>More site updates</h2>
+<p>Now I've added another section to the olde interweb presence: <a href="/drops">Drops</a>.</p>
+<p>&quot;What are drops?&quot; I can hear absolutely nobody asking...well, I'm glad you asked! Basically they're my <em>Read It Later</em> links that I use some other web service to save for me - both the actual link, the data on the page, content and all that jazzy stuff. It's a service that I actually - shock! awe! - pay for.</p>
+<p>I'd like to have all of that data <em>here</em> on this site - well, I guess it'd be in the github repo, but still. As it is, I grab the latest 25 entries and display them on the <a href="/drops">drops</a> page. I suppose at some point in time I'll actually build in some kind of link roll or link blog or whatever, that way I can have the actual history in my site - but for now this is fine.</p>
+<p>It took me way, <strong>way</strong> too stinking long to get the secrets info dealt with for the github action. Too many tangents and too many wrong turns. But things seem to be working now.</p>
+<p>Time for some breakage I think.</p>
 
     ]]>
       </content>
