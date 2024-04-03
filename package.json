@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "run-p dev:*",
     "start": "npx @11ty/eleventy --serve",
-    "build": "run-s clean dev:vault build:assets build:site",
+    "build": "run-s clean build:assets build:site",
     "dev:vault": "npx dotenv-vault@latest pull",
     "dev:assets": "env ELEVENTY_ENV=development npx webpack --mode production --watch",
     "dev:site": "env ELEVENTY_ENV=development npx @11ty/eleventy --serve",
