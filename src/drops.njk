@@ -1,0 +1,73 @@
+---
+layout: base.njk
+permalink: /drops/
+---
+<style type="text/css" media="screen">
+ * {
+     box-sizing: border-box;
+ }
+
+ .column {
+     float: left;
+     width: 50%;
+     padding: 10px;
+ }
+
+ .row {
+     margin: 0 -5px;
+ }
+
+ .row:after {
+     content: "";
+     display: table;
+     clear: both;
+ }
+
+ @media screen and (max-width: 600px) {
+     .column {
+         width: 100%;
+         display: block;
+         margin-bottom: 20px;
+     }
+ }
+
+ .card {
+     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+/*     padding: 16px;*/
+     text-align: center;
+     border-radius: 5px;
+ }
+
+ img {
+     border-radius: 5px 5px 0 0;
+     width: 100%;
+ }
+
+ time {
+     font-size: var(--text-sm);
+ }
+
+ .container {
+     padding: 2px 16px;
+ }
+</style>
+
+
+<h1>Stuff to read</h1>
+
+<div class="row">
+    {% for drop in raindrop %}
+        <div class="column">
+            <div class="card">
+                <a href="{{ drop.link }}">
+                    <img src="{{ drop.cover }}" alt="Site Image">
+                </a>
+                <time datetime="{{ drop.created | isoDateToHtmlString }}">
+                    {{ drop.created | isoDateToReadable }}
+                </time><br/>
+                <a href="{{ drop.link }}">{{ drop.title  }}</a>
+                <p>{{ drop.excerpt }}</p>
+            </div>
+        </div>
+    {% endfor %}
+</div>
