@@ -5,7 +5,7 @@
   <link href="https://shanewrogers.lol/feed.xml" rel="self"/>
   <link href="https://shanewrogers.lol/"/>
   
-    <updated>2024-04-04T17:37:14Z</updated>
+    <updated>2024-04-05T20:42:04Z</updated>
   
   <id>https://shanewrogers.lol</id>
   <author>
@@ -210,6 +210,29 @@
 <p>For most of you who are (not?) out there, you may or may not know that Samsung makes a really shoddy piece of junk for a dryer. The drums in them like to crack and the rollers basically destroy themselves. It's a major issue, and they are basically ignoring the problem.</p>
 <p>So we purchased a new set, that is not Samsung. The delivery was this morning, but naturally did not get to go as planned. Something to do with the water shutoff valve not cooperating with the cold water. Yippee.</p>
 <p>I just can't even, right now.</p>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>More Updates and Stuff!</title>
+      <link href="https://shanewrogers.lol/posts/more-updates-and-stuff/"/>
+      <updated>2024-04-05T20:42:04Z</updated>
+      <id>https://shanewrogers.lol/posts/more-updates-and-stuff/</id>
+      <content type="html">
+          <![CDATA[
+      <h2>More things added around here</h2>
+<p>I've added my <a href="/links">links</a> page now, along with a super nifty bookmarklet that I can use to add new links from the browser. I'm sure that if anybody were to do any kind of digging on the interweb, they'd know where I was able to grab some of the implementation details from. Of course, we all make our own nifty little changes, and I was no different.</p>
+<p>For one, I don't like a bunch of folders and <em>index.html</em> files all over the place - so that had to go.</p>
+<p>One thing that I've noticed, here in the land of emacs, is that my capture session seems to have run into some interesting kinks. Oh, I bet it didn't like the <em>!</em> I used in the filename...what was I thinking!?</p>
+<p>Anyway.</p>
+<h2>Where was I?</h2>
+<p>Oh yes - I wanted to kind of explain my thinking on having <em>both</em> <a href="/drops">drops</a> <strong>and</strong> <a href="/links">links</a>. To me, the <em>drops</em> are for pages that I want to ensure never go away. A <em>read it later</em>, if you will. The service I use (<a href="https://raindrop.io">raindrop.io</a>), takes care of that for me since I'm a subscriber. <a href="/links">Links</a>, on the other hand, I don't care if those stick around or not. Plus, those actually get saved as files in the repo, as opposed to the drops, which are ephemeral data from the ether.</p>
+<p>That's my thinking, anyhow.</p>
+<p>All said and done, I think for now I'm more or less finished with the structure of the site. Now, I just need more content - which will come with time. Then I can set up paging with whatever needs it. That, and get some rss feeds finalized, along with cross posting.</p>
+<p>Till next time.</p>
 
     ]]>
       </content>
