@@ -48,6 +48,7 @@
   "dependencies": {
     "@kevingimbel/eleventy-plugin-mermaid": "^2.2.1",
     "@sindresorhus/slugify": "^2.2.1",
+    "bookmarklet": "^3.0.0",
     "dotenv": "^16.4.5"
   }
 }
