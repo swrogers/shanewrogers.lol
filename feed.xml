@@ -5,7 +5,7 @@
   <link href="https://shanewrogers.lol/feed.xml" rel="self"/>
   <link href="https://shanewrogers.lol/"/>
   
-    <updated>2024-04-08T18:20:28Z</updated>
+    <updated>2024-04-10T17:30:14Z</updated>
   
   <id>https://shanewrogers.lol</id>
   <author>
@@ -257,6 +257,29 @@
 <h2>On the bright side</h2>
 <p>We did get to see some of the eclipse today! So much better than 2017, when it was terribly cloudy and overcast. This one reminded me of when I was in high school (mid 90s) and we also got to experience an eclipse. Very cool.</p>
 <p>With that - until next time.</p>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>Another Day Down</title>
+      <link href="https://shanewrogers.lol/posts/another-day-down/"/>
+      <updated>2024-04-10T17:30:14Z</updated>
+      <id>https://shanewrogers.lol/posts/another-day-down/</id>
+      <content type="html">
+          <![CDATA[
+      <h2>Yeah It's My Rambling Series, So What?</h2>
+<p>If it's one thing that I've noticed of late, it's that I must really enjoy rambling about nothing in particular. I suppose that's fine, of course, because it's good practice for any <em>actual</em> writing that might come from this site.</p>
+<p>Of course, I think that we all know there we never be any <em>actual, real</em> writing on this site. Who am I fooling, anyway?</p>
+<h2>Last Time On...</h2>
+<p>When last we joined in the great adventures of <em>nobody in particular</em> we had the washer and dryer in place. Not running or working, mind you. Because life is a fickle little something or other. I don't know who was in charge, or what they were smoking, or even what was running through their mind when it was decided by the powers that be that it was all &quot;A Okay&quot; to ship a meager six foot dryer power cord along with a pre-stacked washer and dryer unit.</p>
+<p>Especially when the electrical connection is at the upper back (we'll call it the upper right corner, looking at the thing from the back side) of the over six foot tall unit. Can you guess where I'm going here? Our laundry room is set up to accommodate side by side units. As I would wager most peoples' places are. Normally, this is not a problem. The power cord they ship (which, we have to purchase, naturally) didn't reach the dryer plug outlet on the wall by, oh, six inches. Not that it matters how short it was - it just flat out didn't reach.</p>
+<p>Of course nobody in town has a replacement dryer cord that we could pick up the same day. So, as we've already read, we got one from amazon. A nice, ten footer. It reached no problem. All said and done, installed, working great! Finally, clean clothes!</p>
+<h2>State Of My Blog</h2>
+<p>I've made some changes on the linkages up top, as well as the intro paragraph on the homearea page. I even have a newly opened branch where I've got David Darnes <a href="https://github.com/daviddarnes/mastodon-post/tree/main">mastodon-post</a> Web Component up and running (with a nod towards <a href="https://coryd.dev/posts/2024/automatic-mastodon-post-embeds/">Cory Dransfeldt's</a> set up as well). It needs some love and I'm not sure it'll ever go live, I don't know. I'd want to perchance get a shortcode template set up to make it simpler for my needs.</p>
+<p>With that, we'll call that an entry. I think I'm doing a little better, I might even expand my writing to more than waxing about this silly site that I'm making.</p>
 
     ]]>
       </content>
