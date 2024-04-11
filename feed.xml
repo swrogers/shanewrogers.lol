@@ -307,19 +307,28 @@ Some implementation info on collections.</p>
 Used for the bookmarklet to add a new link entry.</p>
 <p><a href="https://another.rodeo/linkroll/">11ty Linkrolls</a>
 Used in conjunction with the above to roll my own link roll page. (See what I did there?)</p>
+<p><a href="https://www.raymondcamden.com/2022/03/08/including-rss-content-in-your-eleventy-site">Including RSS Content</a>
+<a href="https://www.raymondcamden.com/2022/04/03/including-rss-content-in-your-eleventy-site-part-2">...and part 2</a>
+Using rss-parser and some other details with pulling rss data into a site. Plus, Raymond has an amazingly large amount of <a href="https://www.raymondcamden.com/tags/eleventy">eleventy tagged</a> content on his site!</p>
 <h3>Now for stuff that I'd like to consider for future reference:</h3>
 <p><a href="https://github.com/lwojcik/eleventy-template-multiplicity/tree/main">Multiplicity Theme</a>
 This I really wouldn't mind including as an RSS reader/source.</p>
 <p><a href="https://rknight.me/blog/using-eleventy-to-gobble-up-everything-i-do-online/">Using Eleventy to Gobble Up Everything I Do Online</a>
 The author of this page also is the creator of the <a href="https://github.com/rknightuk/echo">Echo service</a> (both for self host and hosted), and I am considering using that to enable posting on other social platforms as well. That said, this site is a great resource for pulling in other sources of data into Eleventy.</p>
 <p><a href="https://coryd.dev/">Cory Dransfeldt's Blog</a>
-Just lots of good content here.</p>
+Just lots of good content here, including <a href="https://coryd.dev/posts/2024/automatic-mastodon-post-embeds/">embedding mastodon posts.</a></p>
+<p><a href="https://darn.es/mastodon-post-web-component/">mastodon-post web component</a>
+From David Darnes, this component used within the previous link. I do have a branch of my site that uses this, but I'm not put it into production yet. I'm up in the air about it.</p>
+<p><a href="https://github.com/nhoizey/github-action-feed-to-mastodon">Github Action Feed to Mastodon</a>
+Sends json sourced feed into a Mastodon instance. This is also referenced from the previous set of links, though I don't believe it's a requirement on its own. This could - possibly? - be superceded by Echo.</p>
 <p><a href="https://11tybundle.dev/firehose/">11tybundle.dev firehose</a>
 Anything and everything 11ty.</p>
 <p><a href="https://sia.codes/tags/eleventy/">Sia dot Codes Eleventy Items</a>
 Another popular and excellent source of information on the eleventy's.</p>
 <p><a href="https://11ty.rocks/community/">11ty Rocks! Community Feed</a>
 Some good entries from around the horn here, plus some other valuable posts as well of their own.</p>
+<p><a href="https://blog.lukaszwojcik.net/eleventy-custom-markup-alongside-item-contents/">Eleventy: custom markup alongside item contents</a>
+Nifty use of markdown and customization.</p>
 
     ]]>
       </content>
