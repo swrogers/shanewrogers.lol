@@ -297,38 +297,75 @@
 <p>I figure that this is as good a time as any to make some sort of attempt at getting down on &quot;paper&quot; those sites that I've looked at and drawn some sort of inspiration from in the creation of my site. Not that my site is anything special, but it'll be good for the hypothetical <em>future me</em> to be able to go back and see where things have come from.</p>
 <p>Granted, it's possible that a lot of these are also noted under my Eleventy Raindrop.io collection, but, you know - content and stuff.</p>
 <p>This page will probably be something of a living page for a bit.</p>
-<p><a href="https://github.com/yinkakun/eleventy-duo">The Site Theme.</a>
-It's clean and I like it.</p>
-<p><a href="https://ttntm.me/blog/creating-a-reading-list-with-eleventy-and-omnivore/">Creating a Reading List</a>
-Was very useful in some of the ideas of my drops page and similar. I also really like some of the other ideas that present themselves throughout the site in general - such as the main homepage landing area.</p>
-<p><a href="https://www.simoncox.com/shorts/2024-03-17-11ty-collection-tag-links/">11ty collections tag links</a>
-Some implementation info on collections.</p>
-<p><a href="https://nicolas-hoizey.com/articles/2023/02/08/a-bookmarklet-to-create-a-new-link-content-markdown-on-github/">A bookmarklet to create a new link content Markdown on GitHub</a>
-Used for the bookmarklet to add a new link entry.</p>
-<p><a href="https://another.rodeo/linkroll/">11ty Linkrolls</a>
-Used in conjunction with the above to roll my own link roll page. (See what I did there?)</p>
+<style>
+ul { list-style-position: outside; }
+</style>
+<ul>
+<li>
+<p><a href="https://github.com/yinkakun/eleventy-duo">The Site Theme.</a></p>
+<p>It's clean and I like it.</p>
+</li>
+<li>
+<p><a href="https://ttntm.me/blog/creating-a-reading-list-with-eleventy-and-omnivore/">Creating a Reading List</a></p>
+<p>Was very useful in some of the ideas of my drops page and similar. I also really like some of the other ideas that present themselves throughout the site in general - such as the main homepage landing area.</p>
+</li>
+<li>
+<p><a href="https://www.simoncox.com/shorts/2024-03-17-11ty-collection-tag-links/">11ty collections tag links</a></p>
+<p>Some implementation info on collections.</p>
+</li>
+<li>
+<p><a href="https://nicolas-hoizey.com/articles/2023/02/08/a-bookmarklet-to-create-a-new-link-content-markdown-on-github/">A bookmarklet to create a new link content Markdown on GitHub</a></p>
+<p>Used for the bookmarklet to add a new link entry.</p>
+</li>
+<li>
+<p><a href="https://another.rodeo/linkroll/">11ty Linkrolls</a></p>
+<p>Used in conjunction with the above to roll my own link roll page. (See what I did there?)</p>
+</li>
+<li>
 <p><a href="https://www.raymondcamden.com/2022/03/08/including-rss-content-in-your-eleventy-site">Including RSS Content</a>
-<a href="https://www.raymondcamden.com/2022/04/03/including-rss-content-in-your-eleventy-site-part-2">...and part 2</a>
-Using rss-parser and some other details with pulling rss data into a site. Plus, Raymond has an amazingly large amount of <a href="https://www.raymondcamden.com/tags/eleventy">eleventy tagged</a> content on his site!</p>
+<a href="https://www.raymondcamden.com/2022/04/03/including-rss-content-in-your-eleventy-site-part-2">...and part 2</a></p>
+<p>Using rss-parser and some other details with pulling rss data into a site. Plus, Raymond has an amazingly large amount of <a href="https://www.raymondcamden.com/tags/eleventy">eleventy tagged</a> content on his site!</p>
+</li>
+</ul>
 <h3>Now for stuff that I'd like to consider for future reference:</h3>
-<p><a href="https://github.com/lwojcik/eleventy-template-multiplicity/tree/main">Multiplicity Theme</a>
-This I really wouldn't mind including as an RSS reader/source.</p>
-<p><a href="https://rknight.me/blog/using-eleventy-to-gobble-up-everything-i-do-online/">Using Eleventy to Gobble Up Everything I Do Online</a>
-The author of this page also is the creator of the <a href="https://github.com/rknightuk/echo">Echo service</a> (both for self host and hosted), and I am considering using that to enable posting on other social platforms as well. That said, this site is a great resource for pulling in other sources of data into Eleventy.</p>
-<p><a href="https://coryd.dev/">Cory Dransfeldt's Blog</a>
-Just lots of good content here, including <a href="https://coryd.dev/posts/2024/automatic-mastodon-post-embeds/">embedding mastodon posts.</a></p>
-<p><a href="https://darn.es/mastodon-post-web-component/">mastodon-post web component</a>
-From David Darnes, this component used within the previous link. I do have a branch of my site that uses this, but I'm not put it into production yet. I'm up in the air about it.</p>
-<p><a href="https://github.com/nhoizey/github-action-feed-to-mastodon">Github Action Feed to Mastodon</a>
-Sends json sourced feed into a Mastodon instance. This is also referenced from the previous set of links, though I don't believe it's a requirement on its own. This could - possibly? - be superceded by Echo.</p>
-<p><a href="https://11tybundle.dev/firehose/">11tybundle.dev firehose</a>
-Anything and everything 11ty.</p>
-<p><a href="https://sia.codes/tags/eleventy/">Sia dot Codes Eleventy Items</a>
-Another popular and excellent source of information on the eleventy's.</p>
-<p><a href="https://11ty.rocks/community/">11ty Rocks! Community Feed</a>
-Some good entries from around the horn here, plus some other valuable posts as well of their own.</p>
-<p><a href="https://blog.lukaszwojcik.net/eleventy-custom-markup-alongside-item-contents/">Eleventy: custom markup alongside item contents</a>
-Nifty use of markdown and customization.</p>
+<ul>
+<li>
+<p><a href="https://github.com/lwojcik/eleventy-template-multiplicity/tree/main">Multiplicity Theme</a></p>
+<p>This I really wouldn't mind including as an RSS reader/source.</p>
+</li>
+<li>
+<p><a href="https://rknight.me/blog/using-eleventy-to-gobble-up-everything-i-do-online/">Using Eleventy to Gobble Up Everything I Do Online</a></p>
+<p>The author of this page also is the creator of the <a href="https://github.com/rknightuk/echo">Echo service</a> (both for self host and hosted), and I am considering using that to enable posting on other social platforms as well. That said, this site is a great resource for pulling in other sources of data into Eleventy.</p>
+</li>
+<li>
+<p><a href="https://coryd.dev/">Cory Dransfeldt's Blog</a></p>
+<p>Just lots of good content here, including <a href="https://coryd.dev/posts/2024/automatic-mastodon-post-embeds/">embedding mastodon posts.</a></p>
+</li>
+<li>
+<p><a href="https://darn.es/mastodon-post-web-component/">mastodon-post web component</a></p>
+<p>From David Darnes, this component used within the previous link. I do have a branch of my site that uses this, but I'm not put it into production yet. I'm up in the air about it.</p>
+</li>
+<li>
+<p><a href="https://github.com/nhoizey/github-action-feed-to-mastodon">Github Action Feed to Mastodon</a></p>
+<p>Sends json sourced feed into a Mastodon instance. This is also referenced from the previous set of links, though I don't believe it's a requirement on its own. This could - possibly? - be superceded by Echo.</p>
+</li>
+<li>
+<p><a href="https://11tybundle.dev/firehose/">11tybundle.dev firehose</a></p>
+<p>Anything and everything 11ty.</p>
+</li>
+<li>
+<p><a href="https://sia.codes/tags/eleventy/">Sia dot Codes Eleventy Items</a></p>
+<p>Another popular and excellent source of information on the eleventy's.</p>
+</li>
+<li>
+<p><a href="https://11ty.rocks/community/">11ty Rocks! Community Feed</a></p>
+<p>Some good entries from around the horn here, plus some other valuable posts as well of their own.</p>
+</li>
+<li>
+<p><a href="https://blog.lukaszwojcik.net/eleventy-custom-markup-alongside-item-contents/">Eleventy: custom markup alongside item contents</a></p>
+<p>Nifty use of markdown and customization.</p>
+</li>
+</ul>
 
     ]]>
       </content>
