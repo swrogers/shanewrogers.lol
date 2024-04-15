@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://shanewrogers.lol/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shane&#39;s Corner of the Internet Links Feed</title>
+    <link>https://shanewrogers.lol/</link>
+    <atom:link href="https://shanewrogers.lol/links-feed.xml" rel="self" type="application/rss+xml" />
+    <description>Just the links, please.</description>
+    <language>en</language>
+    <item>
+      <link>https://caiorss.github.io/Emacs-Elisp-Programming/index.html</link>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Emacs in self-contained box!&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+      <pubDate>Mon, 08 Apr 2024 13:26:54 +0000</pubDate>
+      <dc:creator>Shane Rogers</dc:creator>
+      <guid></guid>
+    </item>
+    <item>
+      <link>https://github.com/thinkhuman/writingwithemacs</link>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Tips, Examples, and Resources for Writing with Emacs - thinkhuman/writingwithemacs&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+      <pubDate>Mon, 08 Apr 2024 02:52:03 +0000</pubDate>
+      <dc:creator>Shane Rogers</dc:creator>
+      <guid></guid>
+    </item>
+    <item>
+      <link>https://www.thehandbasket.co/p/kansas-reflector-meta-facebook-column-censored</link>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Read the Kansas Reflector&#39;s piece about Facebook&#39;s climate change ad policy&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+      <pubDate>Sun, 07 Apr 2024 00:35:16 +0000</pubDate>
+      <dc:creator>Shane Rogers</dc:creator>
+      <guid></guid>
+    </item>
+    <item>
+      <link>https://lawrencekstimes.com/</link>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Lawrence, KS news: Find Lawrence breaking news, events, Lawrence Public Schools, KU, local government and more here.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+      <pubDate>Fri, 05 Apr 2024 20:15:27 +0000</pubDate>
+      <dc:creator>Shane Rogers</dc:creator>
+      <guid></guid>
+    </item>
+    <item>
+      <link>https://this-link-here.net/</link>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;If there was something here, it would be here. But there isn&#39;t, so it&#39;s not.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+      <pubDate>Fri, 05 Apr 2024 14:25:43 +0000</pubDate>
+      <dc:creator>Shane Rogers</dc:creator>
+      <guid></guid>
+    </item>
+  </channel>
+</rss>
