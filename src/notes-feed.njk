@@ -1,0 +1,36 @@
+---json
+{
+  "permalink": "notes-feed.xml",
+  "eleventyExcludeFromCollections": true,
+  "metadata": {
+    "title": "Shane's Corner of the Internet Short Stuff",
+    "subtitle": "Just the short length content here.",
+    "language": "en",
+    "url": "https://shanewrogers.lol/",
+    "author": {
+      "name": "Shane Rogers",
+      "email": "swrogers@omg.lol"
+    }
+  }
+}
+---
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="{{ metadata.url }}" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>{{ metadata.title }}</title>
+    <link>{{ metadata.url }}</link>
+    <atom:link href="{{ permalink | absoluteUrl(metadata.url) }}" rel="self" type="application/rss+xml" />
+    <description>{{ metadata.subtitle }}</description>
+    <language>{{ metadata.language }}</language>
+    {%- for note in collections.notes | reverse %}
+    {%- set absoluteNoteUrl = note.url | absoluteUrl(metadata.url) %}
+    <item>
+      <link>{{ absoluteNoteUrl }}</link>
+      <description>{{ note.templateContent | htmlToAbsoluteUrls(absoluteNoteUrl) }}</description>
+      <pubDate>{{ note.date | dateToRfc822 }}</pubDate>
+      <dc:creator>{{ metadata.author.name }}</dc:creator>
+      <guid>{{ absoluteNoteUrl }}</guid>
+    </item>
+    {%- endfor %}
+  </channel>
+</rss>
