@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xml:base="https://shanewrogers.lol/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shane&#39;s Corner of the Internet Short Stuff</title>
+    <link>https://shanewrogers.lol/</link>
+    <atom:link href="https://shanewrogers.lol/notes-feed.xml" rel="self" type="application/rss+xml" />
+    <description>Just the short length content here.</description>
+    <language>en</language>
+    <item>
+      <link>https://shanewrogers.lol/notes/2024-03-30-just-a-note/</link>
+      <description>&lt;p&gt;Was having some &lt;code&gt;emacs&lt;/code&gt; or &lt;code&gt;doom-emacs&lt;/code&gt; issues...sadly the best solve I could think of was the thermonuclear option. 🙂&lt;/p&gt;
+</description>
+      <pubDate>Sat, 30 Mar 2024 21:50:24 +0000</pubDate>
+      <dc:creator>Shane Rogers</dc:creator>
+      <guid>https://shanewrogers.lol/notes/2024-03-30-just-a-note/</guid>
+    </item>
+    <item>
+      <link>https://shanewrogers.lol/notes/c-note/</link>
+      <description>&lt;p&gt;All righty, I&#39;ve got a basic &amp;quot;notes&amp;quot; app added into the old site.&lt;/p&gt;
+&lt;p&gt;No tags (yet), no titles, no cross posting (yet).&lt;/p&gt;
+&lt;p&gt;Still plenty to do.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 29 Mar 2024 20:37:55 +0000</pubDate>
+      <dc:creator>Shane Rogers</dc:creator>
+      <guid>https://shanewrogers.lol/notes/c-note/</guid>
+    </item>
+    <item>
+      <link>https://shanewrogers.lol/notes/b-note/</link>
+      <description>&lt;p&gt;This is the second note, just getting some stuff for testing.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 29 Mar 2024 16:29:34 +0000</pubDate>
+      <dc:creator>Shane Rogers</dc:creator>
+      <guid>https://shanewrogers.lol/notes/b-note/</guid>
+    </item>
+    <item>
+      <link>https://shanewrogers.lol/notes/a-note/</link>
+      <description>&lt;p&gt;This is the first note, just getting some stuff for testing.&lt;/p&gt;
+</description>
+      <pubDate>Fri, 29 Mar 2024 16:09:00 +0000</pubDate>
+      <dc:creator>Shane Rogers</dc:creator>
+      <guid>https://shanewrogers.lol/notes/a-note/</guid>
+    </item>
+  </channel>
+</rss>
