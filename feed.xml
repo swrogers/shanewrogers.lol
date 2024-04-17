@@ -5,7 +5,7 @@
   <link href="https://shanewrogers.lol/feed.xml" rel="self"/>
   <link href="https://shanewrogers.lol/"/>
   
-    <updated>2024-04-11T18:10:44Z</updated>
+    <updated>2024-04-17T21:17:08Z</updated>
   
   <id>https://shanewrogers.lol</id>
   <author>
@@ -366,6 +366,26 @@ ul { list-style-position: outside; }
 <p>Nifty use of markdown and customization.</p>
 </li>
 </ul>
+
+    ]]>
+      </content>
+    </entry>
+  
+    
+    <entry>
+      <title>Not another new server</title>
+      <link href="https://shanewrogers.lol/posts/not-another-new-server/"/>
+      <updated>2024-04-17T21:17:08Z</updated>
+      <id>https://shanewrogers.lol/posts/not-another-new-server/</id>
+      <content type="html">
+          <![CDATA[
+      <h2>Another Fediverse Server?!</h2>
+<p>No, I don't have <em>yet another fediverse server instance</em> stood up.</p>
+<p>Not for some lack of trying, mind you, I just don't have the energy to put into working through all the nits and nats that are involved with ruby. I shudder to think. I've never really been a huge fan of that whole ecosystem.</p>
+<p>It's not as bad as the JavaScript world, but it's not fun to navigate for me either.</p>
+<p>I was wanting to get a <a href="https://diasporafoundation.org/">Diaspora</a> instance set up on a digital ocean droplet, but decided against it. Then, to follow along in some other rabbit hole, I signed up on Yet Another ActivityPub Instance, in the form of <a href="https://akkomane.social/@shane">Akkomane Social</a>. It seems nice, thus far.</p>
+<p>In other news, yeah - it's been a week.</p>
+<p>It's also only Wednesday.</p>
 
     ]]>
       </content>
