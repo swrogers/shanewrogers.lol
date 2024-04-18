@@ -1,6 +1,7 @@
 ---
 date: 2024-03-15T23:19:31-05:00
 modified: 2024-03-15T23:22:21-05:00
+draft: true
 ---
 
 # Trying out GitJournal
