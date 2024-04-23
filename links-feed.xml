@@ -7,6 +7,16 @@
     <description>Just the links, please.</description>
     <language>en</language>
     <item>
+      <link>https://blogs.oracle.com/connect/post/building-with-blocks</link>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Part 1 in a series of articles on understanding and using PL/SQL for accessing Oracle Database&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+      <pubDate>Tue, 23 Apr 2024 00:59:55 +0000</pubDate>
+      <dc:creator>Shane Rogers</dc:creator>
+      <guid></guid>
+    </item>
+    <item>
       <link>https://caiorss.github.io/Emacs-Elisp-Programming/index.html</link>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Emacs in self-contained box!&lt;/p&gt;
