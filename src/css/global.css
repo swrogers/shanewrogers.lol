@@ -91,10 +91,15 @@ ul {
   list-style-position: inside;
 }
 
+/*
+ * Commenting this out as a quick fix for bold/emphasis
+ * in markdown format.
+ * https://github.com/yinkakun/eleventy-duo/issues/27#issuecomment-2013985834
 b,
 strong {
   font-weight: 500;
 }
+*/
 
 table {
   border-collapse: collapse;
