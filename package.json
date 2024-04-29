@@ -43,7 +43,8 @@
     "pre-commit": "^1.2.2",
     "pre-push": "^0.1.4",
     "rollup-plugin-terser": "^6.1.0",
-    "shorthash": "0.0.2"
+    "shorthash": "0.0.2",
+    "typescript": "^5.4.5"
   },
   "dependencies": {
     "@ampproject/toolbox-optimizer": "^2.9.0",
