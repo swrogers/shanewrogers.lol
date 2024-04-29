@@ -1,6 +1,6 @@
 {
   "title": "My Corner of the Internet",
-  "url": "https://shanewrogers.lol",
+  "url": "https://shanewrogers.lol/",
   "domain": "shanewrogers.lol",
   "description": "Just a place for me to share some stuff.",
   "genre": "Insert a schema.org genre",
@@ -18,7 +18,8 @@
   },
   "author": {
     "name": "Shane Rogers",
-    "twitterHandle": "shane_w_rogers"
+    "twitterHandle": "shane_w_rogers",
+    "email": "swrogers@omg.lol"
   },
   "publisher": {
     "name": "Shane Rogers"
