@@ -5,7 +5,7 @@
 	
 	<link href="https://shanewrogers.lol/feed/feed.xml" rel="self"/>
 	<link href="https://shanewrogers.lol"/>
-	<updated>2024-04-22T21:04:04+00:00</updated>
+	<updated>2024-04-29T20:29:44+00:00</updated>
 	<id>https://shanewrogers.lol</id>
 	<author>
 		<name>Shane Rogers</name>
@@ -318,6 +318,23 @@ ul { list-style-position: outside; }
 &lt;p&gt;I always feel like I should put something down about the current state of this site. I don&#39;t know why. I&#39;m happy with it, but not really super happy with it. I guess it&#39;s a great medium to just be able to get words down. I don&#39;t really care too much for the theme or the look of the site, but then I don&#39;t have the time to put into making it any better. I&#39;d like to do more with webmentions and other indieweb stuff - but then I also don&#39;t do a whole lot with social media, period. It&#39;s tough.&lt;/p&gt;
 &lt;p&gt;I like to write, I&#39;ll continue to write, whether or not people read really doesn&#39;t concern me.&lt;/p&gt;
 &lt;p&gt;We&#39;ll leave it at that.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>And Now For Something Different</title>
+		<link href="https://shanewrogers.lol/posts/and-now-for-something-different/"/>
+		<updated>2024-04-29T20:29:44+00:00</updated>
+		<id>https://shanewrogers.lol/posts/and-now-for-something-different/</id>
+		<content type="html">
+		  &lt;p&gt;Ah and now for something (not so?) completely different! For those of you who have been following along at home - which, I suppose, would really just be me, myself and I - I&#39;ve made some changes to the site.&lt;/p&gt;
+&lt;p&gt;No longer is the static site based on Eleventy Duo. Welcome, instead, to &lt;a href=&quot;https://github.com/google/eleventy-high-performance-blog&quot;&gt;eleventy high performance blog&lt;/a&gt;. Being a tinkerer does at times really, really suck. Never being happy or content with the way things are on the old blog.&lt;/p&gt;
+&lt;p&gt;The change actually went a lot smoother than I was anticipating it going. I cloned the new template to a clean directory. Made the changes that I needed to make to it (at least, started them - I&#39;m sure more will come). Renamed the remote origin and added a new remote origin. Then, over in my now old and stale github repo I renamed the &#39;main&#39; branch, added a new &#39;to migrate&#39; branch, then went back to the new template and did the ol&#39; something of a force push to the new branch on my static site repo.&lt;/p&gt;
+&lt;p&gt;Once that was done, I had to rename the local and remote repos back to main and set the new default branch.&lt;/p&gt;
+&lt;p&gt;Thankfully, things still just worked after that! Had to make a single change to the emacs org capture template to ensure the directory for the posts was good...now, I think we&#39;re golden.&lt;/p&gt;
+&lt;p&gt;Or at least a decent shade of pale yellow.&lt;/p&gt;
 
 			
 		</content>
