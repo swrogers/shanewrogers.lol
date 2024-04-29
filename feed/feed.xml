@@ -5,7 +5,7 @@
 	
 	<link href="https://shanewrogers.lol/feed/feed.xml" rel="self"/>
 	<link href="https://shanewrogers.lol/"/>
-	<updated>2024-04-29T20:29:44+00:00</updated>
+	<updated>2024-04-29T21:29:26+00:00</updated>
 	<id>https://shanewrogers.lol</id>
 	<author>
 		<name>Shane Rogers</name>
@@ -335,6 +335,20 @@ ul { list-style-position: outside; }
 &lt;p&gt;Once that was done, I had to rename the local and remote repos back to main and set the new default branch.&lt;/p&gt;
 &lt;p&gt;Thankfully, things still just worked after that! Had to make a single change to the emacs org capture template to ensure the directory for the posts was good...now, I think we&#39;re golden.&lt;/p&gt;
 &lt;p&gt;Or at least a decent shade of pale yellow.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Weblog Posting Month 2024</title>
+		<link href="https://shanewrogers.lol/posts/weblog-posting-month-2024/"/>
+		<updated>2024-04-29T21:29:26+00:00</updated>
+		<id>https://shanewrogers.lol/posts/weblog-posting-month-2024/</id>
+		<content type="html">
+		  &lt;p&gt;I think I&#39;m going to try to do something that will be very difficult for me. I&#39;ve decided to join the group in a &lt;em&gt;post every day during the month of May&lt;/em&gt; challenge that has been dubbed &lt;a href=&quot;https://weblog.anniegreens.lol/weblog-posting-month-2024&quot;&gt;#WeblogPoMo2024&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I shall be using the same tag here, &lt;a href=&quot;https://shanewrogers.lol/tags/weblogpomo2024&quot;&gt;as well&lt;/a&gt; for sake of categorization. I guess it&#39;s likely  that I&#39;ll even start using the echo feed account that I&#39;ve been paying for.&lt;/p&gt;
+&lt;p&gt;We&#39;ll see how this goes. I was able to do the &amp;quot;post a photo every day for 30 days&amp;quot; thing over on microblog to get that badge, which wasn&#39;t super easy for me either.&lt;/p&gt;
 
 			
 		</content>
