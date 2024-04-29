@@ -1,7 +1,7 @@
 {
   "version": "https://jsonfeed.org/version/1",
   "title": "My Corner of the Internet",
-  "home_page_url": "https://shanewrogers.lol",
+  "home_page_url": "https://shanewrogers.lol/",
   "feed_url": "https://shanewrogers.lol/feed/feed.json",
   "description": "Just a place for me to share some stuff.",
   "author": {
