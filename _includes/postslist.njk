@@ -1,5 +1,10 @@
+{# If not on the "archive" page, only show 10 posts #}
+{% if page.url !== "/posts/" %}
+  {% set postslist = postslist.slice(1,11) %}
+{% endif %}
+
 <ul>
-{% for post in postslist.slice(1,11) | reverse %}
+{% for post in postslist | reverse %}
   <li>
     <a href="{{ post.url | url }}">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
     <time  datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
