@@ -21,6 +21,7 @@ date: Last Modified
 
 <div id="posts">
   <h3>Next Ten Posts</h3>
-  {% set postslist = collections.posts %}
+  {% set postslist = collections.posts | reverse %}
+  {% set postslist = postslist.slice(1,11) %}
   {% include "postslist.njk" %}
 </div>
