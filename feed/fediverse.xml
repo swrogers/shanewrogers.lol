@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>My Corner of the Internet Feed for fediverse</title>
+	<subtitle>Just my little corner of the internet.</subtitle>
+	
+	<link href="https://shanewrogers.lol/feed/feed.xml" rel="self"/>
+	<link href="https://shanewrogers.lol/"/>
+	<updated>2024-05-01T16:19:52+00:00</updated>
+	<id>https://shanewrogers.lol</id>
+	<author>
+		<name>Shane Rogers</name>
+		<email>swrogers@omg.lol</email>
+	</author>
+	
+	<entry>
+		<title>Not another new server</title>
+		<link href="https://shanewrogers.lol/posts/not-another-new-server/"/>
+		<updated>2024-04-17T21:17:08+00:00</updated>
+		<id>https://shanewrogers.lol/posts/not-another-new-server/</id>
+		<content type="html">
+		  &lt;h2 id=&quot;another-fediverse-server%3F!&quot;&gt;Another Fediverse Server?! &lt;a class=&quot;direct-link&quot; href=&quot;#another-fediverse-server%3F!&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;No, I don&#39;t have &lt;em&gt;yet another fediverse server instance&lt;/em&gt; stood up.&lt;/p&gt;
+&lt;p&gt;Not for some lack of trying, mind you, I just don&#39;t have the energy to put into working through all the nits and nats that are involved with ruby. I shudder to think. I&#39;ve never really been a huge fan of that whole ecosystem.&lt;/p&gt;
+&lt;p&gt;It&#39;s not as bad as the JavaScript world, but it&#39;s not fun to navigate for me either.&lt;/p&gt;
+&lt;p&gt;I was wanting to get a &lt;a href=&quot;https://diasporafoundation.org/&quot;&gt;Diaspora&lt;/a&gt; instance set up on a digital ocean droplet, but decided against it. Then, to follow along in some other rabbit hole, I signed up on Yet Another ActivityPub Instance, in the form of &lt;a href=&quot;https://akkomane.social/@shane&quot;&gt;Akkomane Social&lt;/a&gt;. It seems nice, thus far.&lt;/p&gt;
+&lt;p&gt;In other news, yeah - it&#39;s been a week.&lt;/p&gt;
+&lt;p&gt;It&#39;s also only Wednesday.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+</feed>

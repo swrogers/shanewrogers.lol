@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>My Corner of the Internet Feed for journal</title>
+	<subtitle>Just my little corner of the internet.</subtitle>
+	
+	<link href="https://shanewrogers.lol/feed/feed.xml" rel="self"/>
+	<link href="https://shanewrogers.lol/"/>
+	<updated>2024-05-01T16:19:52+00:00</updated>
+	<id>https://shanewrogers.lol</id>
+	<author>
+		<name>Shane Rogers</name>
+		<email>swrogers@omg.lol</email>
+	</author>
+	
+	<entry>
+		<title>Another day, another day</title>
+		<link href="https://shanewrogers.lol/posts/another-day-another-day/"/>
+		<updated>2024-03-30T20:16:05+00:00</updated>
+		<id>https://shanewrogers.lol/posts/another-day-another-day/</id>
+		<content type="html">
+		  &lt;h2 id=&quot;another-entry-in-the-daily-stuff&quot;&gt;Another entry in the daily stuff &lt;a class=&quot;direct-link&quot; href=&quot;#another-entry-in-the-daily-stuff&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Let&#39;s see what we can do about getting something written on the daily, eh? I don&#39;t know if I&#39;ll be successful here, but it&#39;s important to have some kind of goal I guess. I&#39;ll file these under the &lt;a href=&quot;https://shanewrogers.lol/tags/journal&quot; title=&quot;journal tags&quot;&gt;journal&lt;/a&gt; tag (note to self: come back and make that a proper link to the journal tag page) so I can do whatever with them in the future.&lt;/p&gt;
+&lt;p&gt;Today it&#39;s Saturday. Really, most normal adults/kids/people/pigs/horses/spiders/lizards/whatever would probably love a good weekend day. For some reason, I&#39;m not always a fan. I don&#39;t know why, I think it&#39;s because I miss working. Not that I&#39;m a workaholic, but I find that I enjoy what I do in my normal life. There&#39;s just too much stuff that needs to be done during the weekend to maintain a house and home.&lt;/p&gt;
+&lt;p&gt;Not that I don&#39;t like that stuff, either. It&#39;s nearly lawn mowing season - I absolutely love mowing the lawn! I don&#39;t think that 12 year old me would believe that statement, but it&#39;s true. It&#39;s a time to put the buds in and listen to some nerdcore! (note to self: I should make a section dedicated to what I&#39;m listening to, perhaps pull in my lastfm stuff as a data collection via rss.) It&#39;s also about time to make another attempt at getting some fruit trees planted, which is always fun.&lt;/p&gt;
+&lt;p&gt;Right now, I&#39;m just sitting here, typing away, listening to the &lt;em&gt;Snoopy Show&lt;/em&gt; on AppleTV. Outside, the weather is pretty nice, we&#39;ve got the rather large bounce house set up outside for the youngest kiddo, it&#39;s kinda noisy too. It&#39;s funny, you know, the things that we purchase for our kids: the things that we would have killed to have when we were young. A swing set slash jungle gym. A bounce house. Various playground type equipment. Stuff that never gets used.&lt;/p&gt;
+&lt;p&gt;Well, I guess that&#39;s not completely true. It does get used, some. Just not as much as one would have hoped. Meh.&lt;/p&gt;
+&lt;p&gt;Sigh, well, I&#39;m out of coffee. Of course, who needs coffee at three thirty in the afternoon? Stupid rhetorical question, that. I always need coffee.&lt;/p&gt;
+&lt;h2 id=&quot;setup-stuff%2C-emacs-wise&quot;&gt;Setup stuff, emacs wise &lt;a class=&quot;direct-link&quot; href=&quot;#setup-stuff%2C-emacs-wise&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;This particular emacs setup, what I&#39;m writing in now, from an older laptop running current Pop_OS, isn&#39;t really to my liking. Even though it&#39;s running the same doom setup as my work machine, it&#39;s not perfect. My work machine, I guess I can&#39;t really say that I run emacs from that device since I ssh into a locally hosted kvm box via wsl....meh, there are differences. I wish I could grok &lt;code&gt;guix&lt;/code&gt; or &lt;code&gt;nixos&lt;/code&gt;, but alas, I&#39;m stil stuck in the realm of linux.&lt;/p&gt;
+&lt;p&gt;Where was I? Oh yes, I do have &lt;code&gt;org-capture&lt;/code&gt; templates set up that work just fine. I need to get the popup capture buffer to take the whole frame, though. I don&#39;t like that it also visits the capture buffer in the originally opened frame as well. It&#39;s an annoyance.&lt;/p&gt;
+&lt;p&gt;I&#39;m sure there should be more. I think I&#39;m going to wait until I&#39;ve got more, eh, content, here before I get various rss feeds set up for feeding into some of my social sites. I feel that I should probably &amp;quot;own my social&amp;quot;, too, and I do have at least one I run - but it&#39;s certainly a chore. We shall see.&lt;/p&gt;
+&lt;p&gt;With that, I&#39;m out.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+</feed>

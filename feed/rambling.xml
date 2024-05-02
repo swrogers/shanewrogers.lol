@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>My Corner of the Internet Feed for rambling</title>
+	<subtitle>Just my little corner of the internet.</subtitle>
+	
+	<link href="https://shanewrogers.lol/feed/feed.xml" rel="self"/>
+	<link href="https://shanewrogers.lol/"/>
+	<updated>2024-05-01T16:19:52+00:00</updated>
+	<id>https://shanewrogers.lol</id>
+	<author>
+		<name>Shane Rogers</name>
+		<email>swrogers@omg.lol</email>
+	</author>
+	
+	<entry>
+		<title>And Now For Something Different</title>
+		<link href="https://shanewrogers.lol/posts/and-now-for-something-different/"/>
+		<updated>2024-04-29T20:29:44+00:00</updated>
+		<id>https://shanewrogers.lol/posts/and-now-for-something-different/</id>
+		<content type="html">
+		  &lt;p&gt;Ah and now for something (not so?) completely different! For those of you who have been following along at home - which, I suppose, would really just be me, myself and I - I&#39;ve made some changes to the site.&lt;/p&gt;
+&lt;p&gt;No longer is the static site based on Eleventy Duo. Welcome, instead, to &lt;a href=&quot;https://github.com/google/eleventy-high-performance-blog&quot;&gt;eleventy high performance blog&lt;/a&gt;. Being a tinkerer does at times really, really suck. Never being happy or content with the way things are on the old blog.&lt;/p&gt;
+&lt;p&gt;The change actually went a lot smoother than I was anticipating it going. I cloned the new template to a clean directory. Made the changes that I needed to make to it (at least, started them - I&#39;m sure more will come). Renamed the remote origin and added a new remote origin. Then, over in my now old and stale github repo I renamed the &#39;main&#39; branch, added a new &#39;to migrate&#39; branch, then went back to the new template and did the ol&#39; something of a force push to the new branch on my static site repo.&lt;/p&gt;
+&lt;p&gt;Once that was done, I had to rename the local and remote repos back to main and set the new default branch.&lt;/p&gt;
+&lt;p&gt;Thankfully, things still just worked after that! Had to make a single change to the emacs org capture template to ensure the directory for the posts was good...now, I think we&#39;re golden.&lt;/p&gt;
+&lt;p&gt;Or at least a decent shade of pale yellow.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Just a handful of notes please</title>
+		<link href="https://shanewrogers.lol/posts/just-a-handful-of-notes-please/"/>
+		<updated>2024-04-22T21:04:04+00:00</updated>
+		<id>https://shanewrogers.lol/posts/just-a-handful-of-notes-please/</id>
+		<content type="html">
+		  &lt;p&gt;We shall go ahead and tag this one into the &lt;a href=&quot;https://shanewrogers.lol/tags/rambling&quot;&gt;rambling&lt;/a&gt; series, why not? Kind of a small update of a few things that have happened over the course of the last couple of days I suppose.&lt;/p&gt;
+&lt;h2 id=&quot;i&#39;m-really-bad-a-blogging&quot;&gt;I&#39;m really bad a blogging &lt;a class=&quot;direct-link&quot; href=&quot;#i&#39;m-really-bad-a-blogging&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Point taken, I&#39;m not really good at sitting down and getting something on digital paper every single day. Granted, I&#39;m not good at sitting down and getting something put on actual real paper, either. At least I&#39;m equal opportunity when it comes to writing. Which I find a little sad, since it is something that I enjoy doing. I&#39;m trying, though.&lt;/p&gt;
+&lt;p&gt;The end of last week was really good, though. Our twins performed in one of the local plays and three of the performances were last Thursday, Friday and Saturday. I (well, my spouse and I both) are beyond proud of them (again, all of our kids, actually) for doing things that I could never have even thought of doing when I was their age. &amp;quot;What, get up on stage and act?! No thank you.&amp;quot; I&#39;m very, very introverted. The thought of doing a play (or musical!) would petrify me. The musical they did as well, earlier in the year, so yeah!&lt;/p&gt;
+&lt;p&gt;They did exceedingly well. I can not brag on my kids enough.&lt;/p&gt;
+&lt;h2 id=&quot;i&#39;m-also-bad-at-reading-self-help-books&quot;&gt;I&#39;m also bad at reading self help books &lt;a class=&quot;direct-link&quot; href=&quot;#i&#39;m-also-bad-at-reading-self-help-books&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Yeah, not that I have a whole &lt;strong&gt;lot&lt;/strong&gt; of self help books, but I have picked up a couple of them that really interested me. I&#39;d found a hardback copy of &lt;em&gt;William Zinsser&#39;s Writing to Learn&lt;/em&gt;, which just seemed very cool and might perhaps help out with this personal site of mine. Guess how much of it I&#39;ve read? A couple of pages. But enough I know that I think I&#39;ll really like the style. Ha.&lt;/p&gt;
+&lt;p&gt;Next, I finally got my copy of &lt;em&gt;Brain Hacks&lt;/em&gt;, by &lt;em&gt;Lara Honos-Webb&lt;/em&gt;, which seems like it could help with some organizational skills that frankly any of us could use. It was actually recommended to one of the previously mentioned twins above that he should read it for one of his projects. So he is. I don&#39;t know that he&#39;s gotten much out of it - but hopefully more than I have, as I&#39;ve read an astounding two pages in it. Sigh.&lt;/p&gt;
+&lt;h2 id=&quot;i&#39;m-better-at-reading-for-enjoyment&quot;&gt;I&#39;m better at reading for enjoyment &lt;a class=&quot;direct-link&quot; href=&quot;#i&#39;m-better-at-reading-for-enjoyment&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I will admit, that I do actually enjoy reading and am continuing to work my way through &lt;em&gt;The Expanse&lt;/em&gt; novels. Currently reading &lt;em&gt;Nemesis Games&lt;/em&gt; in what spare time I can steal. I&#39;m also reading &lt;em&gt;The Dark Elf Trilogy&lt;/em&gt; to at least one of the twins, we just got into the second book the other week. This is the second go through of this series for me.&lt;/p&gt;
+&lt;h2 id=&quot;other-news%3F&quot;&gt;Other news? &lt;a class=&quot;direct-link&quot; href=&quot;#other-news%3F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I always feel like I should put something down about the current state of this site. I don&#39;t know why. I&#39;m happy with it, but not really super happy with it. I guess it&#39;s a great medium to just be able to get words down. I don&#39;t really care too much for the theme or the look of the site, but then I don&#39;t have the time to put into making it any better. I&#39;d like to do more with webmentions and other indieweb stuff - but then I also don&#39;t do a whole lot with social media, period. It&#39;s tough.&lt;/p&gt;
+&lt;p&gt;I like to write, I&#39;ll continue to write, whether or not people read really doesn&#39;t concern me.&lt;/p&gt;
+&lt;p&gt;We&#39;ll leave it at that.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Not another new server</title>
+		<link href="https://shanewrogers.lol/posts/not-another-new-server/"/>
+		<updated>2024-04-17T21:17:08+00:00</updated>
+		<id>https://shanewrogers.lol/posts/not-another-new-server/</id>
+		<content type="html">
+		  &lt;h2 id=&quot;another-fediverse-server%3F!&quot;&gt;Another Fediverse Server?! &lt;a class=&quot;direct-link&quot; href=&quot;#another-fediverse-server%3F!&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;No, I don&#39;t have &lt;em&gt;yet another fediverse server instance&lt;/em&gt; stood up.&lt;/p&gt;
+&lt;p&gt;Not for some lack of trying, mind you, I just don&#39;t have the energy to put into working through all the nits and nats that are involved with ruby. I shudder to think. I&#39;ve never really been a huge fan of that whole ecosystem.&lt;/p&gt;
+&lt;p&gt;It&#39;s not as bad as the JavaScript world, but it&#39;s not fun to navigate for me either.&lt;/p&gt;
+&lt;p&gt;I was wanting to get a &lt;a href=&quot;https://diasporafoundation.org/&quot;&gt;Diaspora&lt;/a&gt; instance set up on a digital ocean droplet, but decided against it. Then, to follow along in some other rabbit hole, I signed up on Yet Another ActivityPub Instance, in the form of &lt;a href=&quot;https://akkomane.social/@shane&quot;&gt;Akkomane Social&lt;/a&gt;. It seems nice, thus far.&lt;/p&gt;
+&lt;p&gt;In other news, yeah - it&#39;s been a week.&lt;/p&gt;
+&lt;p&gt;It&#39;s also only Wednesday.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Another Day Down</title>
+		<link href="https://shanewrogers.lol/posts/another-day-down/"/>
+		<updated>2024-04-10T17:30:14+00:00</updated>
+		<id>https://shanewrogers.lol/posts/another-day-down/</id>
+		<content type="html">
+		  &lt;h2 id=&quot;yeah-it&#39;s-my-rambling-series%2C-so-what%3F&quot;&gt;Yeah It&#39;s My Rambling Series, So What? &lt;a class=&quot;direct-link&quot; href=&quot;#yeah-it&#39;s-my-rambling-series%2C-so-what%3F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;If it&#39;s one thing that I&#39;ve noticed of late, it&#39;s that I must really enjoy rambling about nothing in particular. I suppose that&#39;s fine, of course, because it&#39;s good practice for any &lt;em&gt;actual&lt;/em&gt; writing that might come from this site.&lt;/p&gt;
+&lt;p&gt;Of course, I think that we all know there we never be any &lt;em&gt;actual, real&lt;/em&gt; writing on this site. Who am I fooling, anyway?&lt;/p&gt;
+&lt;h2 id=&quot;last-time-on...&quot;&gt;Last Time On... &lt;a class=&quot;direct-link&quot; href=&quot;#last-time-on...&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;When last we joined in the great adventures of &lt;em&gt;nobody in particular&lt;/em&gt; we had the washer and dryer in place. Not running or working, mind you. Because life is a fickle little something or other. I don&#39;t know who was in charge, or what they were smoking, or even what was running through their mind when it was decided by the powers that be that it was all &amp;quot;A Okay&amp;quot; to ship a meager six foot dryer power cord along with a pre-stacked washer and dryer unit.&lt;/p&gt;
+&lt;p&gt;Especially when the electrical connection is at the upper back (we&#39;ll call it the upper right corner, looking at the thing from the back side) of the over six foot tall unit. Can you guess where I&#39;m going here? Our laundry room is set up to accommodate side by side units. As I would wager most peoples&#39; places are. Normally, this is not a problem. The power cord they ship (which, we have to purchase, naturally) didn&#39;t reach the dryer plug outlet on the wall by, oh, six inches. Not that it matters how short it was - it just flat out didn&#39;t reach.&lt;/p&gt;
+&lt;p&gt;Of course nobody in town has a replacement dryer cord that we could pick up the same day. So, as we&#39;ve already read, we got one from amazon. A nice, ten footer. It reached no problem. All said and done, installed, working great! Finally, clean clothes!&lt;/p&gt;
+&lt;h2 id=&quot;state-of-my-blog&quot;&gt;State Of My Blog &lt;a class=&quot;direct-link&quot; href=&quot;#state-of-my-blog&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I&#39;ve made some changes on the linkages up top, as well as the intro paragraph on the homearea page. I even have a newly opened branch where I&#39;ve got David Darnes &lt;a href=&quot;https://github.com/daviddarnes/mastodon-post/tree/main&quot;&gt;mastodon-post&lt;/a&gt; Web Component up and running (with a nod towards &lt;a href=&quot;https://coryd.dev/posts/2024/automatic-mastodon-post-embeds/&quot;&gt;Cory Dransfeldt&#39;s&lt;/a&gt; set up as well). It needs some love and I&#39;m not sure it&#39;ll ever go live, I don&#39;t know. I&#39;d want to perchance get a shortcode template set up to make it simpler for my needs.&lt;/p&gt;
+&lt;p&gt;With that, we&#39;ll call that an entry. I think I&#39;m doing a little better, I might even expand my writing to more than waxing about this silly site that I&#39;m making.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Sometimes one wonders</title>
+		<link href="https://shanewrogers.lol/posts/sometimes-one-wonders/"/>
+		<updated>2024-04-08T18:20:28+00:00</updated>
+		<id>https://shanewrogers.lol/posts/sometimes-one-wonders/</id>
+		<content type="html">
+		  &lt;h2 id=&quot;for-crying-out-loud&quot;&gt;For Crying Out Loud &lt;a class=&quot;direct-link&quot; href=&quot;#for-crying-out-loud&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I&#39;m sure that I&#39;m not alone in this wondering, when sometimes it seems as though all the cards, all the world - heck &lt;em&gt;all the cards in all the world&lt;/em&gt; just seem to be lined up against you. These past couple of weeks have been a grand example of that for this household.&lt;/p&gt;
+&lt;p&gt;We had purchased a certain brand (&lt;em&gt;cough&lt;/em&gt; Samsung &lt;em&gt;cough&lt;/em&gt;) washer and dryer. Said brand evidently makes really crappy dryer drums that like to crack and break and basically vomit all over themselves. They don&#39;t admit this, of course, and they aren&#39;t taking care of the problem. So we bought another brand in a single stacked unit. Because ours is a household that is very OCD about having things be the same. Plus, the stacked unit has the controls in the middle for the short people in the home. Plus we now have a little extra storage room in the washer and dryer room.&lt;/p&gt;
+&lt;p&gt;The first couple of guys who delivered the unit weren&#39;t the brightest bulbs in the garden. They either didn&#39;t know how to unhook the old units, or didn&#39;t know that &amp;quot;Yes, Alice, there is going to be a little water that leaks out of the old hose&amp;quot;. So they wouldn&#39;t finish the install, leaving the new unit in our garage.&lt;/p&gt;
+&lt;p&gt;Fast forward to today, we get the old units removed and the new unit in place. Yes! Oh, what&#39;s this? The power cord goes from the top far corner of the unit and is about two (2) feet too stinking short?! No!! Dammit.&lt;/p&gt;
+&lt;h2 id=&quot;misery-is-a-beast&quot;&gt;Misery is a beast &lt;a class=&quot;direct-link&quot; href=&quot;#misery-is-a-beast&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Yeah. So, we were super stoked to get the new unit. Now we&#39;re basically at the point where we don&#39;t even wanna see the flipping thing in the home. But there it is, mocking us. Just sitting there, all unplugged. Laughing at us. No place in town sells a 10 foot four prong dryer cord. Now, we wait for the order from our saviour...amazon. Ugh.&lt;/p&gt;
+&lt;p&gt;We really were hoping to get some laundry done today.&lt;/p&gt;
+&lt;h2 id=&quot;on-the-bright-side&quot;&gt;On the bright side &lt;a class=&quot;direct-link&quot; href=&quot;#on-the-bright-side&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;We did get to see some of the eclipse today! So much better than 2017, when it was terribly cloudy and overcast. This one reminded me of when I was in high school (mid 90s) and we also got to experience an eclipse. Very cool.&lt;/p&gt;
+&lt;p&gt;With that - until next time.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>More Updates and Stuff!</title>
+		<link href="https://shanewrogers.lol/posts/more-updates-and-stuff!/"/>
+		<updated>2024-04-05T20:42:04+00:00</updated>
+		<id>https://shanewrogers.lol/posts/more-updates-and-stuff!/</id>
+		<content type="html">
+		  &lt;h2 id=&quot;more-things-added-around-here&quot;&gt;More things added around here &lt;a class=&quot;direct-link&quot; href=&quot;#more-things-added-around-here&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;I&#39;ve added my &lt;a href=&quot;https://shanewrogers.lol/links&quot;&gt;links&lt;/a&gt; page now, along with a super nifty bookmarklet that I can use to add new links from the browser. I&#39;m sure that if anybody were to do any kind of digging on the interweb, they&#39;d know where I was able to grab some of the implementation details from. Of course, we all make our own nifty little changes, and I was no different.&lt;/p&gt;
+&lt;p&gt;For one, I don&#39;t like a bunch of folders and &lt;em&gt;index.html&lt;/em&gt; files all over the place - so that had to go.&lt;/p&gt;
+&lt;p&gt;One thing that I&#39;ve noticed, here in the land of emacs, is that my capture session seems to have run into some interesting kinks. Oh, I bet it didn&#39;t like the &lt;em&gt;!&lt;/em&gt; I used in the filename...what was I thinking!?&lt;/p&gt;
+&lt;p&gt;Anyway.&lt;/p&gt;
+&lt;h2 id=&quot;where-was-i%3F&quot;&gt;Where was I? &lt;a class=&quot;direct-link&quot; href=&quot;#where-was-i%3F&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Oh yes - I wanted to kind of explain my thinking on having &lt;em&gt;both&lt;/em&gt; &lt;a href=&quot;https://shanewrogers.lol/drops&quot;&gt;drops&lt;/a&gt; &lt;strong&gt;and&lt;/strong&gt; &lt;a href=&quot;https://shanewrogers.lol/links&quot;&gt;links&lt;/a&gt;. To me, the &lt;em&gt;drops&lt;/em&gt; are for pages that I want to ensure never go away. A &lt;em&gt;read it later&lt;/em&gt;, if you will. The service I use (&lt;a href=&quot;https://raindrop.io/&quot;&gt;raindrop.io&lt;/a&gt;), takes care of that for me since I&#39;m a subscriber. &lt;a href=&quot;https://shanewrogers.lol/links&quot;&gt;Links&lt;/a&gt;, on the other hand, I don&#39;t care if those stick around or not. Plus, those actually get saved as files in the repo, as opposed to the drops, which are ephemeral data from the ether.&lt;/p&gt;
+&lt;p&gt;That&#39;s my thinking, anyhow.&lt;/p&gt;
+&lt;p&gt;All said and done, I think for now I&#39;m more or less finished with the structure of the site. Now, I just need more content - which will come with time. Then I can set up paging with whatever needs it. That, and get some rss feeds finalized, along with cross posting.&lt;/p&gt;
+&lt;p&gt;Till next time.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Oh for crying out loud!</title>
+		<link href="https://shanewrogers.lol/posts/oh-for-crying-out-loud!/"/>
+		<updated>2024-04-04T17:37:14+00:00</updated>
+		<id>https://shanewrogers.lol/posts/oh-for-crying-out-loud!/</id>
+		<content type="html">
+		  &lt;h2 id=&quot;all-i-can-do-is...&quot;&gt;All I can do is... &lt;a class=&quot;direct-link&quot; href=&quot;#all-i-can-do-is...&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Just sigh. In the realm of household appliances, my luck has not generally been very good. Let&#39;s just head straight into our latest little issue. We have (had? still have?) a Samsung Dryer.&lt;/p&gt;
+&lt;p&gt;For most of you who are (not?) out there, you may or may not know that Samsung makes a really shoddy piece of junk for a dryer. The drums in them like to crack and the rollers basically destroy themselves. It&#39;s a major issue, and they are basically ignoring the problem.&lt;/p&gt;
+&lt;p&gt;So we purchased a new set, that is not Samsung. The delivery was this morning, but naturally did not get to go as planned. Something to do with the water shutoff valve not cooperating with the cold water. Yippee.&lt;/p&gt;
+&lt;p&gt;I just can&#39;t even, right now.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Good grief and all the gravy</title>
+		<link href="https://shanewrogers.lol/posts/good-grief-and-all-the-gravy/"/>
+		<updated>2024-04-03T20:32:52+00:00</updated>
+		<id>https://shanewrogers.lol/posts/good-grief-and-all-the-gravy/</id>
+		<content type="html">
+		  &lt;h2 id=&quot;more-site-updates&quot;&gt;More site updates &lt;a class=&quot;direct-link&quot; href=&quot;#more-site-updates&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Now I&#39;ve added another section to the olde interweb presence: &lt;a href=&quot;https://shanewrogers.lol/drops&quot;&gt;Drops&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&amp;quot;What are drops?&amp;quot; I can hear absolutely nobody asking...well, I&#39;m glad you asked! Basically they&#39;re my &lt;em&gt;Read It Later&lt;/em&gt; links that I use some other web service to save for me - both the actual link, the data on the page, content and all that jazzy stuff. It&#39;s a service that I actually - shock! awe! - pay for.&lt;/p&gt;
+&lt;p&gt;I&#39;d like to have all of that data &lt;em&gt;here&lt;/em&gt; on this site - well, I guess it&#39;d be in the github repo, but still. As it is, I grab the latest 25 entries and display them on the &lt;a href=&quot;https://shanewrogers.lol/drops&quot;&gt;drops&lt;/a&gt; page. I suppose at some point in time I&#39;ll actually build in some kind of link roll or link blog or whatever, that way I can have the actual history in my site - but for now this is fine.&lt;/p&gt;
+&lt;p&gt;It took me way, &lt;strong&gt;way&lt;/strong&gt; too stinking long to get the secrets info dealt with for the github action. Too many tangents and too many wrong turns. But things seem to be working now.&lt;/p&gt;
+&lt;p&gt;Time for some breakage I think.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>About ready to let things grow naturally now</title>
+		<link href="https://shanewrogers.lol/posts/about-ready-to-let-things-grow-naturally-now/"/>
+		<updated>2024-03-29T21:13:04+00:00</updated>
+		<id>https://shanewrogers.lol/posts/about-ready-to-let-things-grow-naturally-now/</id>
+		<content type="html">
+		  &lt;h2 id=&quot;on-how-this-site-is-gonna-go&quot;&gt;On how this site is gonna go &lt;a class=&quot;direct-link&quot; href=&quot;#on-how-this-site-is-gonna-go&quot;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Yeah, I think at this point I&#39;m about at a spot where I think It&#39;s time to just let things grow naturally and have features (insofar as they can be called that...) added naturally. Or, organically, if one would rather refer to that type of growth as such.&lt;/p&gt;
+&lt;p&gt;I&#39;ve got my org capture template setup in my doom emacs config that creates the file with a datestamp and a prompted file name. I&#39;ve got my swrlol yasnippet that creates the frontmatter for me. It might be nice if I were to take that prompted value for the file name and use it for the title within the frontmatter - I might look into that one.&lt;/p&gt;
+&lt;p&gt;I&#39;ve today added my short stuff slash notes category. I need to add an rss feed just for that - also perhaps give it the ability to take its own tags as well.&lt;/p&gt;
+&lt;p&gt;After that and a bit of time, it&#39;ll be ready to begin looking into getting things cross posted over to mastodon.&lt;/p&gt;
+&lt;p&gt;Then it&#39;ll be time to also look into pulling some posts from pixelfed. I&#39;d still rather somebody else host images for me, since that is quite the expense and hassle that I would not like to enter into.&lt;/p&gt;
+&lt;p&gt;I am really enjoying eleventy, though. It&#39;s pretty nice.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+</feed>
