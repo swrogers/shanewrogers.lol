@@ -28,4 +28,4 @@ These ring well with me. I'm no journalist, no professional writer for sure. But
 
 The challenge is finding it.
 
-Read my other [#weblogpomo2024](/tag/weblogpomo2024) posts.
+Read my other [#weblogpomo2024](/tags/weblogpomo2024) posts.
