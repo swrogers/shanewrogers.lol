@@ -9,6 +9,12 @@
     "url": ""
   },
   "items": [{
+      "id": "https://shanewrogers.lol/posts/it&amp;#39;s-the-fifth-day/",
+      "url": "https://shanewrogers.lol/posts/it&amp;#39;s-the-fifth-day/",
+      "title": "It&#39;s the fifth day",
+      "content_html": "<p>This is the fifth day of the challenge! Yesterday was an attempt to post something using the GitJournal app, which sort of worked, but didn't work quite as smoothly as one would have liked. It failed to save the new file in the appropriate folder, though I'm fairly certain I saved it where it needed. Then when trying to move it, it does a copy instead.</p>\n<p>Which plays havoc with the push to git and the workflow run. Sigh.</p>\n<p>So, in my attempt to both come up with a post today <em>and</em> perhaps a decent mobile way to post, today is just straight into the github web site and add a new post. Is it preferable? Absolutely not.</p>\n<p>In other news today, I was able to get the yard mowed before it rained. I've got this feeling that for the next month or so it's basically going to be &quot;mow whenever you flippin' can&quot;. Otherwise, my old battery operated Snapper just - literally - isn't going to cut it.</p>\n<p>Well, off to the store. Tonight is homemade tomato soup and grilled cheese with smoked gouda. Perhaps a tasty antipasto salad as well.</p>\n<p>Wanna read my other <a href=\"/tags/weblogpomo2024\">#weblogpomo2024</a> posts?</p>\n",
+      "date_published": "2024-05-05T20:05:11+00:00"
+    },{
       "id": "https://shanewrogers.lol/posts/day-four-nothing-more/",
       "url": "https://shanewrogers.lol/posts/day-four-nothing-more/",
       "title": "Day Four, Nothing More",

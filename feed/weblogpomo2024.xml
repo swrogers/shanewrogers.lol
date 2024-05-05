@@ -5,12 +5,29 @@
 	
 	<link href="https://shanewrogers.lol/feed/feed.xml" rel="self"/>
 	<link href="https://shanewrogers.lol/"/>
-	<updated>2024-05-04T21:05:11+00:00</updated>
+	<updated>2024-05-05T20:05:11+00:00</updated>
 	<id>https://shanewrogers.lol</id>
 	<author>
 		<name>Shane Rogers</name>
 		<email>swrogers@omg.lol</email>
 	</author>
+	
+	<entry>
+		<title>It&#39;s the fifth day</title>
+		<link href="https://shanewrogers.lol/posts/it&amp;#39;s-the-fifth-day/"/>
+		<updated>2024-05-05T20:05:11+00:00</updated>
+		<id>https://shanewrogers.lol/posts/it&amp;#39;s-the-fifth-day/</id>
+		<content type="html">
+		  &lt;p&gt;This is the fifth day of the challenge! Yesterday was an attempt to post something using the GitJournal app, which sort of worked, but didn&#39;t work quite as smoothly as one would have liked. It failed to save the new file in the appropriate folder, though I&#39;m fairly certain I saved it where it needed. Then when trying to move it, it does a copy instead.&lt;/p&gt;
+&lt;p&gt;Which plays havoc with the push to git and the workflow run. Sigh.&lt;/p&gt;
+&lt;p&gt;So, in my attempt to both come up with a post today &lt;em&gt;and&lt;/em&gt; perhaps a decent mobile way to post, today is just straight into the github web site and add a new post. Is it preferable? Absolutely not.&lt;/p&gt;
+&lt;p&gt;In other news today, I was able to get the yard mowed before it rained. I&#39;ve got this feeling that for the next month or so it&#39;s basically going to be &amp;quot;mow whenever you flippin&#39; can&amp;quot;. Otherwise, my old battery operated Snapper just - literally - isn&#39;t going to cut it.&lt;/p&gt;
+&lt;p&gt;Well, off to the store. Tonight is homemade tomato soup and grilled cheese with smoked gouda. Perhaps a tasty antipasto salad as well.&lt;/p&gt;
+&lt;p&gt;Wanna read my other &lt;a href=&quot;https://shanewrogers.lol/tags/weblogpomo2024&quot;&gt;#weblogpomo2024&lt;/a&gt; posts?&lt;/p&gt;
+
+			
+		</content>
+	</entry>
 	
 	<entry>
 		<title>Day Four, Nothing More</title>
