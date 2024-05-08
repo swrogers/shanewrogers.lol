@@ -5,7 +5,7 @@
 	
 	<link href="https://shanewrogers.lol/feed/feed.xml" rel="self"/>
 	<link href="https://shanewrogers.lol/"/>
-	<updated>2024-05-07T18:00:11+00:00</updated>
+	<updated>2024-05-08T21:05:11+00:00</updated>
 	<id>https://shanewrogers.lol</id>
 	<author>
 		<name>Shane Rogers</name>
@@ -504,6 +504,23 @@ ul { list-style-position: outside; }
 &lt;p&gt;Okay, so where am I going in all of this rambling? As I get older, as I watch my kids grow into greater ages, I made a decision that I wanted to see them get older. I knew that if I had continued on in the direction that I was going, that I&#39;d be in a grave within very little time. I have no doubt that I have avoided diabetes and at least taken one foot off of the banana peel, so to speak. Not to mention feeling much better and, hopefully, modeling a healthier behavior for my children.&lt;/p&gt;
 &lt;p&gt;No rest for myself on this day, though. The second day of my vacation and I&#39;ve done little to nothing that I would like to get done. Ah, but then who really wants to do pre-spring cleaning on their vacations.&lt;/p&gt;
 &lt;p&gt;Read the rest of my &lt;a href=&quot;https://shanewrogers.lol/tags/weblogpomo2024&quot;&gt;#weblogpomo2024&lt;/a&gt; posts.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>The Eighth Day is an Early Day</title>
+		<link href="https://shanewrogers.lol/posts/the-eighth-day-is-an-early-day/"/>
+		<updated>2024-05-08T21:05:11+00:00</updated>
+		<id>https://shanewrogers.lol/posts/the-eighth-day-is-an-early-day/</id>
+		<content type="html">
+		  &lt;p&gt;It&#39;s the eighth day of the month. I got to drop the older two boys off for zero hour honor choir a little early this morning, 6:50AM instead of 7:00AM. One wouldn&#39;t think that 10 minutes would make much of a difference, but it certainly can. We did get there in time, so yay. Of course, for me just being some place &lt;em&gt;on time&lt;/em&gt; actually means that &lt;em&gt;I&#39;m late&lt;/em&gt;. Now, if I could only get my spouse to adhere to that philosophy. 😂&lt;/p&gt;
+&lt;p&gt;This morning, and tomorrow morning, will both be basically the same. The twins have a music performance on Friday that is the big finale for the year. Tonight we also have a band concert for one of them. Like I said the other day, it&#39;s gonna be a full week. It &lt;em&gt;has been&lt;/em&gt; a full week.&lt;/p&gt;
+&lt;h3 id=&quot;mobile-editing&quot;&gt;Mobile editing &lt;a class=&quot;direct-link&quot; href=&quot;#mobile-editing&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;I think I may have finally found a decent markdown editor that can sync with my git blog repo: &lt;a href=&quot;https://play.google.com/store/apps/details?id=org.eu.thedoc.zettelnotes&quot;&gt;Zettel Notes&lt;/a&gt;. Well, sure, there have been others that can sync and work, but I think I really prefer this one for some reason. Probably because it can actually move files around when requested as opposed to copying them.&lt;/p&gt;
+&lt;p&gt;I think the only thing that I would like to be able to do from mobile (apart from easier photo uploads, but someday maybe) would be running the eleventy test server. Other than that, I&#39;m pretty content with what&#39;s available now.&lt;/p&gt;
+&lt;p&gt;Wanna read my other &lt;a href=&quot;https://shanewrogers.lol/tags/weblogpomo2024&quot;&gt;#weblogpomo2024&lt;/a&gt; posts?&lt;/p&gt;
 
 			
 		</content>

@@ -9,6 +9,12 @@
     "url": ""
   },
   "items": [{
+      "id": "https://shanewrogers.lol/posts/the-eighth-day-is-an-early-day/",
+      "url": "https://shanewrogers.lol/posts/the-eighth-day-is-an-early-day/",
+      "title": "The Eighth Day is an Early Day",
+      "content_html": "<p>It's the eighth day of the month. I got to drop the older two boys off for zero hour honor choir a little early this morning, 6:50AM instead of 7:00AM. One wouldn't think that 10 minutes would make much of a difference, but it certainly can. We did get there in time, so yay. Of course, for me just being some place <em>on time</em> actually means that <em>I'm late</em>. Now, if I could only get my spouse to adhere to that philosophy. 😂</p>\n<p>This morning, and tomorrow morning, will both be basically the same. The twins have a music performance on Friday that is the big finale for the year. Tonight we also have a band concert for one of them. Like I said the other day, it's gonna be a full week. It <em>has been</em> a full week.</p>\n<h3 id=\"mobile-editing\">Mobile editing <a class=\"direct-link\" href=\"#mobile-editing\">#</a></h3>\n<p>I think I may have finally found a decent markdown editor that can sync with my git blog repo: <a href=\"https://play.google.com/store/apps/details?id=org.eu.thedoc.zettelnotes\">Zettel Notes</a>. Well, sure, there have been others that can sync and work, but I think I really prefer this one for some reason. Probably because it can actually move files around when requested as opposed to copying them.</p>\n<p>I think the only thing that I would like to be able to do from mobile (apart from easier photo uploads, but someday maybe) would be running the eleventy test server. Other than that, I'm pretty content with what's available now.</p>\n<p>Wanna read my other <a href=\"/tags/weblogpomo2024\">#weblogpomo2024</a> posts?</p>\n",
+      "date_published": "2024-05-08T21:05:11+00:00"
+    },{
       "id": "https://shanewrogers.lol/posts/and-on-the-seventh-day/",
       "url": "https://shanewrogers.lol/posts/and-on-the-seventh-day/",
       "title": "And on the seventh day",
