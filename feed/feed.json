@@ -9,6 +9,12 @@
     "url": ""
   },
   "items": [{
+      "id": "https://shanewrogers.lol/posts/a-perfectly-cromulent-day/",
+      "url": "https://shanewrogers.lol/posts/a-perfectly-cromulent-day/",
+      "title": "A perfectly cromulent day",
+      "content_html": "<p>I feel like I should have more to write about today.</p>\n<p>I feel like I could (should?) have been more productive today.</p>\n<p>Let us count what all I've accomplished to get done this fine, fine Friday the seventeenth.</p>\n<ul>\n<li>One of our major SaaS applications is going to be upgraded at the end of the month, so that needed to be added to the calendar.</li>\n<li>A group request that I'd made a couple of days ago was just fulfilled, so I was able to make a couple of updates in prep for a background process. Which can't be finished until a separate sync occurs.</li>\n<li>I brought an item to another groups attention, so that the requestor can be thought how to help themselves.</li>\n<li>I've started learning a new service management/issue tracker/asset management/knowledge base system of which I am one of the main admins for our group. This should be fun.</li>\n<li>Trying to pick up some Laravel. I don't know why or for what purpose, seeing as I actually prefer clojure for fun and....well, not really profit seeing as how it's a hobby.</li>\n</ul>\n<p>Yeah, that's about the gist of what I've done today. I guess I did upgrade one of my Kimsufi boxes and portainer container. It's been a moderately full day, and for that I'm completely okay!</p>\n<p>Wanna read my other <a href=\"/tags/weblogpomo2024\">#weblogpomo2024</a> posts?</p>\n",
+      "date_published": "2024-05-17T20:05:11+00:00"
+    },{
       "id": "https://shanewrogers.lol/posts/not-so-messy-this-time/",
       "url": "https://shanewrogers.lol/posts/not-so-messy-this-time/",
       "title": "Not so messy this time",
