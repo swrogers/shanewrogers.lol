@@ -5,7 +5,7 @@
 	
 	<link href="https://shanewrogers.lol/feed/feed.xml" rel="self"/>
 	<link href="https://shanewrogers.lol/"/>
-	<updated>2024-05-19T15:00:00+00:00</updated>
+	<updated>2024-05-20T20:27:56+00:00</updated>
 	<id>https://shanewrogers.lol</id>
 	<author>
 		<name>Shane Rogers</name>
@@ -727,6 +727,25 @@ ul { list-style-position: outside; }
 &lt;p&gt;Now for an attempt at something a little less depressing I guess. While I really, really have been enjoying Zettel Notes, I would like a way to more easily share pics on this site. Without the need to host the images myself. Yeah, that kinda limits me with workflow simplicity. I&#39;ve got the pixelfed account, so there is that, but then omg.lol also has a pretty simple image host as well. Both just take a little extra steps. But this should work, I guess.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://cdn.some.pics/swrogers/664a23faee93d.jpg&quot; alt=&quot;Cropped picture of my IronFlask coffee mug.&quot;&gt;&lt;/p&gt;
 &lt;p&gt;I guess that should do for today.&lt;/p&gt;
+&lt;p&gt;Wanna read my other &lt;a href=&quot;https://shanewrogers.lol/tags/weblogpomo2024&quot;&gt;#weblogpomo2024&lt;/a&gt; posts?&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Just another day</title>
+		<link href="https://shanewrogers.lol/posts/just-another-day/"/>
+		<updated>2024-05-20T20:27:56+00:00</updated>
+		<id>https://shanewrogers.lol/posts/just-another-day/</id>
+		<content type="html">
+		  &lt;p&gt;The 20th of the month, and the first time that I&#39;ve actually sat down at a computer to write a post in, oh, what seems like forever at this point. I&#39;ve remembered to &lt;code&gt;git pull --rebase&lt;/code&gt; so - hopefully - there won&#39;t be any errors thrown by git. What I&#39;ve not done is to come up with some kind of theme for todays entry.&lt;/p&gt;
+&lt;p&gt;The morning was pretty much blown, not only was there no real sleep to have been had (stopped up nasal situation, creating a wonderfully sore throat), but then there was the need to get the two oldest and the youngest kiddos in for their annual &amp;quot;well child&amp;quot; check. Always a good time. At least our family doctor is easy to talk to and we generally really like her. Would definitely recommend her as a local doc anytime I see people ask about who to go to in any of the local groups. The only thing that I (we...) don&#39;t care so much for is the fact that her practice was sucked up into the local hospital conglomerate a handful of years ago. Ugh.&lt;/p&gt;
+&lt;h3 id=&quot;just-chillaxing-here&quot;&gt;Just chillaxing here &lt;a class=&quot;direct-link&quot; href=&quot;#just-chillaxing-here&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;So, I&#39;m just sitting here putting off one of the more dull parts of my duties. Instead of which, I&#39;m listening to my eldest twin talk his way through an attempted understanding of building a binary input system that outputs an analog number using simple logic gates. Not only has he basically taught this to himself (with a small amount of input from myself), but he has more or less sucessfully reversed engineered a simple prebuilt machine and added a third bit. Listening to him explain the process, and be super excited about his progress, is enough to make this geeky Dad very, very proud.&lt;/p&gt;
+&lt;p&gt;I&#39;ve also been kind of halfway &lt;em&gt;futzing&lt;/em&gt; (that&#39;s a technical term there) around with creating a process to pull in a weeks worth of &lt;code&gt;raindrop.io&lt;/code&gt; links into distinct data directories within this blog. I&#39;ve got a pretty simple solution that will pull in the previous weeks worth of items, create any necessary &lt;code&gt;YYYY/MM&lt;/code&gt; directory, then write a &lt;code&gt;response.json&lt;/code&gt; file containing the items. I guess I&#39;d probably rather create &lt;em&gt;week number&lt;/em&gt; directories as opposed to month directories though - that would make more sense in that process. The idea being that I could have a weekly post of all the links that I wanted to save and share for that previous week. I also do use the paid &lt;a href=&quot;http://raindrop.io/&quot;&gt;raindrop.io&lt;/a&gt; account, so I think I could maybe link to the cache - not sure on that, though. At least for me, I could.&lt;/p&gt;
+&lt;p&gt;This past few days I&#39;ve also been trying to get more familier with the &lt;a href=&quot;https://nyxt.atlas.engineer/&quot;&gt;Nyxt&lt;/a&gt; web browser. It&#39;s kind of an &lt;em&gt;on again, off again&lt;/em&gt; deal with me. Some of my browsing I do over an X tunnel, and nyxt just seems a little bit faster than firefox. Plus, it&#39;s &lt;code&gt;lisp&lt;/code&gt; based and I&#39;m still in that phase of learning new things.&lt;/p&gt;
+&lt;p&gt;With that, I think we shall call it an end.&lt;/p&gt;
 &lt;p&gt;Wanna read my other &lt;a href=&quot;https://shanewrogers.lol/tags/weblogpomo2024&quot;&gt;#weblogpomo2024&lt;/a&gt; posts?&lt;/p&gt;
 
 			
