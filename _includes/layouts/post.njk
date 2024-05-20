@@ -18,6 +18,16 @@ templateClass: tmpl-post
 {% block article %}
 {{ content | safe }}
 
+  <a href="#" id="shareopenly"><img src="https://shareopenly.org/images/logo.svg" alt="Share to social media">Share this article</a>
+  <script>
+   document.querySelector('#shareopenly').addEventListener('click', (e) => {
+     e.preventDefault();
+     let href = 'https://' + 'shareopenly' + '.org/share/?url=';
+     href += `${encodeURIComponent(window.location.href)}&text=${encodeURIComponent(document.title)}`;
+     window.location.href = href;
+   });
+  </script>
+
 <!--
 <h1>🙏🙏🙏</h1>
 <p>
