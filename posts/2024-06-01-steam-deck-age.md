@@ -1,6 +1,6 @@
 ---
 title: The Steam Deck Age
-date: 2024-05-04T16:05:11-05:00
+date: 2024-06-01T16:05:11-05:00
 permalink: 'posts/{{ title | slug }}/'
 tags: [steam,workspace,photo]
 ---
