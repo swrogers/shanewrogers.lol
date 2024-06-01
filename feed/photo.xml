@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>My Corner of the Internet Feed for photo</title>
+	<subtitle>Just my little corner of the internet.</subtitle>
+	
+	<link href="https://shanewrogers.lol/feed/feed.xml" rel="self"/>
+	<link href="https://shanewrogers.lol/"/>
+	<updated>2024-06-01T01:05:11+00:00</updated>
+	<id>https://shanewrogers.lol</id>
+	<author>
+		<name>Shane Rogers</name>
+		<email>swrogers@omg.lol</email>
+	</author>
+	
+	<entry>
+		<title>The Steam Deck Age</title>
+		<link href="https://shanewrogers.lol/posts/the-steam-deck-age/"/>
+		<updated>2024-05-04T21:05:11+00:00</updated>
+		<id>https://shanewrogers.lol/posts/the-steam-deck-age/</id>
+		<content type="html">
+		  &lt;p&gt;Just because the May challenge is over doesn&#39;t mean that I can&#39;t still try to keep some writing going.&lt;/p&gt;
+&lt;p&gt;As I had stated earlier, I&#39;ve had the opportunity to move my workspace into a downstairs location, and I think I kind of like how things are situated now. It&#39;s a good feeling to have a nice clean start, without quite so much clutter. I had even brought another box down, but said to myself: &amp;quot;Self, do I really need to bring all this crap down here? No. No I do not.&amp;quot; At which point, I promptly packed that box back and trotted it right back upstairs.&lt;/p&gt;
+&lt;p&gt;Probably one of the nicest bonuses to having this setup down here is that I can dock my SteamDeck and play it without feeling too guilty about not being around the family. I don&#39;t get a whole lot of time to game these days, so I haven&#39;t really been able to take advantage of having my Deck. Now, maybe that can change.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.some.pics/swrogers/665b8cc3b09c1.jpg&quot; alt=&quot;Cropped image of my work area, with the Steamdeck docked.&quot;&gt;&lt;/p&gt;
+&lt;p&gt;All right, with that I think it&#39;s getting to be about time to get some dinner prepped. It&#39;s spaghetti squash with homemade alfredo night, with a side of asparagus.&lt;/p&gt;
+&lt;p&gt;Have a good night all!&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+</feed>

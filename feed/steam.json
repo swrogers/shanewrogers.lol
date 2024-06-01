@@ -1,0 +1,19 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "My Corner of the Internet feed for steam",
+  "home_page_url": "https://shanewrogers.lol/",
+  "feed_url": "https://shanewrogers.lol/feed/feed.json",
+  "description": "Just a place for me to share some stuff.",
+  "author": {
+    "name": "Shane Rogers",
+    "url": ""
+  },
+  "items": [{
+      "id": "https://shanewrogers.lol/posts/the-steam-deck-age/",
+      "url": "https://shanewrogers.lol/posts/the-steam-deck-age/",
+      "title": "The Steam Deck Age",
+      "content_html": "<p>Just because the May challenge is over doesn't mean that I can't still try to keep some writing going.</p>\n<p>As I had stated earlier, I've had the opportunity to move my workspace into a downstairs location, and I think I kind of like how things are situated now. It's a good feeling to have a nice clean start, without quite so much clutter. I had even brought another box down, but said to myself: &quot;Self, do I really need to bring all this crap down here? No. No I do not.&quot; At which point, I promptly packed that box back and trotted it right back upstairs.</p>\n<p>Probably one of the nicest bonuses to having this setup down here is that I can dock my SteamDeck and play it without feeling too guilty about not being around the family. I don't get a whole lot of time to game these days, so I haven't really been able to take advantage of having my Deck. Now, maybe that can change.</p>\n<p><img src=\"https://cdn.some.pics/swrogers/665b8cc3b09c1.jpg\" alt=\"Cropped image of my work area, with the Steamdeck docked.\"></p>\n<p>All right, with that I think it's getting to be about time to get some dinner prepped. It's spaghetti squash with homemade alfredo night, with a side of asparagus.</p>\n<p>Have a good night all!</p>\n",
+      "date_published": "2024-05-04T21:05:11+00:00"
+    }
+  ]
+}
