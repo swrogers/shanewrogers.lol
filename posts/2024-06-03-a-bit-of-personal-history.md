@@ -3,7 +3,6 @@ title: A bit of personal history
 date: 2024-06-03T14:48:25-05:00
 permalink: posts/{{ title | slug }}/
 tags: [personal]
-draft: true
 ---
 I was not raised in a family that provided a lot of what I'll call *emotional attachment*. My parents probably loved each other, at one point, but if they did I never saw proof of that. Quite the opposite, actually. My parents divorced early in my life.
 
@@ -32,5 +31,3 @@ I didn't spend much time with my Mother. I did wind up staying with my Dad. I kn
 Did I yearn for their attention? No. I can't say that I did.
 
 Has that history made my current life and years difficult? Oh, I think that's safe to say. I can't let people get close. I'm not one for really showing affection. I am emphatic and I do understand when others are going through difficulties, but I'm not really equipped to help necessarily. 
-
-
