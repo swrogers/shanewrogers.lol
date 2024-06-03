@@ -36,6 +36,23 @@ templateClass: tmpl-post
   <a href="https://twitter.com/{{ metadata.author.twitterHandle }}" target="_blank" rel="noopener">ping me on Twitter.</a>
 </p>
 -->
+  <br/>
+{% set nextPost = collections.posts | getNextCollectionItem(page) %}
+{% if nextPost %}
+    <a href="{{ nextPost.url | url }}">
+        <span>Newer: </span>
+        <span>{{ nextPost.data.title }}</span>
+    </a>
+{% endif %}
+
+{% set prevPost = collections.posts | getPreviousCollectionItem(page) %}
+{% if prevPost %}
+    <a href="{{ prevPost.url | url }}">
+        <br/>
+        <span>Older: </span>
+        <span>{{ prevPost.data.title }}</span>
+    </a>
+{% endif %}
 
 <share-widget>
   <button on-click="share" aria-label="Share" href="{{ shareUrl | safe }}">
