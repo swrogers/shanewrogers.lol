@@ -18,7 +18,7 @@ Here is where I start things off, using Zettel Notes I open my "local" storage o
 
 ![Zettel Notes screenshot on Android. Shows a portion of the side menu.](https://cdn.some.pics/swrogers/666086db7dca8.png)
 
-I've got a handful of templates and half started junk in here - I really should clean this out. The main item of interest is the 'blog-template-default.md' file here, though. 
+I've got a handful of templates and half started junk in here - I really should clean this out. The main item of interest is the `blog-template-default.md` file here, though. 
 
 I open that file up and copy the contents...
 ![Screenshot of the Zettel Notes app on Android. Shows the main "App Folder" directory listing where I keep my blog drafts and templates.](https://cdn.some.pics/swrogers/6660872d78e5f.png)
