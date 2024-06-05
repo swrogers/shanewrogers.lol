@@ -1029,7 +1029,7 @@ ul { list-style-position: outside; }
 &lt;h3 id=&quot;the-flow&quot;&gt;The flow &lt;a class=&quot;direct-link&quot; href=&quot;#the-flow&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
 &lt;p&gt;Here is where I start things off, using Zettel Notes I open my &amp;quot;local&amp;quot; storage on my phone via the App Directory.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://cdn.some.pics/swrogers/666086db7dca8.png&quot; alt=&quot;Zettel Notes screenshot on Android. Shows a portion of the side menu.&quot;&gt;&lt;/p&gt;
-&lt;p&gt;I&#39;ve got a handful of templates and half started junk in here - I really should clean this out. The main item of interest is the &#39;&lt;a href=&quot;http://blog-template-default.md/&quot;&gt;blog-template-default.md&lt;/a&gt;&#39; file here, though.&lt;/p&gt;
+&lt;p&gt;I&#39;ve got a handful of templates and half started junk in here - I really should clean this out. The main item of interest is the &lt;code&gt;blog-template-default.md&lt;/code&gt; file here, though.&lt;/p&gt;
 &lt;p&gt;I open that file up and copy the contents...&lt;br&gt;
 &lt;img src=&quot;https://cdn.some.pics/swrogers/6660872d78e5f.png&quot; alt=&quot;Screenshot of the Zettel Notes app on Android. Shows the main &amp;quot;App Folder&amp;quot; directory listing where I keep my blog drafts and templates.&quot;&gt;&lt;/p&gt;
 &lt;p&gt;...into a new entry within the Blog drafts directory. Ive got Zettel set up to automatically name the new note entries with the date as I like, I just have to add the rest of the file name and the extension.&lt;/p&gt;
