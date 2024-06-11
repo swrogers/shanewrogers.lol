@@ -1,7 +1,7 @@
 ---
-Title: It still pains
+title: It still pains
 Date: 2024-06-10T16:05:11-05:00
-permalink: 'posts/ {{ title | slug }}/ '
+permalink: 'posts/{{ title | slug }}/'
 tags: [journal]
 ---
 Ah, the great and powerful Monday.
