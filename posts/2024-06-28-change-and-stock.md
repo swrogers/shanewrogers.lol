@@ -22,4 +22,4 @@ I guess it's time to take stock of what my abilities are and what I'm capable of
 
 What a week.
 
-This is post 1/100 of my #100DaysToOffload posts. You can read the other posts in this series [here](/tags/100daystooffload).
+This is post 10/100 of my #100DaysToOffload posts. You can read the other posts in this series [here](/tags/100daystooffload).
