@@ -1,6 +1,6 @@
 ---
 title: First Day Back
-date: 2024-05-04T16:05:11-05:00
+date: 2024-07-08T16:05:11-05:00
 permalink: 'posts/{{ title | slug }}/'
 tags: [journal,100DaysToOffload]
 ---
