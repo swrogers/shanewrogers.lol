@@ -9,6 +9,12 @@
     "url": ""
   },
   "items": [{
+      "id": "https://shanewrogers.lol/posts/vendors-gonna-vendor/",
+      "url": "https://shanewrogers.lol/posts/vendors-gonna-vendor/",
+      "title": "Vendors Gonna Vendor",
+      "content_html": "<p>There are a handful of things that I don't understand.</p>\n<p>For one, why can't certain vendors let their customers know that the product that they depend on for their day to day usage was not actually patched to the current patch level on the scheduled time.</p>\n<p>Not only was the time scheduled, but it was of course scheduled by the vendor, seeing as how the customer is basically at the mercy of said vendor.</p>\n<p>Not only did the customer (us) have to check to ensure that the product was patched, but then the customer (us, again) has to contact <em>big vendor</em> support to ask why it wasn't patched.</p>\n<p>Why can't they just pop some kind of email notification that says it was either successful or not?</p>\n<p>Then if not - what the plan of action is?</p>\n<p>Yeah. We asked this question on Monday.</p>\n<p>I was out sick on Tuesday.</p>\n<p>The <strong>only</strong> response we've had thus far was an incorrect notice that none of our instances have been patched at all.</p>\n<p>We have three instances: one each for development, testing and production.</p>\n<p>Our development instance had already been patched, as scheduled, so I got to let the vendor know that...um, no, I don't believe that's correct please don't re-patch.</p>\n<p>Sigh.</p>\n<p>Anyhow - now the vendor has let us know that it's time to board the patching train because they've scheduled the production instance for updating next week, when we haven't had a chance to do <em>any</em> testing in the test instance. Which is less of a playground than dev.</p>\n<p>It's beyond infuriating.</p>\n<p>Welcome to the cloud.</p>\n<p>This is post 18/100 of my #100DaysToOffload posts. You can read the other posts in this series <a href=\"/tags/100daystooffload\">here</a>.</p>\n",
+      "date_published": "2024-07-17T17:22:01+00:00"
+    },{
       "id": "https://shanewrogers.lol/posts/sunday-stuff-and-link-dumpage/",
       "url": "https://shanewrogers.lol/posts/sunday-stuff-and-link-dumpage/",
       "title": "Sunday stuff and link dumpage",

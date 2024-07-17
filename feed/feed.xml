@@ -5,7 +5,7 @@
 	
 	<link href="https://shanewrogers.lol/feed/feed.xml" rel="self"/>
 	<link href="https://shanewrogers.lol/"/>
-	<updated>2024-07-14T21:05:11+00:00</updated>
+	<updated>2024-07-17T17:22:01+00:00</updated>
 	<id>https://shanewrogers.lol</id>
 	<author>
 		<name>Shane Rogers</name>
@@ -1594,6 +1594,33 @@ SSH as a replacement for sudo. This is an interesting idea, certainly with a few
 &lt;p&gt;&lt;a href=&quot;https://help.vivaldi.com/desktop/tools/import-and-export-browser-data/&quot;&gt;https://help.vivaldi.com/desktop/tools/import-and-export-browser-data/&lt;/a&gt;&lt;br&gt;
 Mainly for my future use, lots of imports and exports for Vivaldi.&lt;/p&gt;
 &lt;p&gt;This is post 17/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Vendors Gonna Vendor</title>
+		<link href="https://shanewrogers.lol/posts/vendors-gonna-vendor/"/>
+		<updated>2024-07-17T17:22:01+00:00</updated>
+		<id>https://shanewrogers.lol/posts/vendors-gonna-vendor/</id>
+		<content type="html">
+		  &lt;p&gt;There are a handful of things that I don&#39;t understand.&lt;/p&gt;
+&lt;p&gt;For one, why can&#39;t certain vendors let their customers know that the product that they depend on for their day to day usage was not actually patched to the current patch level on the scheduled time.&lt;/p&gt;
+&lt;p&gt;Not only was the time scheduled, but it was of course scheduled by the vendor, seeing as how the customer is basically at the mercy of said vendor.&lt;/p&gt;
+&lt;p&gt;Not only did the customer (us) have to check to ensure that the product was patched, but then the customer (us, again) has to contact &lt;em&gt;big vendor&lt;/em&gt; support to ask why it wasn&#39;t patched.&lt;/p&gt;
+&lt;p&gt;Why can&#39;t they just pop some kind of email notification that says it was either successful or not?&lt;/p&gt;
+&lt;p&gt;Then if not - what the plan of action is?&lt;/p&gt;
+&lt;p&gt;Yeah. We asked this question on Monday.&lt;/p&gt;
+&lt;p&gt;I was out sick on Tuesday.&lt;/p&gt;
+&lt;p&gt;The &lt;strong&gt;only&lt;/strong&gt; response we&#39;ve had thus far was an incorrect notice that none of our instances have been patched at all.&lt;/p&gt;
+&lt;p&gt;We have three instances: one each for development, testing and production.&lt;/p&gt;
+&lt;p&gt;Our development instance had already been patched, as scheduled, so I got to let the vendor know that...um, no, I don&#39;t believe that&#39;s correct please don&#39;t re-patch.&lt;/p&gt;
+&lt;p&gt;Sigh.&lt;/p&gt;
+&lt;p&gt;Anyhow - now the vendor has let us know that it&#39;s time to board the patching train because they&#39;ve scheduled the production instance for updating next week, when we haven&#39;t had a chance to do &lt;em&gt;any&lt;/em&gt; testing in the test instance. Which is less of a playground than dev.&lt;/p&gt;
+&lt;p&gt;It&#39;s beyond infuriating.&lt;/p&gt;
+&lt;p&gt;Welcome to the cloud.&lt;/p&gt;
+&lt;p&gt;This is post 18/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 			
 		</content>
