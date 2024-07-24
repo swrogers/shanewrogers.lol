@@ -5,12 +5,30 @@
 	
 	<link href="https://shanewrogers.lol/feed/feed.xml" rel="self"/>
 	<link href="https://shanewrogers.lol/"/>
-	<updated>2024-07-22T21:05:11+00:00</updated>
+	<updated>2024-07-24T21:05:11+00:00</updated>
 	<id>https://shanewrogers.lol</id>
 	<author>
 		<name>Shane Rogers</name>
 		<email>swrogers@omg.lol</email>
 	</author>
+	
+	<entry>
+		<title>Successful updates et al</title>
+		<link href="https://shanewrogers.lol/posts/successful-updates-et-al/"/>
+		<updated>2024-07-24T21:05:11+00:00</updated>
+		<id>https://shanewrogers.lol/posts/successful-updates-et-al/</id>
+		<content type="html">
+		  &lt;p&gt;It&#39;s been a pretty successful day thus far.&lt;/p&gt;
+&lt;p&gt;Upgraded one of our large test application servers with no issues. Insofar as application patches go, it&#39;s one of the easier ones that we&#39;ve got. Not quite of the &amp;quot;click, click, click&amp;quot; and FIN variety, but very close. It does require a certain amount of babysitting, which is completely and totally obnoxious.&lt;/p&gt;
+&lt;p&gt;I did get a start on reading my newest book, though I&#39;m going to admit to not making it all that far yet.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.some.pics/swrogers/66a14a69306c3.jpg&quot; alt=&quot;Photo of the book, &amp;quot;the book of elsewhere&amp;quot; by the authors Keanu Reeves and China Miéville. Next to the book is my blue coffee canister.&quot;&gt;&lt;/p&gt;
+&lt;p&gt;On the personal way of life stuff (isn&#39;t that what this whole journal thing is, though?) I&#39;m attempting to get my mindset back into the keto game. That doesn&#39;t mean that I haven&#39;t continued to remain in the keto lifestyle all this time - I have. What I&#39;ve not done is be more strict/stringent on logging everything I consume, which leads to laziness and unnecessary snacking.&lt;/p&gt;
+&lt;p&gt;My weight is slowly sneaking up past that 190 pound entry, way too close to 200 for my taste. Things are not helped along by the fact that we have too much prepackaged junk in the house, sugar free slash keto &amp;quot;friendly&amp;quot; or not. I shall be getting back on that wagon, full speed.&lt;/p&gt;
+&lt;p&gt;This is post 21/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
 	
 	<entry>
 		<title>Problems solved and trilogies read</title>
