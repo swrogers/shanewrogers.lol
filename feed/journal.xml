@@ -5,12 +5,37 @@
 	
 	<link href="https://shanewrogers.lol/feed/feed.xml" rel="self"/>
 	<link href="https://shanewrogers.lol/"/>
-	<updated>2024-07-29T15:00:10+00:00</updated>
+	<updated>2024-08-04T21:05:11+00:00</updated>
 	<id>https://shanewrogers.lol</id>
 	<author>
 		<name>Shane Rogers</name>
 		<email>swrogers@omg.lol</email>
 	</author>
+	
+	<entry>
+		<title>After the Storm</title>
+		<link href="https://shanewrogers.lol/posts/after-the-storm/"/>
+		<updated>2024-08-04T21:05:11+00:00</updated>
+		<id>https://shanewrogers.lol/posts/after-the-storm/</id>
+		<content type="html">
+		  &lt;p&gt;Talk about one heck of a week.&lt;/p&gt;
+&lt;p&gt;We had a pretty standard storm come through the area on Wednesday night, with the added benefit of up to 80 mile per hour winds at the head of it. Lots of trees down. Lots of power lines down. We were without power for just under 24 hours here, though some unfortunately people were much longer.&lt;/p&gt;
+&lt;p&gt;If it&#39;s something that we take for granted, it&#39;s electricity. Thankfully our home is decently insulated, so the downstairs remained in the lower mid 70s temperature wise. The upstairs, not so much.&lt;/p&gt;
+&lt;p&gt;We were gonna have the kids sleep downstairs the second night, but that was not necessary. The thought had occurred to get a couple of hotel rooms, but we didn&#39;t really want to spend the near $300 that would have ran us.&lt;/p&gt;
+&lt;p&gt;It was certainly very nice when power was restored.&lt;/p&gt;
+&lt;h3 id=&quot;linkdump&quot;&gt;Linkdump &lt;a class=&quot;direct-link&quot; href=&quot;#linkdump&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&quot;https://irreal.org/blog/?p=12352&quot;&gt;Getting Disappeared&lt;/a&gt;&lt;br&gt;
+Some preaching to the choir about getting off of Google (et al) services. I&#39;d love to do this myself as well, and have been looking at some alternative solutions.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://sarah-savage.com/makefiles-make-life-easier/&quot;&gt;Makefiles make life easier&lt;/a&gt;&lt;br&gt;
+Sarah Savage discusses how she utilizes the ever useful and humble makefile.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.brycewray.com/posts/2023/03/time-move-on-nunjucks/&quot;&gt;Is it time to move on from Nunjucks?&lt;/a&gt;&lt;br&gt;
+Now that WebC is available, is it time to look towards something besides Nunjucks?&lt;/p&gt;
+&lt;p&gt;That&#39;s all that I&#39;ve got for now. Until next time.&lt;/p&gt;
+&lt;p&gt;This is post 24/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
 	
 	<entry>
 		<title>New years of a different sort</title>
