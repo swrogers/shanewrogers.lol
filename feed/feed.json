@@ -9,6 +9,12 @@
     "url": ""
   },
   "items": [{
+      "id": "https://shanewrogers.lol/posts/upgrades-and-accomplishments/",
+      "url": "https://shanewrogers.lol/posts/upgrades-and-accomplishments/",
+      "title": "Upgrades and accomplishments",
+      "content_html": "<p>Some days you just feel like you got at least one thing accomplished.</p>\n<p>Today is one of those days.</p>\n<p>This morning was good, upgraded one of our development applications to the latest vendor patch. The super awesome thing about this being that as of the middle of last week said update was not available....though it probably should have been. Given the name of the patch and all is from <em>last month</em>.</p>\n<p>Sigh.</p>\n<p>Then, I was able to get some simple documentation done for our users. Granted, I think that we all know that it matters not how well said documentation is written, it's not gonna be good enough.</p>\n<p>Additionally, got some requests fired off to another vendor.</p>\n<p>Nifty.</p>\n<p>Tomorrow is another day. The plan for noonish is to upgrade the same application previously mentioned, but in the test environment.</p>\n<p>It is <strong>so nice</strong> actually having both DEV and TEST.</p>\n<p>I'm not anticipating any issues, I think I've got this down to a science.</p>\n<p>Till next time!</p>\n<p>This is post 31/100 of my #100DaysToOffload posts. You can read the other posts in this series <a href=\"/tags/100daystooffload\">here</a>.</p>\n",
+      "date_published": "2024-08-21T21:05:11+00:00"
+    },{
       "id": "https://shanewrogers.lol/posts/not-a-day-late-nor-a-dollar-short/",
       "url": "https://shanewrogers.lol/posts/not-a-day-late-nor-a-dollar-short/",
       "title": "Not a day late nor a dollar short",
@@ -433,12 +439,6 @@
       "url": "https://shanewrogers.lol/posts/day-four-nothing-more/",
       "title": "Day Four, Nothing More",
       "content_html": "<p>Here we are at day for during this monthly challenge. The next couple of days are going to be the first two that present as very difficult for me - will I be able to get something posted during the weekend, while the home is filled with family and kids and I would rather <em>not</em> be dealing with a computer.</p>\n<p>So in that case, I am not using a computer or laptop for the post. Instead I'm seeing how well the <a href=\"https://gitjournal.io/\">GitJournal</a> app works on my phone. I don't really have any other content management system set up here, so this really needs to work.</p>\n<p>Maybe this would be a good excuse to set up a Ghost CMS for the front end. Probably not, though.</p>\n<p>I've done no reading today, so that's a negative. I did check out the Samurai Jack series from the local library, I'm looking forward to giving that a watch!</p>\n<p>With that....till next time.</p>\n<p>Check out the other <a href=\"/tags/weblogpomo2024\">#Weblogpomo2024</a> posts.</p>\n",
-      "date_published": "2024-05-04T21:05:11+00:00"
-    },{
-      "id": "https://shanewrogers.lol/posts/upgrades-and-accomplishments/",
-      "url": "https://shanewrogers.lol/posts/upgrades-and-accomplishments/",
-      "title": "Upgrades and accomplishments",
-      "content_html": "<p>Some days you just feel like you got at least one thing accomplished.</p>\n<p>Today is one of those days.</p>\n<p>This morning was good, upgraded one of our development applications to the latest vendor patch. The super awesome thing about this being that as of the middle of last week said update was not available....though it probably should have been. Given the name of the patch and all is from <em>last month</em>.</p>\n<p>Sigh.</p>\n<p>Then, I was able to get some simple documentation done for our users. Granted, I think that we all know that it matters not how well said documentation is written, it's not gonna be good enough.</p>\n<p>Additionally, got some requests fired off to another vendor.</p>\n<p>Nifty.</p>\n<p>Tomorrow is another day. The plan for noonish is to upgrade the same application previously mentioned, but in the test environment.</p>\n<p>It is <strong>so nice</strong> actually having both DEV and TEST.</p>\n<p>I'm not anticipating any issues, I think I've got this down to a science.</p>\n<p>Till next time!</p>\n<p>This is post 31/100 of my #100DaysToOffload posts. You can read the other posts in this series <a href=\"/tags/100daystooffload\">here</a>.</p>\n",
       "date_published": "2024-05-04T21:05:11+00:00"
     },{
       "id": "https://shanewrogers.lol/posts/here-we-go-day-three/",

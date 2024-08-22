@@ -5,12 +5,35 @@
 	
 	<link href="https://shanewrogers.lol/feed/feed.xml" rel="self"/>
 	<link href="https://shanewrogers.lol/"/>
-	<updated>2024-08-19T21:05:11+00:00</updated>
+	<updated>2024-08-21T21:05:11+00:00</updated>
 	<id>https://shanewrogers.lol</id>
 	<author>
 		<name>Shane Rogers</name>
 		<email>swrogers@omg.lol</email>
 	</author>
+	
+	<entry>
+		<title>Upgrades and accomplishments</title>
+		<link href="https://shanewrogers.lol/posts/upgrades-and-accomplishments/"/>
+		<updated>2024-08-21T21:05:11+00:00</updated>
+		<id>https://shanewrogers.lol/posts/upgrades-and-accomplishments/</id>
+		<content type="html">
+		  &lt;p&gt;Some days you just feel like you got at least one thing accomplished.&lt;/p&gt;
+&lt;p&gt;Today is one of those days.&lt;/p&gt;
+&lt;p&gt;This morning was good, upgraded one of our development applications to the latest vendor patch. The super awesome thing about this being that as of the middle of last week said update was not available....though it probably should have been. Given the name of the patch and all is from &lt;em&gt;last month&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;Sigh.&lt;/p&gt;
+&lt;p&gt;Then, I was able to get some simple documentation done for our users. Granted, I think that we all know that it matters not how well said documentation is written, it&#39;s not gonna be good enough.&lt;/p&gt;
+&lt;p&gt;Additionally, got some requests fired off to another vendor.&lt;/p&gt;
+&lt;p&gt;Nifty.&lt;/p&gt;
+&lt;p&gt;Tomorrow is another day. The plan for noonish is to upgrade the same application previously mentioned, but in the test environment.&lt;/p&gt;
+&lt;p&gt;It is &lt;strong&gt;so nice&lt;/strong&gt; actually having both DEV and TEST.&lt;/p&gt;
+&lt;p&gt;I&#39;m not anticipating any issues, I think I&#39;ve got this down to a science.&lt;/p&gt;
+&lt;p&gt;Till next time!&lt;/p&gt;
+&lt;p&gt;This is post 31/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
 	
 	<entry>
 		<title>Not a day late nor a dollar short</title>
@@ -909,29 +932,6 @@ Mainly for my future use, lots of imports and exports for Vivaldi.&lt;/p&gt;
 &lt;p&gt;Realistically, I&#39;d rather get on the bike and ride, but that&#39;s kind of challenging when one no longer has a bike to get onto. To qualify, when I refer to a bike, I&#39;m not talking about the peddle powered version.&lt;/p&gt;
 &lt;p&gt;Just me. Just on my own.&lt;/p&gt;
 &lt;p&gt;I&#39;m so tired.&lt;/p&gt;
-
-			
-		</content>
-	</entry>
-	
-	<entry>
-		<title>Upgrades and accomplishments</title>
-		<link href="https://shanewrogers.lol/posts/upgrades-and-accomplishments/"/>
-		<updated>2024-05-04T21:05:11+00:00</updated>
-		<id>https://shanewrogers.lol/posts/upgrades-and-accomplishments/</id>
-		<content type="html">
-		  &lt;p&gt;Some days you just feel like you got at least one thing accomplished.&lt;/p&gt;
-&lt;p&gt;Today is one of those days.&lt;/p&gt;
-&lt;p&gt;This morning was good, upgraded one of our development applications to the latest vendor patch. The super awesome thing about this being that as of the middle of last week said update was not available....though it probably should have been. Given the name of the patch and all is from &lt;em&gt;last month&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;Sigh.&lt;/p&gt;
-&lt;p&gt;Then, I was able to get some simple documentation done for our users. Granted, I think that we all know that it matters not how well said documentation is written, it&#39;s not gonna be good enough.&lt;/p&gt;
-&lt;p&gt;Additionally, got some requests fired off to another vendor.&lt;/p&gt;
-&lt;p&gt;Nifty.&lt;/p&gt;
-&lt;p&gt;Tomorrow is another day. The plan for noonish is to upgrade the same application previously mentioned, but in the test environment.&lt;/p&gt;
-&lt;p&gt;It is &lt;strong&gt;so nice&lt;/strong&gt; actually having both DEV and TEST.&lt;/p&gt;
-&lt;p&gt;I&#39;m not anticipating any issues, I think I&#39;ve got this down to a science.&lt;/p&gt;
-&lt;p&gt;Till next time!&lt;/p&gt;
-&lt;p&gt;This is post 31/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 			
 		</content>

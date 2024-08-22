@@ -9,6 +9,12 @@
     "url": ""
   },
   "items": [{
+      "id": "https://shanewrogers.lol/posts/upgrades-and-accomplishments/",
+      "url": "https://shanewrogers.lol/posts/upgrades-and-accomplishments/",
+      "title": "Upgrades and accomplishments",
+      "content_html": "<p>Some days you just feel like you got at least one thing accomplished.</p>\n<p>Today is one of those days.</p>\n<p>This morning was good, upgraded one of our development applications to the latest vendor patch. The super awesome thing about this being that as of the middle of last week said update was not available....though it probably should have been. Given the name of the patch and all is from <em>last month</em>.</p>\n<p>Sigh.</p>\n<p>Then, I was able to get some simple documentation done for our users. Granted, I think that we all know that it matters not how well said documentation is written, it's not gonna be good enough.</p>\n<p>Additionally, got some requests fired off to another vendor.</p>\n<p>Nifty.</p>\n<p>Tomorrow is another day. The plan for noonish is to upgrade the same application previously mentioned, but in the test environment.</p>\n<p>It is <strong>so nice</strong> actually having both DEV and TEST.</p>\n<p>I'm not anticipating any issues, I think I've got this down to a science.</p>\n<p>Till next time!</p>\n<p>This is post 31/100 of my #100DaysToOffload posts. You can read the other posts in this series <a href=\"/tags/100daystooffload\">here</a>.</p>\n",
+      "date_published": "2024-08-21T21:05:11+00:00"
+    },{
       "id": "https://shanewrogers.lol/posts/not-a-day-late-nor-a-dollar-short/",
       "url": "https://shanewrogers.lol/posts/not-a-day-late-nor-a-dollar-short/",
       "title": "Not a day late nor a dollar short",
@@ -236,12 +242,6 @@
       "title": "I am so ready",
       "content_html": "<p>I'm thinking this is just gonna be a short little snippet of an update.</p>\n<p>There is this part of me that wants to just take a couple of weeks and just &quot;go&quot;. No real destination, no real plans. Just get in the car and drive.</p>\n<p>Realistically, I'd rather get on the bike and ride, but that's kind of challenging when one no longer has a bike to get onto. To qualify, when I refer to a bike, I'm not talking about the peddle powered version.</p>\n<p>Just me. Just on my own.</p>\n<p>I'm so tired.</p>\n",
       "date_published": "2024-06-04T21:05:11+00:00"
-    },{
-      "id": "https://shanewrogers.lol/posts/upgrades-and-accomplishments/",
-      "url": "https://shanewrogers.lol/posts/upgrades-and-accomplishments/",
-      "title": "Upgrades and accomplishments",
-      "content_html": "<p>Some days you just feel like you got at least one thing accomplished.</p>\n<p>Today is one of those days.</p>\n<p>This morning was good, upgraded one of our development applications to the latest vendor patch. The super awesome thing about this being that as of the middle of last week said update was not available....though it probably should have been. Given the name of the patch and all is from <em>last month</em>.</p>\n<p>Sigh.</p>\n<p>Then, I was able to get some simple documentation done for our users. Granted, I think that we all know that it matters not how well said documentation is written, it's not gonna be good enough.</p>\n<p>Additionally, got some requests fired off to another vendor.</p>\n<p>Nifty.</p>\n<p>Tomorrow is another day. The plan for noonish is to upgrade the same application previously mentioned, but in the test environment.</p>\n<p>It is <strong>so nice</strong> actually having both DEV and TEST.</p>\n<p>I'm not anticipating any issues, I think I've got this down to a science.</p>\n<p>Till next time!</p>\n<p>This is post 31/100 of my #100DaysToOffload posts. You can read the other posts in this series <a href=\"/tags/100daystooffload\">here</a>.</p>\n",
-      "date_published": "2024-05-04T21:05:11+00:00"
     },{
       "id": "https://shanewrogers.lol/posts/another-day-another-day/",
       "url": "https://shanewrogers.lol/posts/another-day-another-day/",
