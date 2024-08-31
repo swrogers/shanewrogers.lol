@@ -13,6 +13,31 @@
 	</author>
 	
 	<entry>
+		<title>Did we not just do that</title>
+		<link href="https://shanewrogers.lol/posts/did-we-not-just-do-that/"/>
+		<updated>2024-08-30T21:05:11+00:00</updated>
+		<id>https://shanewrogers.lol/posts/did-we-not-just-do-that/</id>
+		<content type="html">
+		  &lt;p&gt;It&#39;s almost like it never ends, you know!&lt;/p&gt;
+&lt;p&gt;Received an email notification from &lt;em&gt;Ye Olde Vendor&lt;/em&gt; that they were scheduling the next patch for our development environment. Great! But damn...it sure seems like we &lt;em&gt;just&lt;/em&gt; went through all this!&lt;/p&gt;
+&lt;p&gt;I guess that was in mid to late May. But &lt;em&gt;test&lt;/em&gt; didn&#39;t get patched until flipping June, not to mention &lt;em&gt;prod&lt;/em&gt; not that long ago.&lt;/p&gt;
+&lt;p&gt;Ugh. At least they actually keep stuff updated. No new patches available for the gateway product, yet, so we&#39;ll keep an eye out there.&lt;/p&gt;
+&lt;p&gt;It&#39;s been a pretty good week, actually. Got some documentation written and sent out. Got a quote and an order out together for some new laptops to replace out of warranty stuff. Not a bad week.&lt;/p&gt;
+&lt;h3 id=&quot;no-flame-wars-here&quot;&gt;No flame wars here &lt;a class=&quot;direct-link&quot; href=&quot;#no-flame-wars-here&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;I figured I&#39;d start a separate header for this one.&lt;/p&gt;
+&lt;p&gt;I have always been of the belief that you should use the tool, or tools, that work for you and your situation. If that took us, say, &lt;em&gt;vi&lt;/em&gt;, then great! If that took is &lt;em&gt;emacs&lt;/em&gt;, then great! Personally, it effects me exactly zero on the iota scale.&lt;/p&gt;
+&lt;p&gt;Whatever makes you happy and floats that boat, or scratches that itch, or whatever. Though, I do believe that every body who is going to do any kind of system administration on a Unix style server should at least be able to stumble through vi or vim. If for no other reason than it&#39;s almost always available.&lt;/p&gt;
+&lt;p&gt;Then even within those two sacred camps you&#39;ve got people who espouse certain styles of usage. Take emacs, for example. Some people like to use the &amp;quot;starter kits&amp;quot;. Be that purcell, spacemacs, doom, bedrock, etc etc. Some people think you should use vanilla. Some people swear by a literate programming version of their config.&lt;/p&gt;
+&lt;p&gt;Those are all awesome! Again, use what works for you. Personally, I&#39;m familiar with vi enough that I&#39;m a little dangerous. I don&#39;t have any kind of vi setup, I just know enough to get by. I have used emacs for some time now, my first real usage and &amp;quot;config&amp;quot; was spacemacs. Then I&#39;ve gone through other kits. I&#39;ve tried rolling my own, with and without a literate config. I&#39;ve finally stopped with doom, complete with my own customizations.&lt;/p&gt;
+&lt;p&gt;Just use what works. In Whatever way that is.&lt;/p&gt;
+&lt;p&gt;That&#39;s all I&#39;ve got on that.&lt;/p&gt;
+&lt;p&gt;This is post 34/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
 		<title>Irrationality it is</title>
 		<link href="https://shanewrogers.lol/posts/irrationality-it-is/"/>
 		<updated>2024-08-27T21:05:11+00:00</updated>
