@@ -5,7 +5,7 @@
 	
 	<link href="https://shanewrogers.lol/feed/feed.xml" rel="self"/>
 	<link href="https://shanewrogers.lol/"/>
-	<updated>2024-09-02T16:00:11+00:00</updated>
+	<updated>2024-09-08T21:05:11+00:00</updated>
 	<id>https://shanewrogers.lol</id>
 	<author>
 		<name>Shane Rogers</name>
@@ -2095,6 +2095,43 @@ This is just cool. 😎&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;This is post 35/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Call it a weekly wrapup</title>
+		<link href="https://shanewrogers.lol/posts/call-it-a-weekly-wrapup/"/>
+		<updated>2024-09-08T21:05:11+00:00</updated>
+		<id>https://shanewrogers.lol/posts/call-it-a-weekly-wrapup/</id>
+		<content type="html">
+		  &lt;p&gt;Not much of an interesting week, this one.&lt;/p&gt;
+&lt;p&gt;I&#39;ve been meaning to try to get something down and posted but it&#39;s been a week of zero motivation.&lt;/p&gt;
+&lt;p&gt;I haven&#39;t even mowed the lawn in two weekends at this point. Fortunately I don&#39;t think I &lt;em&gt;need&lt;/em&gt; to mow yet, but I probably will before the season is out.&lt;/p&gt;
+&lt;p&gt;One of the twins was able to participate in the first cross country event this season and he did pretty well! I would like to be able to run with him, but I&#39;m not there yet.&lt;/p&gt;
+&lt;p&gt;I still try to take my lunch hour excursions and walk. Generally I can get in just under three miles in about forty minutes. Then a quick shower before logging back in to work.&lt;/p&gt;
+&lt;p&gt;My goal still remains to run a 5K. I&#39;m sure I&#39;ll get there.&lt;/p&gt;
+&lt;p&gt;I had ordered the &lt;em&gt;Run Your Own Mail Server&lt;/em&gt; book, by Michael W Lewis, towards the end of the pre-order period and it finally arrived this week! I&#39;ve run mail servers for myself in the past, generally through systems like &lt;a href=&quot;https://mailinabox.email/&quot;&gt;mail on a box&lt;/a&gt; or &lt;a href=&quot;https://yunohost.org/&quot;&gt;yunonost&lt;/a&gt;. I think even at one point I had set up &lt;a href=&quot;http://www.qmailtoaster.net/&quot;&gt;qmail toaster&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;But it&#39;s nice to know more about the what&#39;s and the why&#39;s, and it looks like this most excellent book is going to help out in that department. I don&#39;t know that I&#39;ll set something up from scratch... But that is certainly an itch.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://cdn.some.pics/swrogers/66de154608ac5.jpg&quot; alt=&quot;The book: Run Your Own Mail Server, by Michael W Lucas&quot;&gt;&lt;/p&gt;
+&lt;h3 id=&quot;linkdump&quot;&gt;Linkdump &lt;a class=&quot;direct-link&quot; href=&quot;#linkdump&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/&quot;&gt;The Moral Implications of Being a Moderately Successful Computer Scientist and a Woman&lt;/a&gt;&lt;br&gt;
+I have not read this one yet, but it&#39;s certainly high on my list.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://cleoinvestigation.notion.site/Investigating-Cleo-0796ef7ce8464a90ba388cdb68e08eef&quot;&gt;Investigating Cleo&lt;/a&gt;&lt;br&gt;
+It&#39;s always entertaining to read about who mysterious anonymous posters might be, even if there is no real need or desire to dox anyone. I haven&#39;t made it through everything in this, but it&#39;s about a user in one of the math boards who always manages to post responses to some very challenging integration problems. Are they a team? Are they using multiple accounts? Who knows.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://earthly.dev/blog/golang-http/&quot;&gt;Building a Golang JSON HTTP Server - Earthly Blog&lt;/a&gt;&lt;br&gt;
+I&#39;ve been looking more into learning go, so it&#39;s nice to have more stuff to learn from.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That&#39;s all I&#39;ve got for now, until time the next all!&lt;br&gt;
+This is post 36/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 			
 		</content>
