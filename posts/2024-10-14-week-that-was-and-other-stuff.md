@@ -69,6 +69,3 @@ With that, we'll call it a day.
 Until next time.
 
 This is post 46/100 of my #100DaysToOffload posts. You can read the other posts in this series [here](/tags/100daystooffload).
-
-# Document Title
-
