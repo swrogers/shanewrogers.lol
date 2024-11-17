@@ -5,12 +5,55 @@
 	
 	<link href="https://shanewrogers.lol/feed/feed.xml" rel="self"/>
 	<link href="https://shanewrogers.lol/"/>
-	<updated>2024-11-10T21:05:11+00:00</updated>
+	<updated>2024-11-17T15:05:11+00:00</updated>
 	<id>https://shanewrogers.lol</id>
 	<author>
 		<name>Shane Rogers</name>
 		<email>swrogers@omg.lol</email>
 	</author>
+	
+	<entry>
+		<title>What have I been doing</title>
+		<link href="https://shanewrogers.lol/posts/what-have-i-been-doing/"/>
+		<updated>2024-11-17T15:05:11+00:00</updated>
+		<id>https://shanewrogers.lol/posts/what-have-i-been-doing/</id>
+		<content type="html">
+		  &lt;p&gt;What have I been doing lately?&lt;/p&gt;
+&lt;p&gt;Not much, I would say.&lt;/p&gt;
+&lt;p&gt;I did start a new book recently, &lt;em&gt;What Moves the Dead&lt;/em&gt; by &lt;em&gt;T Kingfisher&lt;/em&gt;.&lt;/p&gt;
+&lt;iframe title=&quot;Pixelfed Post Embed&quot; src=&quot;https://pixelfed.social/p/swrogers/762107973477551400/embed?caption=false&amp;likes=false&amp;layout=compact&quot; class=&quot;pixelfed__embed&quot; style=&quot;max-width: 100%; border: 0&quot; width=&quot;400&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;https://pixelfed.social/embed.js&quot;&gt;&lt;/script&gt;
+&lt;p&gt;It&#39;s a retelling of Poe&#39;s &lt;em&gt;Fall of the House of Usher&lt;/em&gt;. I&#39;m only a few chapters in, and it&#39;s fairly short, but so far it&#39;s pretty good.&lt;/p&gt;
+&lt;p&gt;I&#39;m still also reading The Expanse series as well, plus I&#39;ve picked up a decent number of other titles that will get added to the &lt;em&gt;to be read&lt;/em&gt; pile.&lt;/p&gt;
+&lt;p&gt;I think I&#39;m preparing for the times when physical books are not as easily accessible, what with the way things are going. Both societally and politically.&lt;/p&gt;
+&lt;p&gt;Anyhow.&lt;/p&gt;
+&lt;p&gt;I&#39;ve also ordered a couple of 12TB hard drives to pair with my Zima Board NAS kit and am certainly looking forward to getting that set up to store my media on. The stack of Blu-ray movies and DVDs in our library are in desperate need of being ripped.&lt;/p&gt;
+&lt;p&gt;Can&#39;t say that I&#39;m looking forward to that process, but it&#39;s needed.&lt;/p&gt;
+&lt;p&gt;Another item that has had me occupied over the last couple of weeks or so is coming up with a new emacs config.&lt;/p&gt;
+&lt;p&gt;While I have been using Doom Emacs for quite awhile at this point, I do like to know how things work a bit better, and this is a good way to grasp that understanding.&lt;/p&gt;
+&lt;p&gt;The sad thing is, that I&#39;m afraid I will basically just wind up reimplementing Soon Emacs, only with elpaca.&lt;/p&gt;
+&lt;p&gt;There are a lot of good things with Doom, however, so I may just stick it out with that. There are also some quirkiness&#39; as well - such as needing both &lt;em&gt;package!&lt;/em&gt; along with &lt;em&gt;use-package!&lt;/em&gt; to get something both installed and configured. It does make sense, seeing as &lt;em&gt;use-package!&lt;/em&gt; is not a package installer though.&lt;/p&gt;
+&lt;h3 id=&quot;sunday-linkdump&quot;&gt;Sunday Linkdump &lt;a class=&quot;direct-link&quot; href=&quot;#sunday-linkdump&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://write.as/batata/observation&quot;&gt;https://write.as/batata/observation&lt;/a&gt;&lt;br&gt;
+Whoa, somebody who actually has more tabs opened up on their mobile browser than I do: 4500 to about 1600. I need to step up my game I guess! This is a great write up about setting up bookmark and RSS aggregation on their self hosted NAS.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://about.iftas.org/2024/10/29/5-ways-to-fight-election-disinformation-on-bluesky-and-the-fediverse/&quot;&gt;https://about.iftas.org/2024/10/29/5-ways-to-fight-election-disinformation-on-bluesky-and-the-fediverse/&lt;/a&gt;&lt;br&gt;
+From the &lt;em&gt;Federated Trust and Safety&lt;/em&gt; group, they&#39;ve got some great tips on fighting disinformation (aka baldfaced lies) in this new day and age. Timeless stuff, really.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.tunemymusic.com/transfer&quot;&gt;https://www.tunemymusic.com/transfer&lt;/a&gt;&lt;br&gt;
+Very handy little online tool for moving music playlists from service to service.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;With that, I believe we&#39;ll call it a week.&lt;/p&gt;
+&lt;p&gt;Until next time.&lt;/p&gt;
+&lt;p&gt;This is post 52/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
 	
 	<entry>
 		<title>Not really reflection</title>
