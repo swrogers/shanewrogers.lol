@@ -1,5 +1,5 @@
 ---
-title: 
+title: A Week Of Progress
 date: 2024-11-21T15:05:11-05:00
 permalink: 'posts/{{ title | slug }}/'
 tags: [journal,100DaysToOffload]
