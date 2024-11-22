@@ -9,6 +9,12 @@
     "url": ""
   },
   "items": [{
+      "id": "https://shanewrogers.lol/posts/testing-the-echo-feed-to-bluesky/",
+      "url": "https://shanewrogers.lol/posts/testing-the-echo-feed-to-bluesky/",
+      "title": "Testing the echo feed to bluesky",
+      "content_html": "<p>There is nothing to see here, folks.</p>\n<p>I was just noticing that the Echofeed to Bluesky cross posting wasn't working, so that's what I'm testing here.</p>\n",
+      "date_published": "2024-11-22T17:05:11+00:00"
+    },{
       "id": "https://shanewrogers.lol/posts/a-week-of-progress/",
       "url": "https://shanewrogers.lol/posts/a-week-of-progress/",
       "title": "A Week Of Progress",

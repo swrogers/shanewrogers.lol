@@ -5,7 +5,7 @@
 	
 	<link href="https://shanewrogers.lol/feed/feed.xml" rel="self"/>
 	<link href="https://shanewrogers.lol/"/>
-	<updated>2024-11-21T20:05:11+00:00</updated>
+	<updated>2024-11-22T17:05:11+00:00</updated>
 	<id>https://shanewrogers.lol</id>
 	<author>
 		<name>Shane Rogers</name>
@@ -2635,6 +2635,19 @@ Very handy little online tool for moving music playlists from service to service
 &lt;p&gt;I guess he&#39;ll be performing in the Spring play, though he probably doesn&#39;t realize that at this point.&lt;/p&gt;
 &lt;p&gt;Not much else going on currently, so with that I&#39;ll sign off.&lt;/p&gt;
 &lt;p&gt;This is post 53/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+	
+	<entry>
+		<title>Testing the echo feed to bluesky</title>
+		<link href="https://shanewrogers.lol/posts/testing-the-echo-feed-to-bluesky/"/>
+		<updated>2024-11-22T17:05:11+00:00</updated>
+		<id>https://shanewrogers.lol/posts/testing-the-echo-feed-to-bluesky/</id>
+		<content type="html">
+		  &lt;p&gt;There is nothing to see here, folks.&lt;/p&gt;
+&lt;p&gt;I was just noticing that the Echofeed to Bluesky cross posting wasn&#39;t working, so that&#39;s what I&#39;m testing here.&lt;/p&gt;
 
 			
 		</content>
