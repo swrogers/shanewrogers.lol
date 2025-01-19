@@ -758,6 +758,12 @@
       "title": "Capture Template Done?",
       "content_html": "<h1 id=\"step-two%2C-maybe\">Step Two, Maybe <a class=\"direct-link\" href=\"#step-two%2C-maybe\">#</a></h1>\n<p>Capture template might be ready to go, now.</p>\n<p>Created a new markdown post in the proper directory, with a prompt for the file name, then prepends the year-mm-dd to the file name. Opens a nice empty file, ready for the yasnippet.</p>\n<p>I could probably put more into the capture template to do away with the snippet.</p>\n",
       "date_published": "2024-03-18T17:35:37+00:00"
+    },{
+      "id": "https://shanewrogers.lol/posts/my-final-doom-form/",
+      "url": "https://shanewrogers.lol/posts/my-final-doom-form/",
+      "title": "My final Doom form",
+      "content_html": "<p>For the longest time - well, not really the longest time but there are moments when it seems like it's been forever - I've been attempting to patch together my own Emacs config.</p>\n<p>Having gone from Spacemacs, Purcell, Vanilla, Doom, Prelude, handcrafted, literate, back again through multiple attempts at each of the previous as well as pouring through everybody else's (and their dogs - hello, Corgi!) configs I have finally come to a conclusion.</p>\n<p>I figure that since I basically always wind up trying to reinvent Doom Emacs, that I might as well meet them in the middle and move over to recreating Doom with a complete literate Doom config.</p>\n<p>I've seen a handful of users that have done this, and while getting it bootstrapped was a little interesting, I think it's going to work really well.</p>\n<p>As it's basically an art form, my Emacs config is never done - but I've got it to a point where I'm happy with it.</p>\n<p>I do actually like some of the convenience macros that are provided with the Doom Emacs framework. It makes a really excellent library.</p>\n<p>Will I stay with this? You know, I think that since I generally always found my way back to Doom (even though I don't use evil key bindings), plus with my desire to have &quot;my own thing&quot;....yeah, maybe.</p>\n<p>Just maybe.</p>\n<p>This might be my final form.</p>\n<p>Minus some tweaking.</p>\n<p>One of these days I'll have to get back to doing weekly link dumps.</p>\n<p>This is post 65/100 of my #100DaysToOffload posts. You can read the other posts in this series <a href=\"/tags/100daystooffload\">here</a>.</p>\n",
+      "date_published": "2024-01-19T03:05:11+00:00"
     }
   ]
 }
