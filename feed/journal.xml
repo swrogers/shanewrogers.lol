@@ -5,12 +5,35 @@
 	
 	<link href="https://shanewrogers.lol/feed/feed.xml" rel="self"/>
 	<link href="https://shanewrogers.lol/"/>
-	<updated>2025-01-09T21:05:11+00:00</updated>
+	<updated>2025-01-19T03:05:11+00:00</updated>
 	<id>https://shanewrogers.lol</id>
 	<author>
 		<name>Shane Rogers</name>
 		<email>swrogers@omg.lol</email>
 	</author>
+	
+	<entry>
+		<title>My final Doom form</title>
+		<link href="https://shanewrogers.lol/posts/my-final-doom-form/"/>
+		<updated>2025-01-19T03:05:11+00:00</updated>
+		<id>https://shanewrogers.lol/posts/my-final-doom-form/</id>
+		<content type="html">
+		  &lt;p&gt;For the longest time - well, not really the longest time but there are moments when it seems like it&#39;s been forever - I&#39;ve been attempting to patch together my own Emacs config.&lt;/p&gt;
+&lt;p&gt;Having gone from Spacemacs, Purcell, Vanilla, Doom, Prelude, handcrafted, literate, back again through multiple attempts at each of the previous as well as pouring through everybody else&#39;s (and their dogs - hello, Corgi!) configs I have finally come to a conclusion.&lt;/p&gt;
+&lt;p&gt;I figure that since I basically always wind up trying to reinvent Doom Emacs, that I might as well meet them in the middle and move over to recreating Doom with a complete literate Doom config.&lt;/p&gt;
+&lt;p&gt;I&#39;ve seen a handful of users that have done this, and while getting it bootstrapped was a little interesting, I think it&#39;s going to work really well.&lt;/p&gt;
+&lt;p&gt;As it&#39;s basically an art form, my Emacs config is never done - but I&#39;ve got it to a point where I&#39;m happy with it.&lt;/p&gt;
+&lt;p&gt;I do actually like some of the convenience macros that are provided with the Doom Emacs framework. It makes a really excellent library.&lt;/p&gt;
+&lt;p&gt;Will I stay with this? You know, I think that since I generally always found my way back to Doom (even though I don&#39;t use evil key bindings), plus with my desire to have &amp;quot;my own thing&amp;quot;....yeah, maybe.&lt;/p&gt;
+&lt;p&gt;Just maybe.&lt;/p&gt;
+&lt;p&gt;This might be my final form.&lt;/p&gt;
+&lt;p&gt;Minus some tweaking.&lt;/p&gt;
+&lt;p&gt;One of these days I&#39;ll have to get back to doing weekly link dumps.&lt;/p&gt;
+&lt;p&gt;This is post 65/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
 	
 	<entry>
 		<title>Uncertain refrigerator</title>
@@ -1931,29 +1954,6 @@ Mainly for my future use, lots of imports and exports for Vivaldi.&lt;/p&gt;
 &lt;p&gt;Where was I? Oh yes, I do have &lt;code&gt;org-capture&lt;/code&gt; templates set up that work just fine. I need to get the popup capture buffer to take the whole frame, though. I don&#39;t like that it also visits the capture buffer in the originally opened frame as well. It&#39;s an annoyance.&lt;/p&gt;
 &lt;p&gt;I&#39;m sure there should be more. I think I&#39;m going to wait until I&#39;ve got more, eh, content, here before I get various rss feeds set up for feeding into some of my social sites. I feel that I should probably &amp;quot;own my social&amp;quot;, too, and I do have at least one I run - but it&#39;s certainly a chore. We shall see.&lt;/p&gt;
 &lt;p&gt;With that, I&#39;m out.&lt;/p&gt;
-
-			
-		</content>
-	</entry>
-	
-	<entry>
-		<title>My final Doom form</title>
-		<link href="https://shanewrogers.lol/posts/my-final-doom-form/"/>
-		<updated>2024-01-19T03:05:11+00:00</updated>
-		<id>https://shanewrogers.lol/posts/my-final-doom-form/</id>
-		<content type="html">
-		  &lt;p&gt;For the longest time - well, not really the longest time but there are moments when it seems like it&#39;s been forever - I&#39;ve been attempting to patch together my own Emacs config.&lt;/p&gt;
-&lt;p&gt;Having gone from Spacemacs, Purcell, Vanilla, Doom, Prelude, handcrafted, literate, back again through multiple attempts at each of the previous as well as pouring through everybody else&#39;s (and their dogs - hello, Corgi!) configs I have finally come to a conclusion.&lt;/p&gt;
-&lt;p&gt;I figure that since I basically always wind up trying to reinvent Doom Emacs, that I might as well meet them in the middle and move over to recreating Doom with a complete literate Doom config.&lt;/p&gt;
-&lt;p&gt;I&#39;ve seen a handful of users that have done this, and while getting it bootstrapped was a little interesting, I think it&#39;s going to work really well.&lt;/p&gt;
-&lt;p&gt;As it&#39;s basically an art form, my Emacs config is never done - but I&#39;ve got it to a point where I&#39;m happy with it.&lt;/p&gt;
-&lt;p&gt;I do actually like some of the convenience macros that are provided with the Doom Emacs framework. It makes a really excellent library.&lt;/p&gt;
-&lt;p&gt;Will I stay with this? You know, I think that since I generally always found my way back to Doom (even though I don&#39;t use evil key bindings), plus with my desire to have &amp;quot;my own thing&amp;quot;....yeah, maybe.&lt;/p&gt;
-&lt;p&gt;Just maybe.&lt;/p&gt;
-&lt;p&gt;This might be my final form.&lt;/p&gt;
-&lt;p&gt;Minus some tweaking.&lt;/p&gt;
-&lt;p&gt;One of these days I&#39;ll have to get back to doing weekly link dumps.&lt;/p&gt;
-&lt;p&gt;This is post 65/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 
 			
 		</content>
