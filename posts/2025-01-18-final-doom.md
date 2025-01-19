@@ -1,6 +1,6 @@
 ---
 title: My final Doom form
-date: 2024-01-18T22:05:11-05:00
+date: 2025-01-18T22:05:11-05:00
 permalink: 'posts/{{ title | slug }}/'
 tags: [journal,100DaysToOffload]
 ---
