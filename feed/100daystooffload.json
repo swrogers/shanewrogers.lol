@@ -9,6 +9,12 @@
     "url": ""
   },
   "items": [{
+      "id": "https://shanewrogers.lol/posts/mobile-templates-ftw/",
+      "url": "https://shanewrogers.lol/posts/mobile-templates-ftw/",
+      "title": "Mobile templates FTW",
+      "content_html": "<p>I don't generally like to *meta post&quot;, blog about blogging and all that...but there are times that I shall make an exception.</p>\n<p>I have finally decided that it is high time to take advantage of some of the features my mobile note taking application has - namely that it does offer templates and widget creation.</p>\n<p>One of which is to create a new note using a template, naturally.</p>\n<p>In becoming more comfortable with the use of capture templates on my desktop using org-mode and Emacs, I figure that I might as well try to take at least <em>some</em> of the friction out of blogging on the mobile side.</p>\n<p>Especially seeing as that's where I do the vast majority of my posting from.</p>\n<p>While Zettel Notes <strong>can</strong> write in org format, I'm using eleventy for my site and markdown for my content. So no org capture setup on the mobile side, sadly. However, Zettel does have a simple template editor that can fill in quite nicely.</p>\n<p>Plus, now I no longer have to remember to change the dateline in my content. That's a win.</p>\n<p>I just have to keep better track of which post number I'm on for my current writing challenge. Meh.</p>\n<p>Now if I could just figure out how to get Zettel to prompt me for a post title, we might be on business. Although, sometimes I don't know what I'm gonna name things until I'm done.</p>\n<p>This is post 68/100 of my #100DaysToOffload posts. You can read the other posts in this series <a href=\"/tags/100daystooffload\">here</a>.</p>\n",
+      "date_published": "2025-01-31T23:39:17+00:00"
+    },{
       "id": "https://shanewrogers.lol/posts/just-some-stuff-and-coffee/",
       "url": "https://shanewrogers.lol/posts/just-some-stuff-and-coffee/",
       "title": "Just some stuff and coffee",
