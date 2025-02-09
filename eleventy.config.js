@@ -1,4 +1,5 @@
 import {
+	EleventyRenderPlugin,
 	IdAttributePlugin,
 	InputPathToUrlTransformPlugin,
 	HtmlBasePlugin,
@@ -33,6 +34,9 @@ export default async function (eleventyConfig) {
 
 	// Watch images for the image pipeline.
 	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpg,jpeg,gif}");
+
+	// Watch for changes in components files.
+	eleventyConfig.addWatchTarget("_components/");
 
 	// Per-page bundles, see https://github.com/11ty/eleventy-plugin-bundle
 	// Adds the {% css %} paired shortcode
@@ -102,6 +106,8 @@ export default async function (eleventyConfig) {
 	eleventyConfig.addPlugin(pluginWebc, {
 		components: "_components/**/*.webc",
 	});
+	// Use WebComponents inside old-school templates
+	eleventyConfig.addPlugin(EleventyRenderPlugin);
 
 	// Filters
 	eleventyConfig.addPlugin(pluginFilters);

@@ -6,9 +6,14 @@ const eleventyNavigation = {
 
 const numberOfLatestPostsToShow = 3;
 ---
+<h1>Nowhere/Nothing</h1>
+{% renderTemplate "webc" %}
+<author-details></author-details>
+{% endrenderTemplate %}
+
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
-<h1>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h1>
+<h2>Latest {{ latestPostsCount }} Post{% if latestPostsCount != 1 %}s{% endif %}</h2>
 
 {% set postslist = collections.posts | head(-1 * numberOfLatestPostsToShow) %}
 {% set postslistCounter = postsCount %}
