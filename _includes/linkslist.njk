@@ -1,0 +1,17 @@
+<ul reversed>
+{%- for link in links %}
+    <li>
+        🔗 <a href="{{ link.url }}">
+            {% if link.data.title %}
+               {{ link.data.title }}
+            {% else %}
+               <code>{{ link.url }}</code>
+            {% endif %}
+        </a>
+        <br/>
+        <time datetime="{{ link.date | htmlDateString }}">
+              {{ link.date | readableDate("LLLL yyyy") }}
+        </time>
+    </li>
+{%- endfor %}
+</ul>
