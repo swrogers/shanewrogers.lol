@@ -1,0 +1,29 @@
+---js
+const eleventyNavigation = {
+			key: "Links",
+			order: 4
+};
+---
+<h1>Links and Bookmarks</h1>
+
+<p>Here be bookmarks and links that I find neato!</p>
+
+{% set bookmarks = collections.links %}
+
+<ul reversed>
+{%- for bookmark in bookmarks %}
+    <li>
+        <a href="{{ bookmark.url }}">
+            {% if bookmark.data.title %}
+               {{ bookmark.data.title }}
+            {% else %}
+               <code>{{ bookmark.url }}</code>
+            {% endif %}
+        </a>
+        <br/>
+        <time datetime="{{ bookmark.date | htmlDateString }}">
+              {{ bookmark.date | readableDate("LLLL yyyy") }}
+        </time>
+    </li>
+{%- endfor %}
+</ul>
