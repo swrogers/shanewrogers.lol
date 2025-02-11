@@ -8,10 +8,12 @@ layout: layouts/base.njk
 
 <div class="post-metadata">
 	<p>📅 Posted on: <time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></p>
-	{%- for tag in tags | filterTagList %}
-	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
-	<p>🏷️ Tagged with: <a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</p>
-	{%- endfor %}
+	<p>🏷️Tagged with:
+    	{%- for tag in tags | filterTagList %}
+	        {%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+        	<a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}
+        {%- endfor %}
+    </p>
 </div>
 
 {{ content | safe }}
