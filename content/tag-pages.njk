@@ -19,6 +19,9 @@ const eleventyComputed = {
 ---
 <h1>Tagged “{{ tag }}”</h1>
 
+{% set tagCount = collections[ tag ].length %}
+<p>{{ tagCount }} posts in this collection</p>
+
 {% set postslist = collections[ tag ] %}
 {% include "postslist.njk" %}
 
