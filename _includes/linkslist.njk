@@ -1,5 +1,5 @@
 <ul reversed>
-{%- for link in links %}
+{%- for link in links | reverse %}
     <li>
         🔗 <a href="{{ link.url }}">
             {% if link.data.title %}
