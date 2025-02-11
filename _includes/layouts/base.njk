@@ -35,6 +35,27 @@
 
 		{#- Add the heading-anchors web component to the JavaScript bundle #}
 		{%- js %}{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}{% endjs %}
+
+		{#- Open Graph Entries #}
+		<meta property="og:description" content="{{ description or metadata.description }}">
+		<meta property="og:image" content="/img/just_some_place.png">
+		<meta property="og:type" content="website">
+		<meta property="og:url" content="{{ metadata.url + page.url }}">
+		{#- End Open Graph Entries #}
+
+		{#- ActivityPub Verification #}
+    <link rel="me" href="https://social.lol/@swrogers">
+    <link rel="me" href="https://social.targaryen.house/@swrogers">
+    <link rel="me" href="https://social.swrlab.org/@swrogers">
+    <link rel="me" href="https://pixelfed.social/swrogers">
+    <link rel="me" href="https://github.com/swrogers">
+    <link rel="me" href="https://indieweb.social/@swrogers">
+    <link rel=“authorization_endpoint” href=“https://indieauth.com/auth”>
+    <link rel=“token_endpoint” href=“https://tokens.indieauth.com/token”>
+    <link rel="webmention" href="https://webmention.io/shanewrogers.lol/webmention">
+    <link rel="pingback" href="https://webmention.io/shanewrogers.lol/xmlrpc">
+		<meta name="fediverse:creator" content="@swrogers@social.lol">
+		{#- End ActivityPub Verification #}
 	</head>
 	<body>
 		<header>
