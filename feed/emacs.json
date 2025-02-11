@@ -1,0 +1,19 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "My Corner of the Internet feed for emacs",
+  "home_page_url": "https://shanewrogers.lol/",
+  "feed_url": "https://shanewrogers.lol/feed/feed.json",
+  "description": "Just a place for me to share some stuff.",
+  "author": {
+    "name": "Shane Rogers",
+    "url": ""
+  },
+  "items": [{
+      "id": "https://shanewrogers.lol/posts/trying-to-leave-onenote/",
+      "url": "https://shanewrogers.lol/posts/trying-to-leave-onenote/",
+      "title": "Trying to leave OneNote",
+      "content_html": "<p>This particular post is most likely just going to be of interest to future me, though some others may find some information of use.</p>\n<p>As my place of employment is a Microsoft shop, we use a large number of Microsoft applications. Personally, I'm not really a major fan of some of these apps so I like to look for good alternatives.</p>\n<p>Fortunately, I have grown used to being in the WSL environment and Emacs in particular.</p>\n<p>Historically I have been using OneNote to keep track of, um, notes and tidbits and whatever else one might want to put into a notebook. It has worked <em>just fine</em> but I don't like the fact that I don't have a lot of control over the format. I've kind of grown fond of just using text, and have been attempting to integrate Emacs' org-mode into more of my workflow.</p>\n<p>(I would love to say that I'm using org-mode for this blog, but alas, I am not - although it <strong>is</strong> plain markdown.)</p>\n<p>I recently came upon a tool that caught my interest, the <a href=\"https://github.com/alopezrivera/OneNoteExporter\" title=\"OneNoteExporter by alopezrivera\">OneNoteExporter</a> PowerShell script from <strong>alopezrivera</strong>. Easily enough installed into my Windows 11 laptop, it only really required pandoc as an additional requirement.</p>\n<p>Once I had the configuration file tweaked to my liking, I fired the script off. Of note, the powershell script needs to run at the same user level elevation as the currently running OneNote application. Also, a temporary script bypass may need to be run in powershell in order for the process to succeed: <code>Set-ExecutionPolicy ByPass -Scope Process</code></p>\n<p>There were a handful of errors at first, which were similar <a href=\"https://github.com/alopezrivera/OneNoteExporter/issues/11\">to this issue</a>. I was able to make the same edit as suggested and those problems were resolved.</p>\n<p>The next stumbling block that I came upon was the large amount of screenshots and images that I had in my OneNote notebooks. Those were not being exported by the pandoc process. As is normal within the world of the internet, I <a href=\"https://github.com/theohbrothers/ConvertOneNote2MarkDown/issues/183\">was not the first person to have this problem</a>. One thing that I most absolutely <em>did not</em> want to have to do was re-save all of those images in another format, <strong>or</strong> copy and paste the pages themselves into a new page - both of which were suggested as possible solutions. Thankfully, a very simple solution was found by another user <a href=\"https://github.com/theohbrothers/ConvertOneNote2MarkDown/issues/183#issuecomment-2343708831\">in that OneNote needs to download all files and images before syncing</a>.</p>\n<p>With that issue taken care of, everything was golden, right?</p>\n<p>Mostly.</p>\n<p>I still had to go through and add the proper filename extension to all of my fresh org files. Still haven't figured out why that was, but it was easy enough with emacs and wdired mode.</p>\n<p>Now, with my work related notes over in org mode and copied up to the work OneDrive I should be ready to roll.</p>\n<p>I hope.</p>\n<p>This is post 45/100 of my #100DaysToOffload posts. You can read the other posts in this series <a href=\"/tags/100daystooffload\">here</a>.</p>\n",
+      "date_published": "2024-10-10T15:21:38+00:00"
+    }
+  ]
+}

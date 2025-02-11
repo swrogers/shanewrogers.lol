@@ -1,0 +1,19 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "My Corner of the Internet feed for fediverse",
+  "home_page_url": "https://shanewrogers.lol/",
+  "feed_url": "https://shanewrogers.lol/feed/feed.json",
+  "description": "Just a place for me to share some stuff.",
+  "author": {
+    "name": "Shane Rogers",
+    "url": ""
+  },
+  "items": [{
+      "id": "https://shanewrogers.lol/posts/not-another-new-server/",
+      "url": "https://shanewrogers.lol/posts/not-another-new-server/",
+      "title": "Not another new server",
+      "content_html": "<h2 id=\"another-fediverse-server%3F!\">Another Fediverse Server?! <a class=\"direct-link\" href=\"#another-fediverse-server%3F!\">#</a></h2>\n<p>No, I don't have <em>yet another fediverse server instance</em> stood up.</p>\n<p>Not for some lack of trying, mind you, I just don't have the energy to put into working through all the nits and nats that are involved with ruby. I shudder to think. I've never really been a huge fan of that whole ecosystem.</p>\n<p>It's not as bad as the JavaScript world, but it's not fun to navigate for me either.</p>\n<p>I was wanting to get a <a href=\"https://diasporafoundation.org/\">Diaspora</a> instance set up on a digital ocean droplet, but decided against it. Then, to follow along in some other rabbit hole, I signed up on Yet Another ActivityPub Instance, in the form of <a href=\"https://akkomane.social/@shane\">Akkomane Social</a>. It seems nice, thus far.</p>\n<p>In other news, yeah - it's been a week.</p>\n<p>It's also only Wednesday.</p>\n",
+      "date_published": "2024-04-17T21:17:08+00:00"
+    }
+  ]
+}
