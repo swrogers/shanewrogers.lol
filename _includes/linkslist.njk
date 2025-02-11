@@ -10,7 +10,7 @@
         </a>
         <br/>
         <time datetime="{{ link.date | htmlDateString }}">
-              {{ link.date | readableDate("LLLL yyyy") }}
+              {{ link.date | readableDate("LLLL dd yyyy") }}
         </time>
     </li>
 {%- endfor %}
