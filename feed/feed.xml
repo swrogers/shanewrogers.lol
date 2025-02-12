@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="pretty-atom-feed.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <title>Blog Title</title>
-  <subtitle>This is a longer description about your blog.</subtitle>
-  <link href="https://example.com/feed/feed.xml" rel="self" />
-  <link href="https://example.com/" />
+  <title>Just Some Place</title>
+  <subtitle>Just some place for me to write some things.</subtitle>
+  <link href="https://shanewrogers.lol/feed/feed.xml" rel="self" />
+  <link href="https://shanewrogers.lol/" />
   <updated>2025-02-11T04:27:31Z</updated>
-  <id>https://example.com/</id>
+  <id>https://shanewrogers.lol/</id>
   <author>
-    <name>Your Name</name>
+    <name>Shane Rogers</name>
   </author>
   <entry>
     <title>The anxious one</title>
-    <link href="https://example.com/posts/the-anxious-one/" />
+    <link href="https://shanewrogers.lol/posts/the-anxious-one/" />
     <updated>2025-02-11T04:27:31Z</updated>
-    <id>https://example.com/posts/the-anxious-one/</id>
+    <id>https://shanewrogers.lol/posts/the-anxious-one/</id>
     <content type="html">&lt;p&gt;I don&#39;t believe that I have, at least not in some time, had a weekend fly by as quickly as this past weekend did.&lt;/p&gt;
 &lt;p&gt;In hindsight, I do have to admit that it was great that it went by as quickly and smoothly as it did.&lt;/p&gt;
 &lt;p&gt;As you may, or may not know - or care about really - we have had a sheepadoodle in the home since late November.&lt;/p&gt;
@@ -28,14 +28,14 @@
 &lt;p&gt;I had thought it was going to be a long weekend.&lt;/p&gt;
 &lt;p&gt;But it really wasn&#39;t.&lt;/p&gt;
 &lt;p&gt;Who would have thought.&lt;/p&gt;
-&lt;p&gt;This is post 70/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://example.com/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is post 70/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>This is just a test post on the blog.</title>
-    <link href="https://example.com/blog/2025-02-10-test-blog-post/" />
+    <link href="https://shanewrogers.lol/blog/2025-02-10-test-blog-post/" />
     <updated>2025-02-10T16:22:31Z</updated>
-    <id>https://example.com/blog/2025-02-10-test-blog-post/</id>
+    <id>https://shanewrogers.lol/blog/2025-02-10-test-blog-post/</id>
     <content type="html">&lt;h2 id=&quot;how-about-some-lorem-ipsum&quot;&gt;How about some Lorem Ipsum?&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac felis eu nibh molestie rhoncus. Suspendisse scelerisque, ligula ac viverra imperdiet, lectus velit placerat turpis, non suscipit metus tortor id eros. Cras ut velit et ante suscipit accumsan. Sed fringilla ante eget libero congue vestibulum. Phasellus ligula diam, bibendum eu quam non, mollis mollis nunc. Curabitur porta, dui eu ultricies ornare, ante magna faucibus purus, in lobortis nunc tellus non libero. Donec a eros vitae nisi aliquet tempus.&lt;/p&gt;
 &lt;p&gt;Fusce posuere, massa non lobortis tempus, elit mauris auctor lectus, id imperdiet enim tortor nec quam. Donec nec ante eu leo semper sagittis. In ex risus, vulputate vel efficitur eu, finibus et lectus. Ut convallis vulputate tempor. Proin ut libero quis urna molestie accumsan at vel purus. Nulla nec molestie urna. In elementum, ante nec bibendum ullamcorper, magna neque tempor magna, id semper nisi turpis sed orci.&lt;/p&gt;
@@ -46,23 +46,23 @@
   </entry>
   <entry>
     <title>On to the Death Star</title>
-    <link href="https://example.com/posts/on-to-the-death-star/" />
+    <link href="https://shanewrogers.lol/posts/on-to-the-death-star/" />
     <updated>2025-02-04T23:41:50Z</updated>
-    <id>https://example.com/posts/on-to-the-death-star/</id>
+    <id>https://shanewrogers.lol/posts/on-to-the-death-star/</id>
     <content type="html">&lt;p&gt;Well, yesterday (or the day before) my wife had a Costco run.&lt;/p&gt;
 &lt;p&gt;Normally, not a big deal. Despite the fact that it does run us a few hundred bucks a shot. But that does come with a family of seven. Lots of (teen) mouths to feed.&lt;/p&gt;
 &lt;p&gt;That said, part of what she picked up while there, something that was completely unexpected, is that we are now in the process of swapping cellular providers.&lt;/p&gt;
 &lt;p&gt;We&#39;ve had T-Mobile for just shy of 20 years. I hate, hate, hate to say that we&#39;ll now be on ATT. But, by making the swap out bill will be lower.&lt;/p&gt;
 &lt;p&gt;Maybe we&#39;ll swap providers every time we finalize the conditions of the contract.&lt;/p&gt;
 &lt;p&gt;It will be nice to have a phone with a stylus again.&lt;/p&gt;
-&lt;p&gt;This is post 69/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://example.com/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is post 69/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Mobile templates FTW</title>
-    <link href="https://example.com/posts/mobile-templates-ftw/" />
+    <link href="https://shanewrogers.lol/posts/mobile-templates-ftw/" />
     <updated>2025-01-31T23:39:17Z</updated>
-    <id>https://example.com/posts/mobile-templates-ftw/</id>
+    <id>https://shanewrogers.lol/posts/mobile-templates-ftw/</id>
     <content type="html">&lt;p&gt;I don&#39;t generally like to *meta post&amp;quot;, blog about blogging and all that...but there are times that I shall make an exception.&lt;/p&gt;
 &lt;p&gt;I have finally decided that it is high time to take advantage of some of the features my mobile note taking application has - namely that it does offer templates and widget creation.&lt;/p&gt;
 &lt;p&gt;One of which is to create a new note using a template, naturally.&lt;/p&gt;
@@ -72,14 +72,14 @@
 &lt;p&gt;Plus, now I no longer have to remember to change the dateline in my content. That&#39;s a win.&lt;/p&gt;
 &lt;p&gt;I just have to keep better track of which post number I&#39;m on for my current writing challenge. Meh.&lt;/p&gt;
 &lt;p&gt;Now if I could just figure out how to get Zettel to prompt me for a post title, we might be on business. Although, sometimes I don&#39;t know what I&#39;m gonna name things until I&#39;m done.&lt;/p&gt;
-&lt;p&gt;This is post 68/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://example.com/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is post 68/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Just some stuff and coffee</title>
-    <link href="https://example.com/posts/just-some-stuff-and-coffee/" />
+    <link href="https://shanewrogers.lol/posts/just-some-stuff-and-coffee/" />
     <updated>2025-01-29T15:05:11Z</updated>
-    <id>https://example.com/posts/just-some-stuff-and-coffee/</id>
+    <id>https://shanewrogers.lol/posts/just-some-stuff-and-coffee/</id>
     <content type="html">&lt;p&gt;Ugh, I just haven&#39;t been feeling it lately!&lt;/p&gt;
 &lt;p&gt;I had even made the attempt to start a post the other day. Got as far as copying my template over to the ol&#39; draft folder.&lt;/p&gt;
 &lt;p&gt;Dunno what happened but that&#39;s as far as that went.&lt;/p&gt;
@@ -91,14 +91,14 @@
 &lt;p&gt;I&#39;m just glad that our Cameron&#39;s Coffee order came through before those prices shot through the roof. Plus, I already had a four pack case (we have a monthly standing order for four 32oz bags) just sitting around. We go through a case a month in our house. I&#39;m not looking forward to the future there.&lt;/p&gt;
 &lt;p&gt;I think that&#39;s all I&#39;ve got.&lt;/p&gt;
 &lt;p&gt;For now.&lt;/p&gt;
-&lt;p&gt;This is post 67/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://example.com/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is post 67/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Here we are once again</title>
-    <link href="https://example.com/posts/here-we-are-once-again/" />
+    <link href="https://shanewrogers.lol/posts/here-we-are-once-again/" />
     <updated>2025-01-20T14:05:11Z</updated>
-    <id>https://example.com/posts/here-we-are-once-again/</id>
+    <id>https://shanewrogers.lol/posts/here-we-are-once-again/</id>
     <content type="html">&lt;p&gt;Sitting here, with my youngest twin kiddo, doing some checks to re-ensure that everything is going to be okay with him physically.&lt;/p&gt;
 &lt;p&gt;Years ago, he was diagnosed with a hole in his heart, though it was believed to have closed up enough to allow him to do things he enjoys doing.&lt;/p&gt;
 &lt;p&gt;Like, running. Cross country, track. Things like that.&lt;/p&gt;
@@ -110,14 +110,14 @@
 &lt;p&gt;I don&#39;t want to take these things away. I enjoy taking him to them and watching him do them.&lt;/p&gt;
 &lt;p&gt;It&#39;s friendship and comraderie.&lt;/p&gt;
 &lt;p&gt;We just need to know.&lt;/p&gt;
-&lt;p&gt;This is post 66/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://example.com/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is post 66/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>My final Doom form</title>
-    <link href="https://example.com/posts/my-final-doom-form/" />
+    <link href="https://shanewrogers.lol/posts/my-final-doom-form/" />
     <updated>2025-01-19T03:05:11Z</updated>
-    <id>https://example.com/posts/my-final-doom-form/</id>
+    <id>https://shanewrogers.lol/posts/my-final-doom-form/</id>
     <content type="html">&lt;p&gt;For the longest time - well, not really the longest time but there are moments when it seems like it&#39;s been forever - I&#39;ve been attempting to patch together my own Emacs config.&lt;/p&gt;
 &lt;p&gt;Having gone from Spacemacs, Purcell, Vanilla, Doom, Prelude, handcrafted, literate, back again through multiple attempts at each of the previous as well as pouring through everybody else&#39;s (and their dogs - hello, Corgi!) configs I have finally come to a conclusion.&lt;/p&gt;
 &lt;p&gt;I figure that since I basically always wind up trying to reinvent Doom Emacs, that I might as well meet them in the middle and move over to recreating Doom with a complete literate Doom config.&lt;/p&gt;
@@ -129,14 +129,14 @@
 &lt;p&gt;This might be my final form.&lt;/p&gt;
 &lt;p&gt;Minus some tweaking.&lt;/p&gt;
 &lt;p&gt;One of these days I&#39;ll have to get back to doing weekly link dumps.&lt;/p&gt;
-&lt;p&gt;This is post 65/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://example.com/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is post 65/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Uncertain refrigerator</title>
-    <link href="https://example.com/posts/uncertain-refrigerator/" />
+    <link href="https://shanewrogers.lol/posts/uncertain-refrigerator/" />
     <updated>2025-01-09T21:05:11Z</updated>
-    <id>https://example.com/posts/uncertain-refrigerator/</id>
+    <id>https://shanewrogers.lol/posts/uncertain-refrigerator/</id>
     <content type="html">&lt;p&gt;If it isn&#39;t one thing it&#39;s about seventy three others with our luck.&lt;/p&gt;
 &lt;p&gt;When we moved into our home over nine years ago we had to pick up a few appliances. A refrigerator, washer and dryer, we also procured a stand up freezer for the garage.&lt;/p&gt;
 &lt;p&gt;The house came with dishwasher, range and microwave.&lt;/p&gt;
@@ -151,16 +151,16 @@
 &lt;p&gt;Sigh.&lt;/p&gt;
 &lt;p&gt;Naturally, the assigned delivery window for tomorrow&#39;s unit is right smack dab around school pick up time for the kids.&lt;/p&gt;
 &lt;p&gt;Because, why wouldn&#39;t it be.&lt;/p&gt;
-&lt;p&gt;This is post 64/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://example.com/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is post 64/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Not the good kind of blizzard</title>
-    <link href="https://example.com/posts/not-the-good-kind-of-blizzard/" />
+    <link href="https://shanewrogers.lol/posts/not-the-good-kind-of-blizzard/" />
     <updated>2025-01-04T21:05:11Z</updated>
-    <id>https://example.com/posts/not-the-good-kind-of-blizzard/</id>
+    <id>https://shanewrogers.lol/posts/not-the-good-kind-of-blizzard/</id>
     <content type="html">&lt;p&gt;Well we are evidently in an actua &lt;em&gt;Blizzard Warning&lt;/em&gt; now.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;https://example.com/posts/not-the-good-kind-of-blizzard/content/img/Attachment-2025-01-05.png&quot; alt=&quot;Attachment-2025-01-05&quot;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://shanewrogers.lol/posts/not-the-good-kind-of-blizzard/content/img/Attachment-2025-01-05.png&quot; alt=&quot;Attachment-2025-01-05&quot;&gt;&lt;/p&gt;
 &lt;p&gt;Yippee!&lt;/p&gt;
 &lt;p&gt;I attempted earlier this evening, just after dinner, to go out and grab some stuff from the store. Milk and whatever.&lt;/p&gt;
 &lt;p&gt;I had, earlier this afternoon, salted the walk and driveway. I guess I should have salted just a bit more in some areas, since I took a decent header going to the car.&lt;/p&gt;
@@ -169,14 +169,14 @@
 &lt;p&gt;Now, I&#39;ve got a ginormous welt on the side of my left leg.&lt;/p&gt;
 &lt;p&gt;It&#39;s sore, but livable. Certainly huge though.&lt;/p&gt;
 &lt;p&gt;Woot.&lt;/p&gt;
-&lt;p&gt;This is post 63/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://example.com/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is post 63/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Another year already</title>
-    <link href="https://example.com/posts/another-year-already/" />
+    <link href="https://shanewrogers.lol/posts/another-year-already/" />
     <updated>2024-12-31T13:05:11Z</updated>
-    <id>https://example.com/posts/another-year-already/</id>
+    <id>https://shanewrogers.lol/posts/another-year-already/</id>
     <content type="html">&lt;p&gt;Has it really been a year?&lt;/p&gt;
 &lt;p&gt;Another one??&lt;/p&gt;
 &lt;p&gt;Already?!&lt;/p&gt;
@@ -202,7 +202,7 @@
 &lt;p&gt;Ah well.&lt;/p&gt;
 &lt;p&gt;On a closing note, I started a &lt;a href=&quot;https://hardcover.app/@swrogers&quot;&gt;Hardcover account&lt;/a&gt;. I kinda like it, but I do think I prefer the way books can be added over on OpenReads with taking pics of the barcodes. I may use both for a bit before deciding to stop using either of them, because, honesty. While I need to keep track of what books I&#39;ve got and read, I don&#39;t know that I can actually do that.&lt;/p&gt;
 &lt;p&gt;Maybe I should add that to my New Year&#39;s Resolutions.&lt;/p&gt;
-&lt;p&gt;This is post 62/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://example.com/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;This is post 62/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
 </feed>
