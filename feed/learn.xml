@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<title>My Corner of the Internet Feed for learn</title>
+	<subtitle>Just my little corner of the internet.</subtitle>
+	
+	<link href="https://shanewrogers.lol/feed/feed.xml" rel="self"/>
+	<link href="https://shanewrogers.lol/"/>
+	<updated>2025-02-11T04:27:31+00:00</updated>
+	<id>https://shanewrogers.lol</id>
+	<author>
+		<name>Shane Rogers</name>
+		<email>swrogers@omg.lol</email>
+	</author>
+	
+	<entry>
+		<title>Things I&#39;m Learning</title>
+		<link href="https://shanewrogers.lol/posts/things-i&amp;#39;m-learning/"/>
+		<updated>2024-04-30T15:26:37+00:00</updated>
+		<id>https://shanewrogers.lol/posts/things-i&amp;#39;m-learning/</id>
+		<content type="html">
+		  &lt;p&gt;For those of you who follow my pixelfed feed, you may have seen the following image&lt;/p&gt;
+&lt;iframe title=&quot;Pixelfed Post Embed&quot; src=&quot;https://pixelfed.social/p/swrogers/690632497756857978/embed?caption=false&amp;likes=false&amp;layout=compact&quot; class=&quot;pixelfed__embed&quot; style=&quot;max-width: 100%; border: 0&quot; width=&quot;400&quot; allowfullscreen=&quot;allowfullscreen&quot;&gt;&lt;/iframe&gt;&lt;script async=&quot;&quot; defer=&quot;&quot; src=&quot;https://pixelfed.social/embed.js&quot;&gt;&lt;/script&gt;
+&lt;p&gt;While it&#39;s only tangentially related to what I do at work, it&#39;s something that is actively encouraged for us to do - continue to learn. I figure since I am around Oracle Databases all the time, I should probably widen my breadth of knowledge a bit.&lt;/p&gt;
+&lt;p&gt;Who knows, I might even be able to add to my repertoire.&lt;/p&gt;
+&lt;h3 id=&quot;possible-future-notes-to-self&quot;&gt;Possible future notes to self &lt;a class=&quot;direct-link&quot; href=&quot;#possible-future-notes-to-self&quot;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;I&#39;m wondering how feasible it might be to have echofeed (perhaps) cross post from pixelfed into this github pages hosted site. I know I could do an rss feed pull. Of course, then I&#39;d need some way to ensure that doubled (or more...) posts aren&#39;t sent out via echofeed to the mastodon account. I&#39;m sure that other people have solved this issue, though. Heh.&lt;/p&gt;
+
+			
+		</content>
+	</entry>
+</feed>

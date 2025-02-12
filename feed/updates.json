@@ -1,0 +1,19 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "My Corner of the Internet feed for updates",
+  "home_page_url": "https://shanewrogers.lol/",
+  "feed_url": "https://shanewrogers.lol/feed/feed.json",
+  "description": "Just a place for me to share some stuff.",
+  "author": {
+    "name": "Shane Rogers",
+    "url": ""
+  },
+  "items": [{
+      "id": "https://shanewrogers.lol/posts/good-grief-and-all-the-gravy/",
+      "url": "https://shanewrogers.lol/posts/good-grief-and-all-the-gravy/",
+      "title": "Good grief and all the gravy",
+      "content_html": "<h2 id=\"more-site-updates\">More site updates <a class=\"direct-link\" href=\"#more-site-updates\">#</a></h2>\n<p>Now I've added another section to the olde interweb presence: <a href=\"/drops\">Drops</a>.</p>\n<p>&quot;What are drops?&quot; I can hear absolutely nobody asking...well, I'm glad you asked! Basically they're my <em>Read It Later</em> links that I use some other web service to save for me - both the actual link, the data on the page, content and all that jazzy stuff. It's a service that I actually - shock! awe! - pay for.</p>\n<p>I'd like to have all of that data <em>here</em> on this site - well, I guess it'd be in the github repo, but still. As it is, I grab the latest 25 entries and display them on the <a href=\"/drops\">drops</a> page. I suppose at some point in time I'll actually build in some kind of link roll or link blog or whatever, that way I can have the actual history in my site - but for now this is fine.</p>\n<p>It took me way, <strong>way</strong> too stinking long to get the secrets info dealt with for the github action. Too many tangents and too many wrong turns. But things seem to be working now.</p>\n<p>Time for some breakage I think.</p>\n",
+      "date_published": "2024-04-03T20:32:52+00:00"
+    }
+  ]
+}

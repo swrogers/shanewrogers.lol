@@ -1,0 +1,19 @@
+{
+  "version": "https://jsonfeed.org/version/1",
+  "title": "My Corner of the Internet feed for learn",
+  "home_page_url": "https://shanewrogers.lol/",
+  "feed_url": "https://shanewrogers.lol/feed/feed.json",
+  "description": "Just a place for me to share some stuff.",
+  "author": {
+    "name": "Shane Rogers",
+    "url": ""
+  },
+  "items": [{
+      "id": "https://shanewrogers.lol/posts/things-i&amp;#39;m-learning/",
+      "url": "https://shanewrogers.lol/posts/things-i&amp;#39;m-learning/",
+      "title": "Things I&#39;m Learning",
+      "content_html": "<p>For those of you who follow my pixelfed feed, you may have seen the following image</p>\n<iframe title=\"Pixelfed Post Embed\" src=\"https://pixelfed.social/p/swrogers/690632497756857978/embed?caption=false&likes=false&layout=compact\" class=\"pixelfed__embed\" style=\"max-width: 100%; border: 0\" width=\"400\" allowfullscreen=\"allowfullscreen\"></iframe><script async defer src=\"https://pixelfed.social/embed.js\"></script>\n<p>While it's only tangentially related to what I do at work, it's something that is actively encouraged for us to do - continue to learn. I figure since I am around Oracle Databases all the time, I should probably widen my breadth of knowledge a bit.</p>\n<p>Who knows, I might even be able to add to my repertoire.</p>\n<h3 id=\"possible-future-notes-to-self\">Possible future notes to self <a class=\"direct-link\" href=\"#possible-future-notes-to-self\">#</a></h3>\n<p>I'm wondering how feasible it might be to have echofeed (perhaps) cross post from pixelfed into this github pages hosted site. I know I could do an rss feed pull. Of course, then I'd need some way to ensure that doubled (or more...) posts aren't sent out via echofeed to the mastodon account. I'm sure that other people have solved this issue, though. Heh.</p>\n",
+      "date_published": "2024-04-30T15:26:37+00:00"
+    }
+  ]
+}
