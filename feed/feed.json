@@ -10,6 +10,30 @@
 	},
 	"items": [{
 											"id": "
+					 					 		 https://shanewrogers.lol/posts/just-a-quick-note/
+										 ",
+											"url": "
+					 					 		 https://shanewrogers.lol/posts/just-a-quick-note/
+										 ",
+											"title": "Just a quick note",
+											"content_html": 
+																				"<p>Still doing some final checks and balances on things around these parts.</p>\n<p>I noticed that, for some reason, that old &quot;holiday&quot; post decided to show up in the feed and echofeed grabbed it as well. Not sure what that was about.</p>\n<p>I do know that I had to redo the git repo, again, seeing as how Zettel Notes still had an older version and, with the merge settings I have, happily forced up the older branch. Sigh.</p>\n<p>All right. Let's see how this one pops up!</p>\n"
+																			,
+											"date_published": "2025-02-12T18:13:54Z"
+										 },{
+											"id": "
+					 					 		 https://shanewrogers.lol/posts/null/
+										 ",
+											"url": "
+					 					 		 https://shanewrogers.lol/posts/null/
+										 ",
+											"title": "",
+											"content_html": 
+																				"<p>This is post /100 of my #100DaysToOffload posts. You can read the other posts in this series <a href=\"/tags/100daystooffload\">here</a>.</p>\n"
+																			,
+											"date_published": "2025-02-12T18:13:37Z"
+										 },{
+											"id": "
 					 					 		 https://shanewrogers.lol/posts/a-new-look/
 										 ",
 											"url": "
