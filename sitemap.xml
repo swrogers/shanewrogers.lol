@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	
 	<url>
-		<loc>https://shanewrogers.lol/blog/firstpost/</loc>
+		<loc>https://shanewrogers.lol/posts/this-is-my-first-post/</loc>
 		<lastmod>2018-05-01</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://shanewrogers.lol/blog/secondpost/</loc>
+		<loc>https://shanewrogers.lol/posts/this-is-my-second-post-with-a-much-longer-title/</loc>
 		<lastmod>2018-07-04</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://shanewrogers.lol/blog/thirdpost/</loc>
+		<loc>https://shanewrogers.lol/posts/this-is-my-third-post/</loc>
 		<lastmod>2018-08-24</lastmod>
 	</url>
 	
 	<url>
-		<loc>https://shanewrogers.lol/blog/fourthpost/</loc>
+		<loc>https://shanewrogers.lol/posts/this-is-my-fourth-post/</loc>
 		<lastmod>2018-09-30</lastmod>
 	</url>
 	
@@ -667,7 +667,7 @@
 	</url>
 	
 	<url>
-		<loc>https://shanewrogers.lol/blog/2025-02-10-test-blog-post/</loc>
+		<loc>https://shanewrogers.lol/posts/this-is-just-a-test-post-on-the-blog/</loc>
 		<lastmod>2025-02-10</lastmod>
 	</url>
 	
@@ -704,6 +704,11 @@
 	<url>
 		<loc>https://shanewrogers.lol/posts/new-phone-setup-day/</loc>
 		<lastmod>2025-02-16</lastmod>
+	</url>
+	
+	<url>
+		<loc>https://shanewrogers.lol/posts/yep-its-gonna-be-a-loss/</loc>
+		<lastmod>2025-02-17</lastmod>
 	</url>
 	
 	<url>

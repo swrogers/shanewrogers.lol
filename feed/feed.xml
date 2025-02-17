@@ -5,11 +5,28 @@
   <subtitle>Just some place for me to write some things.</subtitle>
   <link href="https://shanewrogers.lol/feed/feed.xml" rel="self" />
   <link href="https://shanewrogers.lol/" />
-  <updated>2025-02-16T01:28:32Z</updated>
+  <updated>2025-02-17T21:29:01Z</updated>
   <id>https://shanewrogers.lol/</id>
   <author>
     <name>Shane Rogers</name>
   </author>
+  <entry>
+    <title>Yep, It&#39;s Gonna Be A Loss</title>
+    <link href="https://shanewrogers.lol/posts/yep-its-gonna-be-a-loss/" />
+    <updated>2025-02-17T21:29:01Z</updated>
+    <id>https://shanewrogers.lol/posts/yep-its-gonna-be-a-loss/</id>
+    <content type="html">&lt;p&gt;As you most likely do not recall, back in middle December I decided to give my thumb a &lt;a href=&quot;https://shanewrogers.lol/posts/a-day-of-firsts&quot;&gt;smashing good time in my car door&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;It hurt quite a lot and after doing the drainage thing for a handful of days it started feeling much better and the healing process began.&lt;/p&gt;
+&lt;p&gt;Not that the healing process hadn&#39;t &lt;em&gt;technically&lt;/em&gt; began the instant it happened, but, yeah. Very nearly the entire undernail and nail bed bruised and it (still) kinda looked like I had painted that particular fingernail black.&lt;/p&gt;
+&lt;p&gt;The hope was that I was not going to lose the nail.&lt;/p&gt;
+&lt;p&gt;For awhile it sure seemed like I was in the clear on that one!&lt;/p&gt;
+&lt;p&gt;As you probably might guess, it does appear that I&#39;ll be losing the nail. Not that it&#39;s anything major, just kinda some suckage.&lt;/p&gt;
+&lt;p&gt;I made the mistake of picking at the edge of the nail, which then more or less started the displacement of it all. The other day I was putting my jacket on, getting it zipped and cozy, and somehow - someway - caught the edge of my thumbnail in the cloth. Half the nailbed came out.&lt;/p&gt;
+&lt;p&gt;Had to do some trim work on it, will probably be doing trimwork on it for the next few weeks or so. Sleeping with a bandaid on it so I don&#39;t catch it on anything in my sleep and rip the bad boy out. That would suck.&lt;/p&gt;
+&lt;p&gt;It is certainly gnarly, and has been quite some time since this has happened to any of my nails. Our oldest has had the privilege of losing not &lt;em&gt;one&lt;/em&gt;, but &lt;em&gt;two&lt;/em&gt; nails in his short life thus far.&lt;/p&gt;
+&lt;p&gt;This is post 73/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>New phone setup day</title>
     <link href="https://shanewrogers.lol/posts/new-phone-setup-day/" />
@@ -73,9 +90,9 @@
   </entry>
   <entry>
     <title>This is just a test post on the blog.</title>
-    <link href="https://shanewrogers.lol/blog/2025-02-10-test-blog-post/" />
+    <link href="https://shanewrogers.lol/posts/this-is-just-a-test-post-on-the-blog/" />
     <updated>2025-02-10T16:22:31Z</updated>
-    <id>https://shanewrogers.lol/blog/2025-02-10-test-blog-post/</id>
+    <id>https://shanewrogers.lol/posts/this-is-just-a-test-post-on-the-blog/</id>
     <content type="html">&lt;h2 id=&quot;how-about-some-lorem-ipsum&quot;&gt;How about some Lorem Ipsum?&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ac felis eu nibh molestie rhoncus. Suspendisse scelerisque, ligula ac viverra imperdiet, lectus velit placerat turpis, non suscipit metus tortor id eros. Cras ut velit et ante suscipit accumsan. Sed fringilla ante eget libero congue vestibulum. Phasellus ligula diam, bibendum eu quam non, mollis mollis nunc. Curabitur porta, dui eu ultricies ornare, ante magna faucibus purus, in lobortis nunc tellus non libero. Donec a eros vitae nisi aliquet tempus.&lt;/p&gt;
 &lt;p&gt;Fusce posuere, massa non lobortis tempus, elit mauris auctor lectus, id imperdiet enim tortor nec quam. Donec nec ante eu leo semper sagittis. In ex risus, vulputate vel efficitur eu, finibus et lectus. Ut convallis vulputate tempor. Proin ut libero quis urna molestie accumsan at vel purus. Nulla nec molestie urna. In elementum, ante nec bibendum ullamcorper, magna neque tempor magna, id semper nisi turpis sed orci.&lt;/p&gt;
@@ -151,25 +168,6 @@
 &lt;p&gt;It&#39;s friendship and comraderie.&lt;/p&gt;
 &lt;p&gt;We just need to know.&lt;/p&gt;
 &lt;p&gt;This is post 66/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>My final Doom form</title>
-    <link href="https://shanewrogers.lol/posts/my-final-doom-form/" />
-    <updated>2025-01-19T03:05:11Z</updated>
-    <id>https://shanewrogers.lol/posts/my-final-doom-form/</id>
-    <content type="html">&lt;p&gt;For the longest time - well, not really the longest time but there are moments when it seems like it&#39;s been forever - I&#39;ve been attempting to patch together my own Emacs config.&lt;/p&gt;
-&lt;p&gt;Having gone from Spacemacs, Purcell, Vanilla, Doom, Prelude, handcrafted, literate, back again through multiple attempts at each of the previous as well as pouring through everybody else&#39;s (and their dogs - hello, Corgi!) configs I have finally come to a conclusion.&lt;/p&gt;
-&lt;p&gt;I figure that since I basically always wind up trying to reinvent Doom Emacs, that I might as well meet them in the middle and move over to recreating Doom with a complete literate Doom config.&lt;/p&gt;
-&lt;p&gt;I&#39;ve seen a handful of users that have done this, and while getting it bootstrapped was a little interesting, I think it&#39;s going to work really well.&lt;/p&gt;
-&lt;p&gt;As it&#39;s basically an art form, my Emacs config is never done - but I&#39;ve got it to a point where I&#39;m happy with it.&lt;/p&gt;
-&lt;p&gt;I do actually like some of the convenience macros that are provided with the Doom Emacs framework. It makes a really excellent library.&lt;/p&gt;
-&lt;p&gt;Will I stay with this? You know, I think that since I generally always found my way back to Doom (even though I don&#39;t use evil key bindings), plus with my desire to have &amp;quot;my own thing&amp;quot;....yeah, maybe.&lt;/p&gt;
-&lt;p&gt;Just maybe.&lt;/p&gt;
-&lt;p&gt;This might be my final form.&lt;/p&gt;
-&lt;p&gt;Minus some tweaking.&lt;/p&gt;
-&lt;p&gt;One of these days I&#39;ll have to get back to doing weekly link dumps.&lt;/p&gt;
-&lt;p&gt;This is post 65/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
 </feed>
