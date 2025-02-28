@@ -1,7 +1,7 @@
 ---
 title: Hey, it's a long weekend
 date: 2025-02-27T17:29:34-0600
-permalink: 'posts/{{ title | slug }}/'
+permalink: 'posts/{{ title | slugify }}/'
 tags: [journal,100DaysToOffload]
 ---
 Ah, I am once again at the point to where my vacation time is maxed out at work. So it's either use "it or don't gain any more" time.
