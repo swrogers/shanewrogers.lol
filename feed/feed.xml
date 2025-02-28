@@ -5,11 +5,23 @@
   <subtitle>Just some place for me to write some things.</subtitle>
   <link href="https://shanewrogers.lol/feed/feed.xml" rel="self" />
   <link href="https://shanewrogers.lol/" />
-  <updated>2025-02-27T23:29:34Z</updated>
+  <updated>2025-02-28T01:33:31Z</updated>
   <id>https://shanewrogers.lol/</id>
   <author>
     <name>Shane Rogers</name>
   </author>
+  <entry>
+    <title>A portrait of a chicken</title>
+    <link href="https://shanewrogers.lol/posts/a-portrait-of-a-chicken/" />
+    <updated>2025-02-28T01:33:31Z</updated>
+    <id>https://shanewrogers.lol/posts/a-portrait-of-a-chicken/</id>
+    <content type="html">&lt;p&gt;A portrait of a &amp;quot;Chicken&amp;quot;.&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://shanewrogers.lol/posts/a-portrait-of-a-chicken/VrFUxupE-Y-3000.avif 3000w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://shanewrogers.lol/posts/a-portrait-of-a-chicken/VrFUxupE-Y-3000.webp 3000w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://shanewrogers.lol/posts/a-portrait-of-a-chicken/VrFUxupE-Y-3000.jpeg&quot; alt=&quot;Photo of a gray and white sheepadoodle. She&#39;s laying on her bed, staring straight at the camera, her mouth slightly open in what looks like a smile.
+Her eyes are obscured by her long, scraggly hair.&quot; width=&quot;3000&quot; height=&quot;4000&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;p&gt;If you know, you know. 😅&lt;/p&gt;
+&lt;p&gt;....her name, it&#39;s Chicken.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Hey, it&#39;s a long weekend</title>
     <link href="https://shanewrogers.lol/posts/hey-its-a-long-weekend/" />
@@ -145,23 +157,6 @@
 &lt;p&gt;Maybe we&#39;ll swap providers every time we finalize the conditions of the contract.&lt;/p&gt;
 &lt;p&gt;It will be nice to have a phone with a stylus again.&lt;/p&gt;
 &lt;p&gt;This is post 69/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Mobile templates FTW</title>
-    <link href="https://shanewrogers.lol/posts/mobile-templates-ftw/" />
-    <updated>2025-01-31T23:39:17Z</updated>
-    <id>https://shanewrogers.lol/posts/mobile-templates-ftw/</id>
-    <content type="html">&lt;p&gt;I don&#39;t generally like to *meta post&amp;quot;, blog about blogging and all that...but there are times that I shall make an exception.&lt;/p&gt;
-&lt;p&gt;I have finally decided that it is high time to take advantage of some of the features my mobile note taking application has - namely that it does offer templates and widget creation.&lt;/p&gt;
-&lt;p&gt;One of which is to create a new note using a template, naturally.&lt;/p&gt;
-&lt;p&gt;In becoming more comfortable with the use of capture templates on my desktop using org-mode and Emacs, I figure that I might as well try to take at least &lt;em&gt;some&lt;/em&gt; of the friction out of blogging on the mobile side.&lt;/p&gt;
-&lt;p&gt;Especially seeing as that&#39;s where I do the vast majority of my posting from.&lt;/p&gt;
-&lt;p&gt;While Zettel Notes &lt;strong&gt;can&lt;/strong&gt; write in org format, I&#39;m using eleventy for my site and markdown for my content. So no org capture setup on the mobile side, sadly. However, Zettel does have a simple template editor that can fill in quite nicely.&lt;/p&gt;
-&lt;p&gt;Plus, now I no longer have to remember to change the dateline in my content. That&#39;s a win.&lt;/p&gt;
-&lt;p&gt;I just have to keep better track of which post number I&#39;m on for my current writing challenge. Meh.&lt;/p&gt;
-&lt;p&gt;Now if I could just figure out how to get Zettel to prompt me for a post title, we might be on business. Although, sometimes I don&#39;t know what I&#39;m gonna name things until I&#39;m done.&lt;/p&gt;
-&lt;p&gt;This is post 68/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
 </feed>
