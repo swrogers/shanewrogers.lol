@@ -1,0 +1,12 @@
+---js
+const eleventyNavigation = {
+			key: "Photos",
+			order: 5
+};
+---
+<h1>Just Some Photos</h1>
+
+<p>Here you'll find mostly just links to photos that I've shared on other services, I don't - generally - upload images/photos/whatever to the actual blog.</p>
+
+{% set photos = collections.photos %}
+{% include "photoslist.njk" %}

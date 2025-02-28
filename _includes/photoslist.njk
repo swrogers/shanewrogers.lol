@@ -1,0 +1,17 @@
+<ul reversed>
+{%- for photo in photos | reverse %}
+    <li>
+				📷 <a href="{{ photo.url }}">
+            {% if photo.data.title %}
+               {{ photo.data.title }}
+            {% else %}
+               <code>{{ photo.url }}</code>
+            {% endif %}
+        </a>
+        <br/>
+        <time datetime="{{ photo.date | htmlDateString }}">
+              {{ photo.date | readableDate("LLLL dd yyyy") }}
+        </time>
+    </li>
+{%- endfor %}
+</ul>
