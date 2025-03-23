@@ -5,11 +5,34 @@
   <subtitle>Just some place for me to write some things.</subtitle>
   <link href="https://shanewrogers.lol/feed/feed.xml" rel="self" />
   <link href="https://shanewrogers.lol/" />
-  <updated>2025-03-20T23:44:36Z</updated>
+  <updated>2025-03-23T17:41:50Z</updated>
   <id>https://shanewrogers.lol/</id>
   <author>
     <name>Shane Rogers</name>
   </author>
+  <entry>
+    <title>Two calls and two tales</title>
+    <link href="https://shanewrogers.lol/posts/two-calls-and-two-tales/" />
+    <updated>2025-03-23T17:41:50Z</updated>
+    <id>https://shanewrogers.lol/posts/two-calls-and-two-tales/</id>
+    <content type="html">&lt;p&gt;My Dad called me yesterday afternoon.&lt;/p&gt;
+&lt;p&gt;He, and the rest of my family are basically the only people that I would even consider answering the phone for. Everybody else can leave a message and maybe I&#39;ll carve some time out of my life to call you back. But I wouldn&#39;t count on it.&lt;/p&gt;
+&lt;p&gt;He (my Dad) has actually called my twice now within the last few weeks. He&#39;s getting up there in age and it&#39;s been awhile since I&#39;ve made the approximately four hour trek south to see him. I&#39;m also really bad at calling him. Sometimes I don&#39;t think I&#39;ve been a great son.&lt;/p&gt;
+&lt;p&gt;I would make the &amp;quot;politics&amp;quot; excuse, but I don&#39;t talk politics with my Dad. I do love my Dad and we did used to be pretty close, but we&#39;ve grown apart. As happens with some people.&lt;/p&gt;
+&lt;p&gt;Anyhow. Yesterday he calls and of course I answer. His question is an interesting one: &amp;quot;I bought this 60 plus inch Roku TV, if I plug it in do I need the internet in order to stream or whatever it&#39;s called?&amp;quot;&lt;/p&gt;
+&lt;p&gt;Let me qualify something here for you, dear reader: my Dad still has to use a flip phone, is absolutely computer and technology illiterate and has really no desire to learn. Which is fine. He&#39;s done all right with what he&#39;s got thus far and has no need to complicate his life any more than necessary. At least he can text message.&lt;/p&gt;
+&lt;p&gt;Getting back to the story, I say: &amp;quot;yeah, you would need the internet to properly use your Roku TV. Do you even have the internet?&amp;quot; Of course he does not. But, he can have it installed.&lt;/p&gt;
+&lt;p&gt;Excellent. Next, he wants to know if I could help him get things sorted out over the phone. Yeah, no. I&#39;m not gonna go that route. I love you, Dad, but that&#39;s just not something that I&#39;m willing to invest my time and effort into. Far too frustrating. Well, could the installer help me, he asks. I guess that depends on the installer and the kind of day they&#39;ve had.&lt;/p&gt;
+&lt;p&gt;That&#39;s a tough call. I did let him know that we&#39;re planning on a visit soon - we actually just booked the hotel this morning - and that I could help him then. Until then, well, he&#39;s got a great new TV he can still use his satellite with.&lt;/p&gt;
+&lt;p&gt;He&#39;s frustrated because he&#39;s paying all this money for DirecTV and really all he needs is.... Yeah. No comment.&lt;/p&gt;
+&lt;p&gt;We finished our conversation with a couple of tales about some former friends he&#39;s had, both of which kind of relate to feeling like time party of which is being taken for granted. That thought just kind of popped into my head now and the more I think about, the truer it is. My Dad, love him, sometimes needs to know how to say &amp;quot;no&amp;quot;.&lt;/p&gt;
+&lt;p&gt;From one individual who keeps using him as the one and only emergency contact, who does and does not want help even when her health and well being are at risk, to the old friend who&#39;s gone blind and literally cannot see that the one person who has been there to take him to appointments and out for errands and beers and whatever else... My Dad&#39;s been pretty giving. It&#39;s tough to sit there and listen to someone complain about not having anyone that cares, when there is someone right next to you who does.&lt;/p&gt;
+&lt;p&gt;Sometimes you&#39;re just done.&lt;/p&gt;
+&lt;p&gt;He can be really, really good at cutting you off - but it&#39;s tough to do that for people that you care for and have been friends with for decades.&lt;/p&gt;
+&lt;p&gt;I don&#39;t know where I was going, necessary, with this rambling story. But I figure it&#39;s yet more of my life to get out there. It&#39;s part of what makes me, me.&lt;/p&gt;
+&lt;p&gt;This is post 80/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>It&#39;s a start - Growing up</title>
     <link href="https://shanewrogers.lol/posts/its-a-start-growing-up/" />
@@ -162,17 +185,6 @@
 &lt;p&gt;Overall though, I do kinda like the new device. I&#39;ve been a Google Pixel user and disciple since the OG XL, so it&#39;s a little different to be away and on the Samsung 25 Ultra train.&lt;/p&gt;
 &lt;p&gt;I do like the stylus though, haven&#39;t had one of those since the Note 7. Which I did not have very long.&lt;/p&gt;
 &lt;p&gt;This is post 72/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Just a quick note</title>
-    <link href="https://shanewrogers.lol/posts/just-a-quick-note/" />
-    <updated>2025-02-12T18:13:54Z</updated>
-    <id>https://shanewrogers.lol/posts/just-a-quick-note/</id>
-    <content type="html">&lt;p&gt;Still doing some final checks and balances on things around these parts.&lt;/p&gt;
-&lt;p&gt;I noticed that, for some reason, that old &amp;quot;holiday&amp;quot; post decided to show up in the feed and echofeed grabbed it as well. Not sure what that was about.&lt;/p&gt;
-&lt;p&gt;I do know that I had to redo the git repo, again, seeing as how Zettel Notes still had an older version and, with the merge settings I have, happily forced up the older branch. Sigh.&lt;/p&gt;
-&lt;p&gt;All right. Let&#39;s see how this one pops up!&lt;/p&gt;
 </content>
   </entry>
 </feed>
