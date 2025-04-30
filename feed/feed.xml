@@ -5,11 +5,32 @@
   <subtitle>Just some place for me to write some things.</subtitle>
   <link href="https://shanewrogers.lol/feed/feed.xml" rel="self" />
   <link href="https://shanewrogers.lol/" />
-  <updated>2025-04-25T16:11:41Z</updated>
+  <updated>2025-04-30T17:03:06Z</updated>
   <id>https://shanewrogers.lol/</id>
   <author>
     <name>Shane Rogers</name>
   </author>
+  <entry>
+    <title>Did you expect an update?</title>
+    <link href="https://shanewrogers.lol/posts/did-you-expect-an-update/" />
+    <updated>2025-04-30T17:03:06Z</updated>
+    <id>https://shanewrogers.lol/posts/did-you-expect-an-update/</id>
+    <content type="html">&lt;p&gt;The title of this particular entry, &lt;em&gt;Did you expect an update?&lt;/em&gt;, is kind of a funny one to me because of some recent experiences that we&#39;ve been having with a certain vendor at work.&lt;/p&gt;
+&lt;p&gt;Working with vendors and being at the mercy of their support system - or lack thereof in some cases - really kind of sucks sometimes. We&#39;ve got a handful of them that we have to deal with on a daily basis and some of them are certainly better than others. At least they are before they get bought up by an even larger suckier vendor.&lt;/p&gt;
+&lt;p&gt;One of our products is &lt;em&gt;SaaS&lt;/em&gt;, &lt;em&gt;IaaS&lt;/em&gt; and all that jazz. It&#39;s great when it works, not so much when it doesn&#39;t. Naturally there aren&#39;t a whole lot of logging options on these things, so we kinda just have to roll with the punches on what can be done.&lt;/p&gt;
+&lt;p&gt;This particular product has been having some intermittent, very challenging to replicate, user presentation issues. Not widespread, yet, but who the heck knows when that could happen. We decide to open up a support request. We send them the only logs that I can grab - stuff from tailing the systemd crud generated from their application we use as a bridge. These definitely show some communication issues. But again, only intermittently. Usually our people are able to wait and refresh and have things &amp;quot;fixed&amp;quot;.&lt;/p&gt;
+&lt;p&gt;I&#39;ll not go into the ordeal that ensued...but good grief it was weeks of back and forth. Eventually, after no updates from their end for quite some time (they had actually determined the problem to be a bug on their side, go figure), they patch one of our development instances. Of course, I was out when this happened and we were unable to respond and test for the last portion of that week. Then there is the weekend. Then I&#39;ve got a Monday to play catch up with everything else that happens. So I didn&#39;t get to check the status Monday.&lt;/p&gt;
+&lt;p&gt;Tuesday I go to check on it. They&#39;ve closed the request. We were not stoked about that. Not even a &amp;quot;Hey, we&#39;re getting ready to close out your request&amp;quot; email. Remind, it&#39;s perfectly okay for &lt;em&gt;them&lt;/em&gt; to go a week or more with no contact. We fire off an email to our contact rep, then I call support. Fortunately it was not too challenging to get it re-opened. Just far too many hoops to jump through.&lt;/p&gt;
+&lt;p&gt;After that, we request that they send the patch to our main testing instance.&lt;/p&gt;
+&lt;p&gt;&amp;quot;Well, we&#39;ve just bundled that up into the next big overall patch that will be pushed so you&#39;ll get it then.&amp;quot; Fine. Just don&#39;t close the damn support ticket until after that, which doesn&#39;t happen for a week or so.&lt;/p&gt;
+&lt;p&gt;Guess what they attempted to do? I&#39;ll give you three guesses and the first two don&#39;t count.&lt;/p&gt;
+&lt;p&gt;At least this time I did receive an email letting me know that a solution had been offered. The hell it was, I think. We haven&#39;t even had the chance to &lt;strong&gt;test&lt;/strong&gt; the patch since it&#39;s not been patched at this point. FFS.&lt;/p&gt;
+&lt;p&gt;So, yeah. They kind of expect updates for absolutely no reason whatsoever. I&#39;m tempted to update the damn thing on the daily just for shits and giggles. I&#39;m not, though.&lt;/p&gt;
+&lt;p&gt;I do imagine that for those of you out there who deal with vendor support probably have similar experiences. It is what it is.&lt;/p&gt;
+&lt;p&gt;And yeah, I know that none of you actually expect an update from me.&lt;/p&gt;
+&lt;p&gt;This is post 86/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Some notes of the week?</title>
     <link href="https://shanewrogers.lol/posts/some-notes-of-the-week/" />
@@ -183,29 +204,6 @@
 &lt;p&gt;I don&#39;t think there was anything to worry about. Everything seemed to go all right.&lt;/p&gt;
 &lt;p&gt;However, all said - I think next year we&#39;ll just do something like a Dave and Busters, or maybe something downtown if that&#39;s an option. I think it might be just as, um, &amp;quot;cheap&amp;quot;.&lt;/p&gt;
 &lt;p&gt;This is post 77/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>Found the NAS, and moving day.</title>
-    <link href="https://shanewrogers.lol/posts/found-the-nas-and-moving-day/" />
-    <updated>2025-03-02T14:35:16Z</updated>
-    <id>https://shanewrogers.lol/posts/found-the-nas-and-moving-day/</id>
-    <content type="html">&lt;p&gt;Hey, I&#39;m now over 75 percent done with the current 100 Days To Offload challenge!&lt;/p&gt;
-&lt;p&gt;Now that that&#39;s out of the way... yesterday I almost thought that I had lost my Zimaboard NAS parts. I had recalled bringing the parts downstairs to look them over and get things put together. Only I needed to get an actual physical network connection.&lt;/p&gt;
-&lt;p&gt;So I put them away until I could figure something out. In what I&#39;m sure I was thinking to be a really safe place at the time.&lt;/p&gt;
-&lt;p&gt;Yesterday I was thinking, &amp;quot;Self, I haven&#39;t seen that Zima Cube thing in awhile, you should probably find that!&amp;quot;&lt;/p&gt;
-&lt;p&gt;Evidently, I had placed it in about the safest place one could have done so: somewhere I had no idea where that might have been. Which was hilarious.&lt;/p&gt;
-&lt;p&gt;Just before bed, I&#39;m standing in our room, looking at the bookshelf that I had put in a few months ago and already filled up. I see this short cardboard box.&lt;/p&gt;
-&lt;p&gt;Now, to be fair I had seen and known this was there before. Thing is, I had thought that the box everything was in was larger. You know where this is going.&lt;/p&gt;
-&lt;p&gt;Medium story short, I found my Zima NAS parts! Along with the pair of 12TB (I think) drives that I got for it. Whew.&lt;/p&gt;
-&lt;h3 id=&quot;moving-day&quot;&gt;Moving day&lt;/h3&gt;
-&lt;p&gt;Yesterday, our oldest kiddo and his partner moved into a new apartment. We weren&#39;t able to help them as much as we would have liked to, due to missed communication, but at least we did get there in time to move some heavy arsed couch and dresser.&lt;/p&gt;
-&lt;p&gt;Poor kid was limping pretty well when we got there, I&#39;m hoping he had a good night&#39;s sleep.&lt;/p&gt;
-&lt;p&gt;We were able to have them over to our house last night as well for dinner, which is always good. He had lived with us for, I think, about a year at this point. Maybe. We&#39;ll miss having him around.&lt;/p&gt;
-&lt;p&gt;We did get them a, hopefully, nice coffeemaker and some mugs. Then, last night I was thinking that I&#39;d love to give them a bag of our coffee... Which must mean that I really, really love those kids. 😂&lt;/p&gt;
-&lt;p&gt;Ah well, I think we&#39;re good for now.&lt;/p&gt;
-&lt;p&gt;Until next I put fingers to keyboard.&lt;/p&gt;
-&lt;p&gt;This is post 76/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
 </feed>
