@@ -5,11 +5,33 @@
   <subtitle>Just some place for me to write some things.</subtitle>
   <link href="https://shanewrogers.lol/feed/feed.xml" rel="self" />
   <link href="https://shanewrogers.lol/" />
-  <updated>2025-05-12T16:47:08Z</updated>
+  <updated>2025-05-14T21:19:19Z</updated>
   <id>https://shanewrogers.lol/</id>
   <author>
     <name>Shane Rogers</name>
   </author>
+  <entry>
+    <title>Antsy and Restless</title>
+    <link href="https://shanewrogers.lol/posts/antsy-and-restless/" />
+    <updated>2025-05-14T21:19:19Z</updated>
+    <id>https://shanewrogers.lol/posts/antsy-and-restless/</id>
+    <content type="html">&lt;p&gt;I really don&#39;t like it when I feel this way - all antsy and restless and just way too many things running through my head of what I want to do.&lt;/p&gt;
+&lt;p&gt;It&#39;s tough to keep track of them all.&lt;/p&gt;
+&lt;p&gt;You start to do one thing, then something new and shiny pops into your head and you make some vain, useless attempt to keep track of what that thing is. Then, when you&#39;re ready to start looking into it....everything is black. Nothing. The fleeting idea is gone.&lt;/p&gt;
+&lt;p&gt;In what I&#39;ll say is no particular order, some of the things that are on my mind at this instance in time are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Run (yet) another mailserver. I don&#39;t know why, I just do. I know it&#39;s futile, I know it&#39;s not something that would stick around for very long so it would be a pointless exercise. Though I did manage to pick up a nifty family-oriented domain name of the &lt;em&gt;dot.lol&lt;/em&gt; variety, so who knows....it kinda goes along with the next thing, which is....&lt;/li&gt;
+&lt;li&gt;Run (yet...) another federated service. Whether that be something along the lines of GoToSocial, Akkoma, Known, whatever. It would be set up for the family unit to take advantage of. Note that I have intimated that I am already &lt;em&gt;running&lt;/em&gt; federated services. I&#39;ve got an instance of GoToSocial. An instance of Known. I&#39;ve had instances of Mastodon and Friendica. Plus some other micro-styled blog that I don&#39;t recall the name of. Snac2 could be interesting as well.&lt;/li&gt;
+&lt;li&gt;Then I&#39;d also kind of like to move to a different hosted blog or service or something. I&#39;m liking Ghost, so maybe one of the cool providers that use Ghost. Then that could, eventually, take over for whatever federated system I&#39;m in. Maybe.&lt;/li&gt;
+&lt;li&gt;Of course, I still like my eleventy blog I&#39;ve got here. It&#39;s all plain text and easy to move to wherever. Plus it&#39;s cheap.&lt;/li&gt;
+&lt;li&gt;I&#39;ve got all the cruft that I still want to do with my Emacs config. Saving all the cool snippets and tips and tricks that I find everywhere. At least I&#39;ve got an org document saved in a git repo for that.&lt;/li&gt;
+&lt;li&gt;Couldn&#39;t possibly forget that &lt;em&gt;guix&lt;/em&gt; system installation that I want to get sorted out. I don&#39;t know why, besides the fact that it&#39;s flippin&#39; awesome. I&#39;ve tried &lt;em&gt;nix&lt;/em&gt; but I just couldn&#39;t get my head wrapped around that domain language. I&#39;ve kind of gotten to where I can actually grok lisp-y stuff.&lt;/li&gt;
+&lt;li&gt;Which kind of brings us into wanting to pick up more &lt;em&gt;clojure&lt;/em&gt; stuff. Not that I could ever actually learn enough of it to get employment in a clojure job, but man, that would be cool wouldn&#39;t it?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That&#39;s just the tip of the iceberg here. One of these days I&#39;ll get things figured out.&lt;/p&gt;
+&lt;p&gt;This is post 89/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Will I make it to the end?</title>
     <link href="https://shanewrogers.lol/posts/will-i-make-it-to-the-end/" />
@@ -195,27 +217,6 @@ Every time, I&#39;d just click on through and go on with my day.&lt;/p&gt;
 &lt;p&gt;He can be really, really good at cutting you off - but it&#39;s tough to do that for people that you care for and have been friends with for decades.&lt;/p&gt;
 &lt;p&gt;I don&#39;t know where I was going, necessary, with this rambling story. But I figure it&#39;s yet more of my life to get out there. It&#39;s part of what makes me, me.&lt;/p&gt;
 &lt;p&gt;This is post 80/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>It&#39;s a start - Growing up</title>
-    <link href="https://shanewrogers.lol/posts/its-a-start-growing-up/" />
-    <updated>2025-03-20T23:44:36Z</updated>
-    <id>https://shanewrogers.lol/posts/its-a-start-growing-up/</id>
-    <content type="html">&lt;p&gt;In my last post, I&#39;d said something about wanting to write more about myself. I think it had something to do with listening to a handful of random strangers talk about some of their stories and thinking that, while I may not have something that&#39;s directly relatable to the theme, I might have something that could be told.&lt;/p&gt;
-&lt;p&gt;Doesn&#39;t everybody?&lt;/p&gt;
-&lt;p&gt;Theoretically, I should suppose.&lt;/p&gt;
-&lt;p&gt;I am a &amp;quot;cusper&amp;quot;. A child of the (extremely) late seventies and (moreso) early eighties. I could prefix those with &amp;quot;nineteen-&amp;quot;, but just the thought of that makes me feel strange.&lt;/p&gt;
-&lt;p&gt;While there was the existence of something that would become the Internet while I was growing up, I would never personally encounter the online world until well into high school. Personal computers were not a thing that every household had. Phones were hard wired to a wall and some even had rotary dials on them.&lt;/p&gt;
-&lt;p&gt;Some people had remote controls for their televisions. Those were called &amp;quot;kids&amp;quot;. We did actually eventually have a television with a remote, it was kinda cool.&lt;/p&gt;
-&lt;p&gt;I grew up in a really cool time. We spent a lot of time outside playing. A lot of time with friends. I don&#39;t dislike my childhood, but I do think it was a unique time in history. I&#39;m glad that I am not maturing during the current timeframe. I witnessed the growth of technology. For better or for worse.&lt;/p&gt;
-&lt;p&gt;My childhood was split between a small, unincorporated town and an old lead infested mining town. I think I have memories when we moved into the home that my parents purchased, but memory is a fuzzy thing. A small three bedroom, one bath ranch style home, situated on a corner section of what everyone fondly referred to as &amp;quot;the block.&amp;quot; More of an oblong rectangle, less of a square block.&lt;/p&gt;
-&lt;p&gt;We had what seemed like a fairly large large, complete with chain link fence.  The majority of the homes in the neighborhood were similar, though they weren&#39;t actually the cookie cutter style of today&#39;s prefabricated HOA locales. The thought that some homes could even have more than one toilet, or heck even an complete extra bathroom, had never ever entered my thoughts. We just made do. Which isn&#39;t too difficult when you&#39;re only a family of three.&lt;/p&gt;
-&lt;p&gt;Of course, we didn&#39;t live there very long. At least, not as a whole family.&lt;/p&gt;
-&lt;p&gt;My parents say, even to this day, that they love each other. That&#39;s hard to believe. They were divorced by the time I was in fifth or sixth grade. Fifth I think. By then, I was in the custody of my father and we were in another town.&lt;/p&gt;
-&lt;p&gt;A new school, different friends, more to tell.&lt;/p&gt;
-&lt;p&gt;For later. Plus, more backstory.&lt;/p&gt;
-&lt;p&gt;This is post 79/100 of my #100DaysToOffload posts. You can read the other posts in this series &lt;a href=&quot;https://shanewrogers.lol/tags/100daystooffload&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
 </content>
   </entry>
 </feed>
